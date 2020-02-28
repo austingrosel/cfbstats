@@ -45,6 +45,8 @@ for this_season in seasons:
     total_records = total_records.append(total_season_records)
 
 total_records = total_records.reset_index(drop=True)
+total_records['id'] = total_records.id.astype(int)
+
 s = (time.time() - data_start)/60.0
 print('*** Getting the data from the API took %.1f minutes. ***' % s)
 
@@ -58,8 +60,7 @@ team_stats_pass = build_skill_stat_dataframe(total_records, 'pass', team_level=T
 team_stats_def = build_defensive_dataframe(total_records, True)
 
 dfs = [total_records, team_stats_pass, team_stats_rush, team_stats_rec, team_stats_def]
-total_records = reduce(lambda left, right: pd.merge(left, right, on=['season', 'game.id', 'game.teams.school'], how='outer'), dfs)
-total_records['id'] = total_records.id.astype(int)
+total_records = reduce(lambda left, right: pd.merge(left, right, on=['season', 'game.id', 'game.teams.school'], how='outer'), dfs).fillna(0)
 
 ##############################
 ### BUILD INDIVIDUAL STATS ###

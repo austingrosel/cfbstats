@@ -60,7 +60,7 @@ def build_defensive_dataframe(df, team_level):
         df = df.rename(columns=lambda x: re.sub('stat','def',x))
         df = df.rename(columns={'games':'def_games'})
     else:
-        df = def_df.merge(int_df, on=['season', 'game.id', 'game.teams.school'], how='inner').fillna(0)
+        df = def_df.merge(int_df, on=['season', 'game.id', 'game.teams.school'], how='outer').fillna(0)
         df = df.rename(columns=lambda x: re.sub('stat','team_def', x))
 
     return df
