@@ -33,31 +33,36 @@ if not os.path.exists('data/season_stats/'):
 if not os.path.exists('data/cum_stats/'):
     os.makedirs('data/cum_stats/')
 
-#total_records = pd.DataFrame()
 for this_season in seasons:
     total_season_records = pd.DataFrame()
     print(this_season)
     for this_season_type in ['regular', 'postseason']:
         response = requests.get("https://api.collegefootballdata.com/games", params = {"year":this_season, 'seasonType': this_season_type})
         games = pd.read_json(response.text)
+        if len(games) == 0:
+          print('*** Could not get games for season: {}, seasonType: {}.'.format(this_season, this_season_type))
+          continue
         if this_season_type == 'postseason':
             games = games[games.week < 3]
         total_week_records = pd.DataFrame()
         for this_week in games.week.unique():
             response = requests.get("https://api.collegefootballdata.com/games/players",
                                     params = {"year": this_season, "week": this_week, 'seasonType': this_season_type})
-            records = json_normalize(
-                response.json(),
-                ['teams', 'categories', 'types', 'athletes'],
-                ['id', ['teams', 'school'], ['teams', 'categories', 'name'], ['teams', 'categories', 'types', 'name']],
-                meta_prefix='game.'
-            )
-            records['season'] = this_season
-            records = records[(records.name != ' Team') & (records['name'] != 'Team') & (records['name'] != '- Team') & (records['stat'] != '--')].reset_index(drop=True)
-            total_week_records = total_week_records.append(records)
+            try:
+              records = json_normalize(
+                  response.json(),
+                  ['teams', 'categories', 'types', 'athletes'],
+                  ['id', ['teams', 'school'], ['teams', 'categories', 'name'], ['teams', 'categories', 'types', 'name']],
+                  meta_prefix='game.'
+              )
+              records['season'] = this_season
+              records = records[(records.name != ' Team') & (records['name'] != 'Team') & (records['name'] != '- Team') & (records['stat'] != '--')].reset_index(drop=True)
+              total_week_records = total_week_records.append(records)
+            except:
+              print('*** Something went wrong for season: {}, week: {}, seasonType: {}.'.format(this_season, this_week, this_season_type))
         total_season_records = total_season_records.append(total_week_records)
-        total_season_records.to_csv('data/season_stats/season_stats_{}.csv'.format(this_season), index=False)
-#    total_records = total_records.append(total_season_records)
+        if len(total_season_records) > 0:
+          total_season_records.to_csv('data/season_stats/season_stats_{}.csv'.format(this_season), index=False)
 
 total_records = pd.concat(map(pd.read_csv, glob.glob(os.path.join('', "data/season_stats/*.csv")))).reset_index(drop=True)
 
