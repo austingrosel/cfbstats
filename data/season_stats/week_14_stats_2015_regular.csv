@@ -1,0 +1,2704 @@
+,id,name,stat,game.id,game.teams.school,game.teams.categories.name,game.teams.categories.types.name,season
+0,535844,C.J. Beathard,18/26,400852682,Iowa,passing,C/ATT,2015
+1,535844,C.J. Beathard,216,400852682,Iowa,passing,YDS,2015
+2,535844,C.J. Beathard,8.3,400852682,Iowa,passing,AVG,2015
+3,535844,C.J. Beathard,1,400852682,Iowa,passing,TD,2015
+4,535844,C.J. Beathard,1,400852682,Iowa,passing,INT,2015
+5,535844,C.J. Beathard,40.9,400852682,Iowa,passing,QBR,2015
+6,545444,Derrick Mitchell Jr.,4,400852682,Iowa,rushing,CAR,2015
+7,545373,LeShun Daniels Jr.,8,400852682,Iowa,rushing,CAR,2015
+8,545423,Akrum Wadley,5,400852682,Iowa,rushing,CAR,2015
+9,518391,Jordan Canzeri,2,400852682,Iowa,rushing,CAR,2015
+10,535844,C.J. Beathard,5,400852682,Iowa,rushing,CAR,2015
+11,545444,Derrick Mitchell Jr.,24,400852682,Iowa,rushing,YDS,2015
+12,545373,LeShun Daniels Jr.,17,400852682,Iowa,rushing,YDS,2015
+13,545423,Akrum Wadley,14,400852682,Iowa,rushing,YDS,2015
+14,518391,Jordan Canzeri,12,400852682,Iowa,rushing,YDS,2015
+15,535844,C.J. Beathard,-15,400852682,Iowa,rushing,YDS,2015
+16,545444,Derrick Mitchell Jr.,6.0,400852682,Iowa,rushing,AVG,2015
+17,545373,LeShun Daniels Jr.,2.1,400852682,Iowa,rushing,AVG,2015
+18,545423,Akrum Wadley,2.8,400852682,Iowa,rushing,AVG,2015
+19,518391,Jordan Canzeri,6.0,400852682,Iowa,rushing,AVG,2015
+20,535844,C.J. Beathard,-3.0,400852682,Iowa,rushing,AVG,2015
+21,545444,Derrick Mitchell Jr.,0,400852682,Iowa,rushing,TD,2015
+22,545373,LeShun Daniels Jr.,0,400852682,Iowa,rushing,TD,2015
+23,545423,Akrum Wadley,0,400852682,Iowa,rushing,TD,2015
+24,518391,Jordan Canzeri,0,400852682,Iowa,rushing,TD,2015
+25,535844,C.J. Beathard,0,400852682,Iowa,rushing,TD,2015
+26,545444,Derrick Mitchell Jr.,14,400852682,Iowa,rushing,LONG,2015
+27,545373,LeShun Daniels Jr.,4,400852682,Iowa,rushing,LONG,2015
+28,545423,Akrum Wadley,7,400852682,Iowa,rushing,LONG,2015
+29,518391,Jordan Canzeri,9,400852682,Iowa,rushing,LONG,2015
+30,535844,C.J. Beathard,8,400852682,Iowa,rushing,LONG,2015
+31,535831,Tevaun Smith,5,400852682,Iowa,receiving,REC,2015
+32,545423,Akrum Wadley,3,400852682,Iowa,receiving,REC,2015
+33,545428,George Kittle,2,400852682,Iowa,receiving,REC,2015
+34,3144999,Henry Krieger-Coble,3,400852682,Iowa,receiving,REC,2015
+35,554889,Matt VandeBerg,2,400852682,Iowa,receiving,REC,2015
+36,518413,Jacob Hillyer,1,400852682,Iowa,receiving,REC,2015
+37,545444,Derrick Mitchell Jr.,2,400852682,Iowa,receiving,REC,2015
+38,535831,Tevaun Smith,110,400852682,Iowa,receiving,YDS,2015
+39,545423,Akrum Wadley,34,400852682,Iowa,receiving,YDS,2015
+40,545428,George Kittle,26,400852682,Iowa,receiving,YDS,2015
+41,3144999,Henry Krieger-Coble,23,400852682,Iowa,receiving,YDS,2015
+42,554889,Matt VandeBerg,14,400852682,Iowa,receiving,YDS,2015
+43,518413,Jacob Hillyer,8,400852682,Iowa,receiving,YDS,2015
+44,545444,Derrick Mitchell Jr.,1,400852682,Iowa,receiving,YDS,2015
+45,535831,Tevaun Smith,22.0,400852682,Iowa,receiving,AVG,2015
+46,545423,Akrum Wadley,11.3,400852682,Iowa,receiving,AVG,2015
+47,545428,George Kittle,13.0,400852682,Iowa,receiving,AVG,2015
+48,3144999,Henry Krieger-Coble,7.7,400852682,Iowa,receiving,AVG,2015
+49,554889,Matt VandeBerg,7.0,400852682,Iowa,receiving,AVG,2015
+50,518413,Jacob Hillyer,8.0,400852682,Iowa,receiving,AVG,2015
+51,545444,Derrick Mitchell Jr.,0.5,400852682,Iowa,receiving,AVG,2015
+52,535831,Tevaun Smith,1,400852682,Iowa,receiving,TD,2015
+53,545423,Akrum Wadley,0,400852682,Iowa,receiving,TD,2015
+54,545428,George Kittle,0,400852682,Iowa,receiving,TD,2015
+55,3144999,Henry Krieger-Coble,0,400852682,Iowa,receiving,TD,2015
+56,554889,Matt VandeBerg,0,400852682,Iowa,receiving,TD,2015
+57,518413,Jacob Hillyer,0,400852682,Iowa,receiving,TD,2015
+58,545444,Derrick Mitchell Jr.,0,400852682,Iowa,receiving,TD,2015
+59,535831,Tevaun Smith,85,400852682,Iowa,receiving,LONG,2015
+60,545423,Akrum Wadley,16,400852682,Iowa,receiving,LONG,2015
+61,545428,George Kittle,20,400852682,Iowa,receiving,LONG,2015
+62,3144999,Henry Krieger-Coble,9,400852682,Iowa,receiving,LONG,2015
+63,554889,Matt VandeBerg,12,400852682,Iowa,receiving,LONG,2015
+64,518413,Jacob Hillyer,8,400852682,Iowa,receiving,LONG,2015
+65,545444,Derrick Mitchell Jr.,1,400852682,Iowa,receiving,LONG,2015
+66,545427,Josey Jewell,1,400852682,Iowa,interceptions,INT,2015
+67,545427,Josey Jewell,4,400852682,Iowa,interceptions,YDS,2015
+68,545427,Josey Jewell,0,400852682,Iowa,interceptions,TD,2015
+69,545375,Desmond King,2,400852682,Iowa,kickReturns,NO,2015
+70,545375,Desmond King,52,400852682,Iowa,kickReturns,YDS,2015
+71,545375,Desmond King,26.0,400852682,Iowa,kickReturns,AVG,2015
+72,545375,Desmond King,27,400852682,Iowa,kickReturns,LONG,2015
+73,545375,Desmond King,0,400852682,Iowa,kickReturns,TD,2015
+74,545375,Desmond King,1,400852682,Iowa,puntReturns,NO,2015
+75,545375,Desmond King,4,400852682,Iowa,puntReturns,YDS,2015
+76,545375,Desmond King,4.0,400852682,Iowa,puntReturns,AVG,2015
+77,545375,Desmond King,4,400852682,Iowa,puntReturns,LONG,2015
+78,545375,Desmond King,0,400852682,Iowa,puntReturns,TD,2015
+79,518375,Marshall Koehn,2/2,400852682,Iowa,kicking,FG,2015
+80,518375,Marshall Koehn,100.0,400852682,Iowa,kicking,PCT,2015
+81,518375,Marshall Koehn,43,400852682,Iowa,kicking,LONG,2015
+82,518375,Marshall Koehn,1/1,400852682,Iowa,kicking,XP,2015
+83,518375,Marshall Koehn,7,400852682,Iowa,kicking,PTS,2015
+84,513015,Dillon Kidd,5,400852682,Iowa,punting,NO,2015
+85,513015,Dillon Kidd,178,400852682,Iowa,punting,YDS,2015
+86,513015,Dillon Kidd,35.6,400852682,Iowa,punting,AVG,2015
+87,513015,Dillon Kidd,0,400852682,Iowa,punting,TB,2015
+88,513015,Dillon Kidd,0,400852682,Iowa,punting,In 20,2015
+89,513015,Dillon Kidd,48,400852682,Iowa,punting,LONG,2015
+90,512705,Connor Cook,16/32,400852682,Michigan State,passing,C/ATT,2015
+91,512705,Connor Cook,191,400852682,Michigan State,passing,YDS,2015
+92,512705,Connor Cook,6.0,400852682,Michigan State,passing,AVG,2015
+93,512705,Connor Cook,0,400852682,Michigan State,passing,TD,2015
+94,512705,Connor Cook,1,400852682,Michigan State,passing,INT,2015
+95,512705,Connor Cook,32.7,400852682,Michigan State,passing,QBR,2015
+96,3929828,LJ Scott,22,400852682,Michigan State,rushing,CAR,2015
+97,3134678,Madre London,12,400852682,Michigan State,rushing,CAR,2015
+98,550476,R.J. Shelton,3,400852682,Michigan State,rushing,CAR,2015
+99,550468,Gerald Holmes,3,400852682,Michigan State,rushing,CAR,2015
+100,512705,Connor Cook,5,400852682,Michigan State,rushing,CAR,2015
+101,535857,Aaron Burbridge,1,400852682,Michigan State,rushing,CAR,2015
+102,3929828,LJ Scott,73,400852682,Michigan State,rushing,YDS,2015
+103,3134678,Madre London,60,400852682,Michigan State,rushing,YDS,2015
+104,550476,R.J. Shelton,15,400852682,Michigan State,rushing,YDS,2015
+105,550468,Gerald Holmes,13,400852682,Michigan State,rushing,YDS,2015
+106,512705,Connor Cook,8,400852682,Michigan State,rushing,YDS,2015
+107,535857,Aaron Burbridge,5,400852682,Michigan State,rushing,YDS,2015
+108,3929828,LJ Scott,3.3,400852682,Michigan State,rushing,AVG,2015
+109,3134678,Madre London,5.0,400852682,Michigan State,rushing,AVG,2015
+110,550476,R.J. Shelton,5.0,400852682,Michigan State,rushing,AVG,2015
+111,550468,Gerald Holmes,4.3,400852682,Michigan State,rushing,AVG,2015
+112,512705,Connor Cook,1.6,400852682,Michigan State,rushing,AVG,2015
+113,535857,Aaron Burbridge,5.0,400852682,Michigan State,rushing,AVG,2015
+114,3929828,LJ Scott,1,400852682,Michigan State,rushing,TD,2015
+115,3134678,Madre London,0,400852682,Michigan State,rushing,TD,2015
+116,550476,R.J. Shelton,0,400852682,Michigan State,rushing,TD,2015
+117,550468,Gerald Holmes,0,400852682,Michigan State,rushing,TD,2015
+118,512705,Connor Cook,0,400852682,Michigan State,rushing,TD,2015
+119,535857,Aaron Burbridge,0,400852682,Michigan State,rushing,TD,2015
+120,3929828,LJ Scott,10,400852682,Michigan State,rushing,LONG,2015
+121,3134678,Madre London,12,400852682,Michigan State,rushing,LONG,2015
+122,550476,R.J. Shelton,10,400852682,Michigan State,rushing,LONG,2015
+123,550468,Gerald Holmes,10,400852682,Michigan State,rushing,LONG,2015
+124,512705,Connor Cook,9,400852682,Michigan State,rushing,LONG,2015
+125,535857,Aaron Burbridge,5,400852682,Michigan State,rushing,LONG,2015
+126,535857,Aaron Burbridge,5,400852682,Michigan State,receiving,REC,2015
+127,550476,R.J. Shelton,3,400852682,Michigan State,receiving,REC,2015
+128,535869,Macgarrett Kings Jr.,4,400852682,Michigan State,receiving,REC,2015
+129,3929817,Felton Davis III,1,400852682,Michigan State,receiving,REC,2015
+130,512716,Paul Lang,1,400852682,Michigan State,receiving,REC,2015
+131,3134678,Madre London,1,400852682,Michigan State,receiving,REC,2015
+132,535580,Josiah Price,1,400852682,Michigan State,receiving,REC,2015
+133,535857,Aaron Burbridge,61,400852682,Michigan State,receiving,YDS,2015
+134,550476,R.J. Shelton,34,400852682,Michigan State,receiving,YDS,2015
+135,535869,Macgarrett Kings Jr.,30,400852682,Michigan State,receiving,YDS,2015
+136,3929817,Felton Davis III,22,400852682,Michigan State,receiving,YDS,2015
+137,512716,Paul Lang,17,400852682,Michigan State,receiving,YDS,2015
+138,3134678,Madre London,14,400852682,Michigan State,receiving,YDS,2015
+139,535580,Josiah Price,13,400852682,Michigan State,receiving,YDS,2015
+140,535857,Aaron Burbridge,12.2,400852682,Michigan State,receiving,AVG,2015
+141,550476,R.J. Shelton,11.3,400852682,Michigan State,receiving,AVG,2015
+142,535869,Macgarrett Kings Jr.,7.5,400852682,Michigan State,receiving,AVG,2015
+143,3929817,Felton Davis III,22.0,400852682,Michigan State,receiving,AVG,2015
+144,512716,Paul Lang,17.0,400852682,Michigan State,receiving,AVG,2015
+145,3134678,Madre London,14.0,400852682,Michigan State,receiving,AVG,2015
+146,535580,Josiah Price,13.0,400852682,Michigan State,receiving,AVG,2015
+147,535857,Aaron Burbridge,0,400852682,Michigan State,receiving,TD,2015
+148,550476,R.J. Shelton,0,400852682,Michigan State,receiving,TD,2015
+149,535869,Macgarrett Kings Jr.,0,400852682,Michigan State,receiving,TD,2015
+150,3929817,Felton Davis III,0,400852682,Michigan State,receiving,TD,2015
+151,512716,Paul Lang,0,400852682,Michigan State,receiving,TD,2015
+152,3134678,Madre London,0,400852682,Michigan State,receiving,TD,2015
+153,535580,Josiah Price,0,400852682,Michigan State,receiving,TD,2015
+154,535857,Aaron Burbridge,16,400852682,Michigan State,receiving,LONG,2015
+155,550476,R.J. Shelton,17,400852682,Michigan State,receiving,LONG,2015
+156,535869,Macgarrett Kings Jr.,18,400852682,Michigan State,receiving,LONG,2015
+157,3929817,Felton Davis III,22,400852682,Michigan State,receiving,LONG,2015
+158,512716,Paul Lang,17,400852682,Michigan State,receiving,LONG,2015
+159,3134678,Madre London,14,400852682,Michigan State,receiving,LONG,2015
+160,535580,Josiah Price,13,400852682,Michigan State,receiving,LONG,2015
+161,535859,Demetrious Cox,1,400852682,Michigan State,interceptions,INT,2015
+162,535859,Demetrious Cox,0,400852682,Michigan State,interceptions,YDS,2015
+163,535859,Demetrious Cox,0,400852682,Michigan State,interceptions,TD,2015
+164,550465,Michael Geiger,3/5,400852682,Michigan State,kicking,FG,2015
+165,550465,Michael Geiger,60.0,400852682,Michigan State,kicking,PCT,2015
+166,550465,Michael Geiger,47,400852682,Michigan State,kicking,LONG,2015
+167,550465,Michael Geiger,1/1,400852682,Michigan State,kicking,XP,2015
+168,550465,Michael Geiger,10,400852682,Michigan State,kicking,PTS,2015
+169,3134676,Jake Hartbarger,4,400852682,Michigan State,punting,NO,2015
+170,3134676,Jake Hartbarger,163,400852682,Michigan State,punting,YDS,2015
+171,3134676,Jake Hartbarger,40.8,400852682,Michigan State,punting,AVG,2015
+172,3134676,Jake Hartbarger,0,400852682,Michigan State,punting,TB,2015
+173,3134676,Jake Hartbarger,0,400852682,Michigan State,punting,In 20,2015
+174,3134676,Jake Hartbarger,61,400852682,Michigan State,punting,LONG,2015
+175,3122840,Deshaun Watson,26/42,400852676,Clemson,passing,C/ATT,2015
+176,3122840,Deshaun Watson,289,400852676,Clemson,passing,YDS,2015
+177,3122840,Deshaun Watson,6.9,400852676,Clemson,passing,AVG,2015
+178,3122840,Deshaun Watson,3,400852676,Clemson,passing,TD,2015
+179,3122840,Deshaun Watson,1,400852676,Clemson,passing,INT,2015
+180,3122840,Deshaun Watson,79.1,400852676,Clemson,passing,QBR,2015
+181,546633,Wayne Gallman,28,400852676,Clemson,rushing,CAR,2015
+182,3122840,Deshaun Watson,24,400852676,Clemson,rushing,CAR,2015
+183,546645,Andy Teasdall,1,400852676,Clemson,rushing,CAR,2015
+184,534582,Zac Brooks,1,400852676,Clemson,rushing,CAR,2015
+185,546633,Wayne Gallman,187,400852676,Clemson,rushing,YDS,2015
+186,3122840,Deshaun Watson,131,400852676,Clemson,rushing,YDS,2015
+187,546645,Andy Teasdall,4,400852676,Clemson,rushing,YDS,2015
+188,534582,Zac Brooks,1,400852676,Clemson,rushing,YDS,2015
+189,546633,Wayne Gallman,6.7,400852676,Clemson,rushing,AVG,2015
+190,3122840,Deshaun Watson,5.5,400852676,Clemson,rushing,AVG,2015
+191,546645,Andy Teasdall,4.0,400852676,Clemson,rushing,AVG,2015
+192,534582,Zac Brooks,1.0,400852676,Clemson,rushing,AVG,2015
+193,546633,Wayne Gallman,1,400852676,Clemson,rushing,TD,2015
+194,3122840,Deshaun Watson,2,400852676,Clemson,rushing,TD,2015
+195,546645,Andy Teasdall,0,400852676,Clemson,rushing,TD,2015
+196,534582,Zac Brooks,0,400852676,Clemson,rushing,TD,2015
+197,546633,Wayne Gallman,31,400852676,Clemson,rushing,LONG,2015
+198,3122840,Deshaun Watson,33,400852676,Clemson,rushing,LONG,2015
+199,546645,Andy Teasdall,4,400852676,Clemson,rushing,LONG,2015
+200,534582,Zac Brooks,1,400852676,Clemson,rushing,LONG,2015
+201,3122839,Artavis Scott,7,400852676,Clemson,receiving,REC,2015
+202,546633,Wayne Gallman,4,400852676,Clemson,receiving,REC,2015
+203,511213,Charone Peake,4,400852676,Clemson,receiving,REC,2015
+204,3728262,Ray-Ray McCloud,3,400852676,Clemson,receiving,REC,2015
+205,546740,Jordan Leggett,3,400852676,Clemson,receiving,REC,2015
+206,3135321,Hunter Renfrow,3,400852676,Clemson,receiving,REC,2015
+207,3728254,Deon Cain,2,400852676,Clemson,receiving,REC,2015
+208,3122839,Artavis Scott,96,400852676,Clemson,receiving,YDS,2015
+209,546633,Wayne Gallman,68,400852676,Clemson,receiving,YDS,2015
+210,511213,Charone Peake,40,400852676,Clemson,receiving,YDS,2015
+211,3728262,Ray-Ray McCloud,27,400852676,Clemson,receiving,YDS,2015
+212,546740,Jordan Leggett,24,400852676,Clemson,receiving,YDS,2015
+213,3135321,Hunter Renfrow,22,400852676,Clemson,receiving,YDS,2015
+214,3728254,Deon Cain,12,400852676,Clemson,receiving,YDS,2015
+215,3122839,Artavis Scott,13.7,400852676,Clemson,receiving,AVG,2015
+216,546633,Wayne Gallman,17.0,400852676,Clemson,receiving,AVG,2015
+217,511213,Charone Peake,10.0,400852676,Clemson,receiving,AVG,2015
+218,3728262,Ray-Ray McCloud,9.0,400852676,Clemson,receiving,AVG,2015
+219,546740,Jordan Leggett,8.0,400852676,Clemson,receiving,AVG,2015
+220,3135321,Hunter Renfrow,7.3,400852676,Clemson,receiving,AVG,2015
+221,3728254,Deon Cain,6.0,400852676,Clemson,receiving,AVG,2015
+222,3122839,Artavis Scott,1,400852676,Clemson,receiving,TD,2015
+223,546633,Wayne Gallman,1,400852676,Clemson,receiving,TD,2015
+224,511213,Charone Peake,0,400852676,Clemson,receiving,TD,2015
+225,3728262,Ray-Ray McCloud,0,400852676,Clemson,receiving,TD,2015
+226,546740,Jordan Leggett,1,400852676,Clemson,receiving,TD,2015
+227,3135321,Hunter Renfrow,0,400852676,Clemson,receiving,TD,2015
+228,3728254,Deon Cain,0,400852676,Clemson,receiving,TD,2015
+229,3122839,Artavis Scott,42,400852676,Clemson,receiving,LONG,2015
+230,546633,Wayne Gallman,26,400852676,Clemson,receiving,LONG,2015
+231,511213,Charone Peake,12,400852676,Clemson,receiving,LONG,2015
+232,3728262,Ray-Ray McCloud,16,400852676,Clemson,receiving,LONG,2015
+233,546740,Jordan Leggett,13,400852676,Clemson,receiving,LONG,2015
+234,3135321,Hunter Renfrow,9,400852676,Clemson,receiving,LONG,2015
+235,3728254,Deon Cain,8,400852676,Clemson,receiving,LONG,2015
+236,546642,Cordrea Tankersley,1,400852676,Clemson,interceptions,INT,2015
+237,546642,Cordrea Tankersley,-1,400852676,Clemson,interceptions,YDS,2015
+238,546642,Cordrea Tankersley,0,400852676,Clemson,interceptions,TD,2015
+239,3122856,C.J. Fuller,4,400852676,Clemson,kickReturns,NO,2015
+240,3122856,C.J. Fuller,66,400852676,Clemson,kickReturns,YDS,2015
+241,3122856,C.J. Fuller,16.5,400852676,Clemson,kickReturns,AVG,2015
+242,3122856,C.J. Fuller,20,400852676,Clemson,kickReturns,LONG,2015
+243,3122856,C.J. Fuller,0,400852676,Clemson,kickReturns,TD,2015
+244,3122839,Artavis Scott,1,400852676,Clemson,puntReturns,NO,2015
+245,3122839,Artavis Scott,-1,400852676,Clemson,puntReturns,YDS,2015
+246,3122839,Artavis Scott,-1.0,400852676,Clemson,puntReturns,AVG,2015
+247,3122839,Artavis Scott,-1,400852676,Clemson,puntReturns,LONG,2015
+248,3122839,Artavis Scott,0,400852676,Clemson,puntReturns,TD,2015
+249,511208,Ammon Lakip,0/0,400852676,Clemson,kicking,FG,2015
+250,3931390,Greg Huegel,1/2,400852676,Clemson,kicking,FG,2015
+251,511208,Ammon Lakip,0.0,400852676,Clemson,kicking,PCT,2015
+252,3931390,Greg Huegel,50.0,400852676,Clemson,kicking,PCT,2015
+253,511208,Ammon Lakip,0,400852676,Clemson,kicking,LONG,2015
+254,3931390,Greg Huegel,27,400852676,Clemson,kicking,LONG,2015
+255,511208,Ammon Lakip,6/6,400852676,Clemson,kicking,XP,2015
+256,3931390,Greg Huegel,0/0,400852676,Clemson,kicking,XP,2015
+257,511208,Ammon Lakip,6,400852676,Clemson,kicking,PTS,2015
+258,3931390,Greg Huegel,3,400852676,Clemson,kicking,PTS,2015
+259,546645,Andy Teasdall,5,400852676,Clemson,punting,NO,2015
+260,546645,Andy Teasdall,199,400852676,Clemson,punting,YDS,2015
+261,546645,Andy Teasdall,39.8,400852676,Clemson,punting,AVG,2015
+262,546645,Andy Teasdall,0,400852676,Clemson,punting,TB,2015
+263,546645,Andy Teasdall,0,400852676,Clemson,punting,In 20,2015
+264,546645,Andy Teasdall,50,400852676,Clemson,punting,LONG,2015
+265,516347,Marquise Williams,11/33,400852676,North Carolina,passing,C/ATT,2015
+266,545238,Mitch Trubisky,1/1,400852676,North Carolina,passing,C/ATT,2015
+267,540211,Joey Mangili,0/1,400852676,North Carolina,passing,C/ATT,2015
+268,516347,Marquise Williams,224,400852676,North Carolina,passing,YDS,2015
+269,545238,Mitch Trubisky,16,400852676,North Carolina,passing,YDS,2015
+270,540211,Joey Mangili,0,400852676,North Carolina,passing,YDS,2015
+271,516347,Marquise Williams,6.8,400852676,North Carolina,passing,AVG,2015
+272,545238,Mitch Trubisky,16.0,400852676,North Carolina,passing,AVG,2015
+273,540211,Joey Mangili,0.0,400852676,North Carolina,passing,AVG,2015
+274,516347,Marquise Williams,3,400852676,North Carolina,passing,TD,2015
+275,545238,Mitch Trubisky,0,400852676,North Carolina,passing,TD,2015
+276,540211,Joey Mangili,0,400852676,North Carolina,passing,TD,2015
+277,516347,Marquise Williams,1,400852676,North Carolina,passing,INT,2015
+278,545238,Mitch Trubisky,0,400852676,North Carolina,passing,INT,2015
+279,540211,Joey Mangili,0,400852676,North Carolina,passing,INT,2015
+280,516347,Marquise Williams,27.0,400852676,North Carolina,passing,QBR,2015
+281,545238,Mitch Trubisky,98.5,400852676,North Carolina,passing,QBR,2015
+282,540211,Joey Mangili,0.0,400852676,North Carolina,passing,QBR,2015
+283,516347,Marquise Williams,17,400852676,North Carolina,rushing,CAR,2015
+284,3116690,Elijah Hood,14,400852676,North Carolina,rushing,CAR,2015
+285,545254,T.J. Logan,1,400852676,North Carolina,rushing,CAR,2015
+286,516347,Marquise Williams,81,400852676,North Carolina,rushing,YDS,2015
+287,3116690,Elijah Hood,65,400852676,North Carolina,rushing,YDS,2015
+288,545254,T.J. Logan,-4,400852676,North Carolina,rushing,YDS,2015
+289,516347,Marquise Williams,4.8,400852676,North Carolina,rushing,AVG,2015
+290,3116690,Elijah Hood,4.6,400852676,North Carolina,rushing,AVG,2015
+291,545254,T.J. Logan,-4.0,400852676,North Carolina,rushing,AVG,2015
+292,516347,Marquise Williams,1,400852676,North Carolina,rushing,TD,2015
+293,3116690,Elijah Hood,1,400852676,North Carolina,rushing,TD,2015
+294,545254,T.J. Logan,0,400852676,North Carolina,rushing,TD,2015
+295,516347,Marquise Williams,28,400852676,North Carolina,rushing,LONG,2015
+296,3116690,Elijah Hood,16,400852676,North Carolina,rushing,LONG,2015
+297,545254,T.J. Logan,0,400852676,North Carolina,rushing,LONG,2015
+298,530417,Quinshad Davis,3,400852676,North Carolina,receiving,REC,2015
+299,545254,T.J. Logan,1,400852676,North Carolina,receiving,REC,2015
+300,545256,Ryan Switzer,3,400852676,North Carolina,receiving,REC,2015
+301,540210,Mack Hollins,2,400852676,North Carolina,receiving,REC,2015
+302,3116703,Brandon Fritts,1,400852676,North Carolina,receiving,REC,2015
+303,545251,Bug Howard,1,400852676,North Carolina,receiving,REC,2015
+304,3116690,Elijah Hood,1,400852676,North Carolina,receiving,REC,2015
+305,530417,Quinshad Davis,73,400852676,North Carolina,receiving,YDS,2015
+306,545254,T.J. Logan,46,400852676,North Carolina,receiving,YDS,2015
+307,545256,Ryan Switzer,41,400852676,North Carolina,receiving,YDS,2015
+308,540210,Mack Hollins,41,400852676,North Carolina,receiving,YDS,2015
+309,3116703,Brandon Fritts,27,400852676,North Carolina,receiving,YDS,2015
+310,545251,Bug Howard,11,400852676,North Carolina,receiving,YDS,2015
+311,3116690,Elijah Hood,1,400852676,North Carolina,receiving,YDS,2015
+312,530417,Quinshad Davis,24.3,400852676,North Carolina,receiving,AVG,2015
+313,545254,T.J. Logan,46.0,400852676,North Carolina,receiving,AVG,2015
+314,545256,Ryan Switzer,13.7,400852676,North Carolina,receiving,AVG,2015
+315,540210,Mack Hollins,20.5,400852676,North Carolina,receiving,AVG,2015
+316,3116703,Brandon Fritts,27.0,400852676,North Carolina,receiving,AVG,2015
+317,545251,Bug Howard,11.0,400852676,North Carolina,receiving,AVG,2015
+318,3116690,Elijah Hood,1.0,400852676,North Carolina,receiving,AVG,2015
+319,530417,Quinshad Davis,0,400852676,North Carolina,receiving,TD,2015
+320,545254,T.J. Logan,1,400852676,North Carolina,receiving,TD,2015
+321,545256,Ryan Switzer,2,400852676,North Carolina,receiving,TD,2015
+322,540210,Mack Hollins,0,400852676,North Carolina,receiving,TD,2015
+323,3116703,Brandon Fritts,0,400852676,North Carolina,receiving,TD,2015
+324,545251,Bug Howard,0,400852676,North Carolina,receiving,TD,2015
+325,3116690,Elijah Hood,0,400852676,North Carolina,receiving,TD,2015
+326,530417,Quinshad Davis,40,400852676,North Carolina,receiving,LONG,2015
+327,545254,T.J. Logan,46,400852676,North Carolina,receiving,LONG,2015
+328,545256,Ryan Switzer,21,400852676,North Carolina,receiving,LONG,2015
+329,540210,Mack Hollins,25,400852676,North Carolina,receiving,LONG,2015
+330,3116703,Brandon Fritts,27,400852676,North Carolina,receiving,LONG,2015
+331,545251,Bug Howard,11,400852676,North Carolina,receiving,LONG,2015
+332,3116690,Elijah Hood,1,400852676,North Carolina,receiving,LONG,2015
+333,545252,Nazair Jones,1,400852676,North Carolina,interceptions,INT,2015
+334,545252,Nazair Jones,0,400852676,North Carolina,interceptions,YDS,2015
+335,545252,Nazair Jones,0,400852676,North Carolina,interceptions,TD,2015
+336,545254,T.J. Logan,4,400852676,North Carolina,kickReturns,NO,2015
+337,516335,Romar Morris,1,400852676,North Carolina,kickReturns,NO,2015
+338,530426,Dan Mastromatteo,1,400852676,North Carolina,kickReturns,NO,2015
+339,545254,T.J. Logan,95,400852676,North Carolina,kickReturns,YDS,2015
+340,516335,Romar Morris,12,400852676,North Carolina,kickReturns,YDS,2015
+341,530426,Dan Mastromatteo,3,400852676,North Carolina,kickReturns,YDS,2015
+342,545254,T.J. Logan,23.8,400852676,North Carolina,kickReturns,AVG,2015
+343,516335,Romar Morris,12.0,400852676,North Carolina,kickReturns,AVG,2015
+344,530426,Dan Mastromatteo,3.0,400852676,North Carolina,kickReturns,AVG,2015
+345,545254,T.J. Logan,32,400852676,North Carolina,kickReturns,LONG,2015
+346,516335,Romar Morris,12,400852676,North Carolina,kickReturns,LONG,2015
+347,530426,Dan Mastromatteo,3,400852676,North Carolina,kickReturns,LONG,2015
+348,545254,T.J. Logan,0,400852676,North Carolina,kickReturns,TD,2015
+349,516335,Romar Morris,0,400852676,North Carolina,kickReturns,TD,2015
+350,530426,Dan Mastromatteo,0,400852676,North Carolina,kickReturns,TD,2015
+351,545256,Ryan Switzer,2,400852676,North Carolina,puntReturns,NO,2015
+352,545256,Ryan Switzer,29,400852676,North Carolina,puntReturns,YDS,2015
+353,545256,Ryan Switzer,14.5,400852676,North Carolina,puntReturns,AVG,2015
+354,545256,Ryan Switzer,29,400852676,North Carolina,puntReturns,LONG,2015
+355,545256,Ryan Switzer,0,400852676,North Carolina,puntReturns,TD,2015
+356,540214,Nick Weiler,1/1,400852676,North Carolina,kicking,FG,2015
+357,540214,Nick Weiler,100.0,400852676,North Carolina,kicking,PCT,2015
+358,540214,Nick Weiler,30,400852676,North Carolina,kicking,LONG,2015
+359,540214,Nick Weiler,4/4,400852676,North Carolina,kicking,XP,2015
+360,540214,Nick Weiler,7,400852676,North Carolina,kicking,PTS,2015
+361,540211,Joey Mangili,6,400852676,North Carolina,punting,NO,2015
+362,540211,Joey Mangili,249,400852676,North Carolina,punting,YDS,2015
+363,540211,Joey Mangili,41.5,400852676,North Carolina,punting,AVG,2015
+364,540211,Joey Mangili,0,400852676,North Carolina,punting,TB,2015
+365,540211,Joey Mangili,0,400852676,North Carolina,punting,In 20,2015
+366,540211,Joey Mangili,51,400852676,North Carolina,punting,LONG,2015
+367,516357,Kevin Hogan,9/12,400852677,Stanford,passing,C/ATT,2015
+368,3117251,Christian McCaffrey,1/1,400852677,Stanford,passing,C/ATT,2015
+369,516357,Kevin Hogan,144,400852677,Stanford,passing,YDS,2015
+370,3117251,Christian McCaffrey,11,400852677,Stanford,passing,YDS,2015
+371,516357,Kevin Hogan,12.0,400852677,Stanford,passing,AVG,2015
+372,3117251,Christian McCaffrey,11.0,400852677,Stanford,passing,AVG,2015
+373,516357,Kevin Hogan,1,400852677,Stanford,passing,TD,2015
+374,3117251,Christian McCaffrey,1,400852677,Stanford,passing,TD,2015
+375,516357,Kevin Hogan,0,400852677,Stanford,passing,INT,2015
+376,3117251,Christian McCaffrey,0,400852677,Stanford,passing,INT,2015
+377,516357,Kevin Hogan,78.7,400852677,Stanford,passing,QBR,2015
+378,3117251,Christian McCaffrey,100.0,400852677,Stanford,passing,QBR,2015
+379,3117251,Christian McCaffrey,32,400852677,Stanford,rushing,CAR,2015
+380,511941,Remound Wright,8,400852677,Stanford,rushing,CAR,2015
+381,516357,Kevin Hogan,7,400852677,Stanford,rushing,CAR,2015
+382,3931398,Bryce Love,2,400852677,Stanford,rushing,CAR,2015
+383,535298,Barry Sanders,1,400852677,Stanford,rushing,CAR,2015
+384,3117251,Christian McCaffrey,207,400852677,Stanford,rushing,YDS,2015
+385,511941,Remound Wright,24,400852677,Stanford,rushing,YDS,2015
+386,516357,Kevin Hogan,18,400852677,Stanford,rushing,YDS,2015
+387,3931398,Bryce Love,13,400852677,Stanford,rushing,YDS,2015
+388,535298,Barry Sanders,1,400852677,Stanford,rushing,YDS,2015
+389,3117251,Christian McCaffrey,6.5,400852677,Stanford,rushing,AVG,2015
+390,511941,Remound Wright,3.0,400852677,Stanford,rushing,AVG,2015
+391,516357,Kevin Hogan,2.6,400852677,Stanford,rushing,AVG,2015
+392,3931398,Bryce Love,6.5,400852677,Stanford,rushing,AVG,2015
+393,535298,Barry Sanders,1.0,400852677,Stanford,rushing,AVG,2015
+394,3117251,Christian McCaffrey,1,400852677,Stanford,rushing,TD,2015
+395,511941,Remound Wright,0,400852677,Stanford,rushing,TD,2015
+396,516357,Kevin Hogan,1,400852677,Stanford,rushing,TD,2015
+397,3931398,Bryce Love,0,400852677,Stanford,rushing,TD,2015
+398,535298,Barry Sanders,0,400852677,Stanford,rushing,TD,2015
+399,3117251,Christian McCaffrey,50,400852677,Stanford,rushing,LONG,2015
+400,511941,Remound Wright,9,400852677,Stanford,rushing,LONG,2015
+401,516357,Kevin Hogan,9,400852677,Stanford,rushing,LONG,2015
+402,3931398,Bryce Love,13,400852677,Stanford,rushing,LONG,2015
+403,535298,Barry Sanders,1,400852677,Stanford,rushing,LONG,2015
+404,3117251,Christian McCaffrey,4,400852677,Stanford,receiving,REC,2015
+405,516352,Devon Cajuste,1,400852677,Stanford,receiving,REC,2015
+406,535297,Michael Rector,2,400852677,Stanford,receiving,REC,2015
+407,516357,Kevin Hogan,1,400852677,Stanford,receiving,REC,2015
+408,546471,Austin Hooper,2,400852677,Stanford,receiving,REC,2015
+409,3117251,Christian McCaffrey,105,400852677,Stanford,receiving,YDS,2015
+410,516352,Devon Cajuste,18,400852677,Stanford,receiving,YDS,2015
+411,535297,Michael Rector,12,400852677,Stanford,receiving,YDS,2015
+412,516357,Kevin Hogan,11,400852677,Stanford,receiving,YDS,2015
+413,546471,Austin Hooper,9,400852677,Stanford,receiving,YDS,2015
+414,3117251,Christian McCaffrey,26.3,400852677,Stanford,receiving,AVG,2015
+415,516352,Devon Cajuste,18.0,400852677,Stanford,receiving,AVG,2015
+416,535297,Michael Rector,6.0,400852677,Stanford,receiving,AVG,2015
+417,516357,Kevin Hogan,11.0,400852677,Stanford,receiving,AVG,2015
+418,546471,Austin Hooper,4.5,400852677,Stanford,receiving,AVG,2015
+419,3117251,Christian McCaffrey,1,400852677,Stanford,receiving,TD,2015
+420,516352,Devon Cajuste,0,400852677,Stanford,receiving,TD,2015
+421,535297,Michael Rector,0,400852677,Stanford,receiving,TD,2015
+422,516357,Kevin Hogan,1,400852677,Stanford,receiving,TD,2015
+423,546471,Austin Hooper,0,400852677,Stanford,receiving,TD,2015
+424,3117251,Christian McCaffrey,67,400852677,Stanford,receiving,LONG,2015
+425,516352,Devon Cajuste,18,400852677,Stanford,receiving,LONG,2015
+426,535297,Michael Rector,6,400852677,Stanford,receiving,LONG,2015
+427,516357,Kevin Hogan,11,400852677,Stanford,receiving,LONG,2015
+428,546471,Austin Hooper,8,400852677,Stanford,receiving,LONG,2015
+429,3117251,Christian McCaffrey,5,400852677,Stanford,kickReturns,NO,2015
+430,3117251,Christian McCaffrey,120,400852677,Stanford,kickReturns,YDS,2015
+431,3117251,Christian McCaffrey,24.0,400852677,Stanford,kickReturns,AVG,2015
+432,3117251,Christian McCaffrey,31,400852677,Stanford,kickReturns,LONG,2015
+433,3117251,Christian McCaffrey,0,400852677,Stanford,kickReturns,TD,2015
+434,3117251,Christian McCaffrey,2,400852677,Stanford,puntReturns,NO,2015
+435,3117251,Christian McCaffrey,29,400852677,Stanford,puntReturns,YDS,2015
+436,3117251,Christian McCaffrey,14.5,400852677,Stanford,puntReturns,AVG,2015
+437,3117251,Christian McCaffrey,31,400852677,Stanford,puntReturns,LONG,2015
+438,3117251,Christian McCaffrey,0,400852677,Stanford,puntReturns,TD,2015
+439,535303,Conrad Ukropina,2/2,400852677,Stanford,kicking,FG,2015
+440,535303,Conrad Ukropina,100.0,400852677,Stanford,kicking,PCT,2015
+441,535303,Conrad Ukropina,30,400852677,Stanford,kicking,LONG,2015
+442,535303,Conrad Ukropina,5/5,400852677,Stanford,kicking,XP,2015
+443,535303,Conrad Ukropina,11,400852677,Stanford,kicking,PTS,2015
+444,549994,Alex Robinson,1,400852677,Stanford,punting,NO,2015
+445,549994,Alex Robinson,33,400852677,Stanford,punting,YDS,2015
+446,549994,Alex Robinson,33.0,400852677,Stanford,punting,AVG,2015
+447,549994,Alex Robinson,0,400852677,Stanford,punting,TB,2015
+448,549994,Alex Robinson,0,400852677,Stanford,punting,In 20,2015
+449,549994,Alex Robinson,33,400852677,Stanford,punting,LONG,2015
+450,513329,Cody Kessler,22/37,400852677,USC,passing,C/ATT,2015
+451,513329,Cody Kessler,187,400852677,USC,passing,YDS,2015
+452,513329,Cody Kessler,5.1,400852677,USC,passing,AVG,2015
+453,513329,Cody Kessler,1,400852677,USC,passing,TD,2015
+454,513329,Cody Kessler,0,400852677,USC,passing,INT,2015
+455,513329,Cody Kessler,60.6,400852677,USC,passing,QBR,2015
+456,546418,Justin Davis,17,400852677,USC,rushing,CAR,2015
+457,3912550,Ronald Jones II,6,400852677,USC,rushing,CAR,2015
+458,3120347,Adoree' Jackson,1,400852677,USC,rushing,CAR,2015
+459,513331,Tre Madden,1,400852677,USC,rushing,CAR,2015
+460,513329,Cody Kessler,7,400852677,USC,rushing,CAR,2015
+461,546418,Justin Davis,99,400852677,USC,rushing,YDS,2015
+462,3912550,Ronald Jones II,50,400852677,USC,rushing,YDS,2015
+463,3120347,Adoree' Jackson,27,400852677,USC,rushing,YDS,2015
+464,513331,Tre Madden,2,400852677,USC,rushing,YDS,2015
+465,513329,Cody Kessler,-8,400852677,USC,rushing,YDS,2015
+466,546418,Justin Davis,5.8,400852677,USC,rushing,AVG,2015
+467,3912550,Ronald Jones II,8.3,400852677,USC,rushing,AVG,2015
+468,3120347,Adoree' Jackson,27.0,400852677,USC,rushing,AVG,2015
+469,513331,Tre Madden,2.0,400852677,USC,rushing,AVG,2015
+470,513329,Cody Kessler,-1.1,400852677,USC,rushing,AVG,2015
+471,546418,Justin Davis,0,400852677,USC,rushing,TD,2015
+472,3912550,Ronald Jones II,1,400852677,USC,rushing,TD,2015
+473,3120347,Adoree' Jackson,0,400852677,USC,rushing,TD,2015
+474,513331,Tre Madden,0,400852677,USC,rushing,TD,2015
+475,513329,Cody Kessler,1,400852677,USC,rushing,TD,2015
+476,546418,Justin Davis,25,400852677,USC,rushing,LONG,2015
+477,3912550,Ronald Jones II,27,400852677,USC,rushing,LONG,2015
+478,3120347,Adoree' Jackson,27,400852677,USC,rushing,LONG,2015
+479,513331,Tre Madden,2,400852677,USC,rushing,LONG,2015
+480,513329,Cody Kessler,12,400852677,USC,rushing,LONG,2015
+481,3120348,JuJu Smith-Schuster,11,400852677,USC,receiving,REC,2015
+482,546427,Steven Mitchell Jr.,3,400852677,USC,receiving,REC,2015
+483,531009,Darreus Rogers,4,400852677,USC,receiving,REC,2015
+484,546418,Justin Davis,2,400852677,USC,receiving,REC,2015
+485,513331,Tre Madden,1,400852677,USC,receiving,REC,2015
+486,530996,Jahleel Pinner,1,400852677,USC,receiving,REC,2015
+487,3120348,JuJu Smith-Schuster,87,400852677,USC,receiving,YDS,2015
+488,546427,Steven Mitchell Jr.,39,400852677,USC,receiving,YDS,2015
+489,531009,Darreus Rogers,35,400852677,USC,receiving,YDS,2015
+490,546418,Justin Davis,20,400852677,USC,receiving,YDS,2015
+491,513331,Tre Madden,5,400852677,USC,receiving,YDS,2015
+492,530996,Jahleel Pinner,1,400852677,USC,receiving,YDS,2015
+493,3120348,JuJu Smith-Schuster,7.9,400852677,USC,receiving,AVG,2015
+494,546427,Steven Mitchell Jr.,13.0,400852677,USC,receiving,AVG,2015
+495,531009,Darreus Rogers,8.8,400852677,USC,receiving,AVG,2015
+496,546418,Justin Davis,10.0,400852677,USC,receiving,AVG,2015
+497,513331,Tre Madden,5.0,400852677,USC,receiving,AVG,2015
+498,530996,Jahleel Pinner,1.0,400852677,USC,receiving,AVG,2015
+499,3120348,JuJu Smith-Schuster,0,400852677,USC,receiving,TD,2015
+500,546427,Steven Mitchell Jr.,0,400852677,USC,receiving,TD,2015
+501,531009,Darreus Rogers,0,400852677,USC,receiving,TD,2015
+502,546418,Justin Davis,0,400852677,USC,receiving,TD,2015
+503,513331,Tre Madden,0,400852677,USC,receiving,TD,2015
+504,530996,Jahleel Pinner,1,400852677,USC,receiving,TD,2015
+505,3120348,JuJu Smith-Schuster,19,400852677,USC,receiving,LONG,2015
+506,546427,Steven Mitchell Jr.,22,400852677,USC,receiving,LONG,2015
+507,531009,Darreus Rogers,11,400852677,USC,receiving,LONG,2015
+508,546418,Justin Davis,17,400852677,USC,receiving,LONG,2015
+509,513331,Tre Madden,5,400852677,USC,receiving,LONG,2015
+510,530996,Jahleel Pinner,1,400852677,USC,receiving,LONG,2015
+511,3120347,Adoree' Jackson,4,400852677,USC,kickReturns,NO,2015
+512,534485,Taylor McNamara,1,400852677,USC,kickReturns,NO,2015
+513,546418,Justin Davis,1,400852677,USC,kickReturns,NO,2015
+514,3120347,Adoree' Jackson,86,400852677,USC,kickReturns,YDS,2015
+515,534485,Taylor McNamara,10,400852677,USC,kickReturns,YDS,2015
+516,546418,Justin Davis,0,400852677,USC,kickReturns,YDS,2015
+517,3120347,Adoree' Jackson,21.5,400852677,USC,kickReturns,AVG,2015
+518,534485,Taylor McNamara,10.0,400852677,USC,kickReturns,AVG,2015
+519,546418,Justin Davis,0.0,400852677,USC,kickReturns,AVG,2015
+520,3120347,Adoree' Jackson,32,400852677,USC,kickReturns,LONG,2015
+521,534485,Taylor McNamara,10,400852677,USC,kickReturns,LONG,2015
+522,546418,Justin Davis,0,400852677,USC,kickReturns,LONG,2015
+523,3120347,Adoree' Jackson,0,400852677,USC,kickReturns,TD,2015
+524,534485,Taylor McNamara,0,400852677,USC,kickReturns,TD,2015
+525,546418,Justin Davis,0,400852677,USC,kickReturns,TD,2015
+526,535703,Alex Wood,1/1,400852677,USC,kicking,FG,2015
+527,535703,Alex Wood,100.0,400852677,USC,kicking,PCT,2015
+528,535703,Alex Wood,40,400852677,USC,kicking,LONG,2015
+529,535703,Alex Wood,1/2,400852677,USC,kicking,XP,2015
+530,535703,Alex Wood,4,400852677,USC,kicking,PTS,2015
+531,513338,Kris Albarado,3,400852677,USC,punting,NO,2015
+532,513338,Kris Albarado,130,400852677,USC,punting,YDS,2015
+533,513338,Kris Albarado,43.3,400852677,USC,punting,AVG,2015
+534,513338,Kris Albarado,0,400852677,USC,punting,TB,2015
+535,513338,Kris Albarado,0,400852677,USC,punting,In 20,2015
+536,513338,Kris Albarado,45,400852677,USC,punting,LONG,2015
+537,3918639,Gerald Everett,2,400787482,South Alabama,rushing,TD,2015
+538,546764,Xavier Johnson,0,400787482,South Alabama,rushing,TD,2015
+539,3918636,Tyreis Thomas,0,400787482,South Alabama,rushing,TD,2015
+540,532170,Terrance Timmons,0,400787482,South Alabama,rushing,TD,2015
+541,3125259,Dallas Davis,0,400787482,South Alabama,rushing,TD,2015
+542,3918634,Cody Clements,1,400787482,South Alabama,rushing,TD,2015
+543,530671,Dami Ayoola,0,400787482,South Alabama,rushing,TD,2015
+544,546764,Xavier Johnson,18,400787482,South Alabama,rushing,CAR,2015
+545,3918636,Tyreis Thomas,11,400787482,South Alabama,rushing,CAR,2015
+546,532170,Terrance Timmons,8,400787482,South Alabama,rushing,CAR,2015
+547,3125259,Dallas Davis,7,400787482,South Alabama,rushing,CAR,2015
+548,3918634,Cody Clements,7,400787482,South Alabama,rushing,CAR,2015
+549,530671,Dami Ayoola,2,400787482,South Alabama,rushing,CAR,2015
+550,3918639,Gerald Everett,3,400787482,South Alabama,rushing,CAR,2015
+551,546764,Xavier Johnson,112,400787482,South Alabama,rushing,YDS,2015
+552,3918636,Tyreis Thomas,49,400787482,South Alabama,rushing,YDS,2015
+553,532170,Terrance Timmons,24,400787482,South Alabama,rushing,YDS,2015
+554,3125259,Dallas Davis,10,400787482,South Alabama,rushing,YDS,2015
+555,3918634,Cody Clements,9,400787482,South Alabama,rushing,YDS,2015
+556,530671,Dami Ayoola,6,400787482,South Alabama,rushing,YDS,2015
+557,3918639,Gerald Everett,4,400787482,South Alabama,rushing,YDS,2015
+558,546764,Xavier Johnson,6.2,400787482,South Alabama,rushing,AVG,2015
+559,3918636,Tyreis Thomas,4.5,400787482,South Alabama,rushing,AVG,2015
+560,532170,Terrance Timmons,3.0,400787482,South Alabama,rushing,AVG,2015
+561,3125259,Dallas Davis,1.4,400787482,South Alabama,rushing,AVG,2015
+562,3918634,Cody Clements,1.3,400787482,South Alabama,rushing,AVG,2015
+563,530671,Dami Ayoola,3.0,400787482,South Alabama,rushing,AVG,2015
+564,3918639,Gerald Everett,1.3,400787482,South Alabama,rushing,AVG,2015
+565,546764,Xavier Johnson,26,400787482,South Alabama,rushing,LONG,2015
+566,3918636,Tyreis Thomas,11,400787482,South Alabama,rushing,LONG,2015
+567,532170,Terrance Timmons,9,400787482,South Alabama,rushing,LONG,2015
+568,3125259,Dallas Davis,8,400787482,South Alabama,rushing,LONG,2015
+569,3918634,Cody Clements,10,400787482,South Alabama,rushing,LONG,2015
+570,530671,Dami Ayoola,4,400787482,South Alabama,rushing,LONG,2015
+571,3918639,Gerald Everett,2,400787482,South Alabama,rushing,LONG,2015
+572,3918634,Cody Clements,11/18,400787482,South Alabama,passing,C/ATT,2015
+573,3125259,Dallas Davis,4/9,400787482,South Alabama,passing,C/ATT,2015
+574,3918634,Cody Clements,95,400787482,South Alabama,passing,YDS,2015
+575,3125259,Dallas Davis,56,400787482,South Alabama,passing,YDS,2015
+576,3918634,Cody Clements,5.3,400787482,South Alabama,passing,AVG,2015
+577,3125259,Dallas Davis,6.2,400787482,South Alabama,passing,AVG,2015
+578,3918634,Cody Clements,0,400787482,South Alabama,passing,TD,2015
+579,3125259,Dallas Davis,0,400787482,South Alabama,passing,TD,2015
+580,3918634,Cody Clements,3,400787482,South Alabama,passing,INT,2015
+581,3125259,Dallas Davis,0,400787482,South Alabama,passing,INT,2015
+582,3918634,Cody Clements,13.1,400787482,South Alabama,passing,QBR,2015
+583,3125259,Dallas Davis,66.9,400787482,South Alabama,passing,QBR,2015
+584,519703,Danny Woodson,3,400787482,South Alabama,receiving,REC,2015
+585,513138,Marvin Shinn,3,400787482,South Alabama,receiving,REC,2015
+586,3918639,Gerald Everett,4,400787482,South Alabama,receiving,REC,2015
+587,3918635,D.J. Vinson,2,400787482,South Alabama,receiving,REC,2015
+588,535753,Josh Magee,2,400787482,South Alabama,receiving,REC,2015
+589,3125253,Braedon Bowman,1,400787482,South Alabama,receiving,REC,2015
+590,519703,Danny Woodson,69,400787482,South Alabama,receiving,YDS,2015
+591,513138,Marvin Shinn,24,400787482,South Alabama,receiving,YDS,2015
+592,3918639,Gerald Everett,23,400787482,South Alabama,receiving,YDS,2015
+593,3918635,D.J. Vinson,21,400787482,South Alabama,receiving,YDS,2015
+594,535753,Josh Magee,13,400787482,South Alabama,receiving,YDS,2015
+595,3125253,Braedon Bowman,1,400787482,South Alabama,receiving,YDS,2015
+596,519703,Danny Woodson,23.0,400787482,South Alabama,receiving,AVG,2015
+597,513138,Marvin Shinn,8.0,400787482,South Alabama,receiving,AVG,2015
+598,3918639,Gerald Everett,5.8,400787482,South Alabama,receiving,AVG,2015
+599,3918635,D.J. Vinson,10.5,400787482,South Alabama,receiving,AVG,2015
+600,535753,Josh Magee,6.5,400787482,South Alabama,receiving,AVG,2015
+601,3125253,Braedon Bowman,1.0,400787482,South Alabama,receiving,AVG,2015
+602,519703,Danny Woodson,0,400787482,South Alabama,receiving,TD,2015
+603,513138,Marvin Shinn,0,400787482,South Alabama,receiving,TD,2015
+604,3918639,Gerald Everett,0,400787482,South Alabama,receiving,TD,2015
+605,3918635,D.J. Vinson,0,400787482,South Alabama,receiving,TD,2015
+606,535753,Josh Magee,0,400787482,South Alabama,receiving,TD,2015
+607,3125253,Braedon Bowman,0,400787482,South Alabama,receiving,TD,2015
+608,519703,Danny Woodson,40,400787482,South Alabama,receiving,LONG,2015
+609,513138,Marvin Shinn,13,400787482,South Alabama,receiving,LONG,2015
+610,3918639,Gerald Everett,7,400787482,South Alabama,receiving,LONG,2015
+611,3918635,D.J. Vinson,14,400787482,South Alabama,receiving,LONG,2015
+612,535753,Josh Magee,9,400787482,South Alabama,receiving,LONG,2015
+613,3125253,Braedon Bowman,1,400787482,South Alabama,receiving,LONG,2015
+614,3125248,Jeremy Reaves,1,400787482,South Alabama,interceptions,INT,2015
+615,3125248,Jeremy Reaves,0,400787482,South Alabama,interceptions,YDS,2015
+616,3125248,Jeremy Reaves,0,400787482,South Alabama,interceptions,TD,2015
+617,532170,Terrance Timmons,4,400787482,South Alabama,kickReturns,NO,2015
+618,546764,Xavier Johnson,1,400787482,South Alabama,kickReturns,NO,2015
+619,532170,Terrance Timmons,109,400787482,South Alabama,kickReturns,YDS,2015
+620,546764,Xavier Johnson,31,400787482,South Alabama,kickReturns,YDS,2015
+621,532170,Terrance Timmons,27.3,400787482,South Alabama,kickReturns,AVG,2015
+622,546764,Xavier Johnson,31.0,400787482,South Alabama,kickReturns,AVG,2015
+623,532170,Terrance Timmons,46,400787482,South Alabama,kickReturns,LONG,2015
+624,546764,Xavier Johnson,31,400787482,South Alabama,kickReturns,LONG,2015
+625,532170,Terrance Timmons,0,400787482,South Alabama,kickReturns,TD,2015
+626,546764,Xavier Johnson,0,400787482,South Alabama,kickReturns,TD,2015
+627,531691,Aleem Sunanon,2/2,400787482,South Alabama,kicking,FG,2015
+628,531691,Aleem Sunanon,100.0,400787482,South Alabama,kicking,PCT,2015
+629,531691,Aleem Sunanon,41,400787482,South Alabama,kicking,LONG,2015
+630,531691,Aleem Sunanon,3/3,400787482,South Alabama,kicking,XP,2015
+631,531691,Aleem Sunanon,9,400787482,South Alabama,kicking,PTS,2015
+632,531691,Aleem Sunanon,5,400787482,South Alabama,punting,NO,2015
+633,531691,Aleem Sunanon,210,400787482,South Alabama,punting,YDS,2015
+634,531691,Aleem Sunanon,42.0,400787482,South Alabama,punting,AVG,2015
+635,531691,Aleem Sunanon,0,400787482,South Alabama,punting,TB,2015
+636,531691,Aleem Sunanon,0,400787482,South Alabama,punting,In 20,2015
+637,531691,Aleem Sunanon,51,400787482,South Alabama,punting,LONG,2015
+638,548447,Taylor Lamb,15/22,400787482,Appalachian State,passing,C/ATT,2015
+639,548447,Taylor Lamb,163,400787482,Appalachian State,passing,YDS,2015
+640,548447,Taylor Lamb,7.4,400787482,Appalachian State,passing,AVG,2015
+641,548447,Taylor Lamb,2,400787482,Appalachian State,passing,TD,2015
+642,548447,Taylor Lamb,1,400787482,Appalachian State,passing,INT,2015
+643,548447,Taylor Lamb,71.1,400787482,Appalachian State,passing,QBR,2015
+644,548436,Marcus Cox,14,400787482,Appalachian State,rushing,CAR,2015
+645,3123675,Jalin Moore,14,400787482,Appalachian State,rushing,CAR,2015
+646,548447,Taylor Lamb,4,400787482,Appalachian State,rushing,CAR,2015
+647,3123670,Ike Lewis,1,400787482,Appalachian State,rushing,CAR,2015
+648,533091,Simms McElfresh,1,400787482,Appalachian State,rushing,CAR,2015
+649,548467,Terrence Upshaw,1,400787482,Appalachian State,rushing,CAR,2015
+650,548436,Marcus Cox,192,400787482,Appalachian State,rushing,YDS,2015
+651,3123675,Jalin Moore,84,400787482,Appalachian State,rushing,YDS,2015
+652,548447,Taylor Lamb,18,400787482,Appalachian State,rushing,YDS,2015
+653,3123670,Ike Lewis,8,400787482,Appalachian State,rushing,YDS,2015
+654,533091,Simms McElfresh,3,400787482,Appalachian State,rushing,YDS,2015
+655,548467,Terrence Upshaw,-2,400787482,Appalachian State,rushing,YDS,2015
+656,548436,Marcus Cox,13.7,400787482,Appalachian State,rushing,AVG,2015
+657,3123675,Jalin Moore,6.0,400787482,Appalachian State,rushing,AVG,2015
+658,548447,Taylor Lamb,4.5,400787482,Appalachian State,rushing,AVG,2015
+659,3123670,Ike Lewis,8.0,400787482,Appalachian State,rushing,AVG,2015
+660,533091,Simms McElfresh,3.0,400787482,Appalachian State,rushing,AVG,2015
+661,548467,Terrence Upshaw,-2.0,400787482,Appalachian State,rushing,AVG,2015
+662,548436,Marcus Cox,0,400787482,Appalachian State,rushing,TD,2015
+663,3123675,Jalin Moore,2,400787482,Appalachian State,rushing,TD,2015
+664,548447,Taylor Lamb,0,400787482,Appalachian State,rushing,TD,2015
+665,3123670,Ike Lewis,0,400787482,Appalachian State,rushing,TD,2015
+666,533091,Simms McElfresh,0,400787482,Appalachian State,rushing,TD,2015
+667,548467,Terrence Upshaw,0,400787482,Appalachian State,rushing,TD,2015
+668,548436,Marcus Cox,74,400787482,Appalachian State,rushing,LONG,2015
+669,3123675,Jalin Moore,24,400787482,Appalachian State,rushing,LONG,2015
+670,548447,Taylor Lamb,23,400787482,Appalachian State,rushing,LONG,2015
+671,3123670,Ike Lewis,8,400787482,Appalachian State,rushing,LONG,2015
+672,533091,Simms McElfresh,3,400787482,Appalachian State,rushing,LONG,2015
+673,548467,Terrence Upshaw,0,400787482,Appalachian State,rushing,LONG,2015
+674,533091,Simms McElfresh,6,400787482,Appalachian State,receiving,REC,2015
+675,548438,Levi Duffield,3,400787482,Appalachian State,receiving,REC,2015
+676,3123673,Montez McGuire,1,400787482,Appalachian State,receiving,REC,2015
+677,548436,Marcus Cox,1,400787482,Appalachian State,receiving,REC,2015
+678,3123670,Ike Lewis,1,400787482,Appalachian State,receiving,REC,2015
+679,533085,Malachi Jones,2,400787482,Appalachian State,receiving,REC,2015
+680,548432,Bill Cecil,1,400787482,Appalachian State,receiving,REC,2015
+681,533091,Simms McElfresh,72,400787482,Appalachian State,receiving,YDS,2015
+682,548438,Levi Duffield,25,400787482,Appalachian State,receiving,YDS,2015
+683,3123673,Montez McGuire,23,400787482,Appalachian State,receiving,YDS,2015
+684,548436,Marcus Cox,18,400787482,Appalachian State,receiving,YDS,2015
+685,3123670,Ike Lewis,18,400787482,Appalachian State,receiving,YDS,2015
+686,533085,Malachi Jones,9,400787482,Appalachian State,receiving,YDS,2015
+687,548432,Bill Cecil,-2,400787482,Appalachian State,receiving,YDS,2015
+688,533091,Simms McElfresh,12.0,400787482,Appalachian State,receiving,AVG,2015
+689,548438,Levi Duffield,8.3,400787482,Appalachian State,receiving,AVG,2015
+690,3123673,Montez McGuire,23.0,400787482,Appalachian State,receiving,AVG,2015
+691,548436,Marcus Cox,18.0,400787482,Appalachian State,receiving,AVG,2015
+692,3123670,Ike Lewis,18.0,400787482,Appalachian State,receiving,AVG,2015
+693,533085,Malachi Jones,4.5,400787482,Appalachian State,receiving,AVG,2015
+694,548432,Bill Cecil,-2.0,400787482,Appalachian State,receiving,AVG,2015
+695,533091,Simms McElfresh,1,400787482,Appalachian State,receiving,TD,2015
+696,548438,Levi Duffield,0,400787482,Appalachian State,receiving,TD,2015
+697,3123673,Montez McGuire,0,400787482,Appalachian State,receiving,TD,2015
+698,548436,Marcus Cox,1,400787482,Appalachian State,receiving,TD,2015
+699,3123670,Ike Lewis,0,400787482,Appalachian State,receiving,TD,2015
+700,533085,Malachi Jones,0,400787482,Appalachian State,receiving,TD,2015
+701,548432,Bill Cecil,0,400787482,Appalachian State,receiving,TD,2015
+702,533091,Simms McElfresh,58,400787482,Appalachian State,receiving,LONG,2015
+703,548438,Levi Duffield,12,400787482,Appalachian State,receiving,LONG,2015
+704,3123673,Montez McGuire,23,400787482,Appalachian State,receiving,LONG,2015
+705,548436,Marcus Cox,18,400787482,Appalachian State,receiving,LONG,2015
+706,3123670,Ike Lewis,18,400787482,Appalachian State,receiving,LONG,2015
+707,533085,Malachi Jones,12,400787482,Appalachian State,receiving,LONG,2015
+708,548432,Bill Cecil,-2,400787482,Appalachian State,receiving,LONG,2015
+709,3123650,Eric Boggs,1,400787482,Appalachian State,interceptions,INT,2015
+710,533081,Alex Gray,1,400787482,Appalachian State,interceptions,INT,2015
+711,3123662,Latrell Gibbs,1,400787482,Appalachian State,interceptions,INT,2015
+712,3123650,Eric Boggs,45,400787482,Appalachian State,interceptions,YDS,2015
+713,533081,Alex Gray,3,400787482,Appalachian State,interceptions,YDS,2015
+714,3123662,Latrell Gibbs,0,400787482,Appalachian State,interceptions,YDS,2015
+715,3123650,Eric Boggs,0,400787482,Appalachian State,interceptions,TD,2015
+716,533081,Alex Gray,0,400787482,Appalachian State,interceptions,TD,2015
+717,3123662,Latrell Gibbs,0,400787482,Appalachian State,interceptions,TD,2015
+718,539020,Ricky Fergerson,6,400787482,Appalachian State,kickReturns,NO,2015
+719,539020,Ricky Fergerson,134,400787482,Appalachian State,kickReturns,YDS,2015
+720,539020,Ricky Fergerson,22.3,400787482,Appalachian State,kickReturns,AVG,2015
+721,539020,Ricky Fergerson,29,400787482,Appalachian State,kickReturns,LONG,2015
+722,539020,Ricky Fergerson,0,400787482,Appalachian State,kickReturns,TD,2015
+723,3123662,Latrell Gibbs,1,400787482,Appalachian State,puntReturns,NO,2015
+724,3123662,Latrell Gibbs,5,400787482,Appalachian State,puntReturns,YDS,2015
+725,3123662,Latrell Gibbs,5.0,400787482,Appalachian State,puntReturns,AVG,2015
+726,3123662,Latrell Gibbs,5,400787482,Appalachian State,puntReturns,LONG,2015
+727,3123662,Latrell Gibbs,0,400787482,Appalachian State,puntReturns,TD,2015
+728,512891,Zach Matics,2/2,400787482,Appalachian State,kicking,FG,2015
+729,512891,Zach Matics,100.0,400787482,Appalachian State,kicking,PCT,2015
+730,512891,Zach Matics,51,400787482,Appalachian State,kicking,LONG,2015
+731,512891,Zach Matics,4/4,400787482,Appalachian State,kicking,XP,2015
+732,512891,Zach Matics,10,400787482,Appalachian State,kicking,PTS,2015
+733,548437,Bentlee Critcher,3,400787482,Appalachian State,punting,NO,2015
+734,548437,Bentlee Critcher,126,400787482,Appalachian State,punting,YDS,2015
+735,548437,Bentlee Critcher,42.0,400787482,Appalachian State,punting,AVG,2015
+736,548437,Bentlee Critcher,0,400787482,Appalachian State,punting,TB,2015
+737,548437,Bentlee Critcher,0,400787482,Appalachian State,punting,In 20,2015
+738,548437,Bentlee Critcher,49,400787482,Appalachian State,punting,LONG,2015
+739,3139921,Christian Chapman,9/14,400852675,San Diego State,passing,C/ATT,2015
+740,3139921,Christian Chapman,203,400852675,San Diego State,passing,YDS,2015
+741,3139921,Christian Chapman,14.5,400852675,San Diego State,passing,AVG,2015
+742,3139921,Christian Chapman,1,400852675,San Diego State,passing,TD,2015
+743,3139921,Christian Chapman,0,400852675,San Diego State,passing,INT,2015
+744,3139921,Christian Chapman,92.3,400852675,San Diego State,passing,QBR,2015
+745,547571,Donnel Pumphrey,16,400852675,San Diego State,rushing,CAR,2015
+746,518180,Chase Price,18,400852675,San Diego State,rushing,CAR,2015
+747,3125238,Dakota Gordon,5,400852675,San Diego State,rushing,CAR,2015
+748,3139921,Christian Chapman,6,400852675,San Diego State,rushing,CAR,2015
+749,3139925,Rashaad Penny,1,400852675,San Diego State,rushing,CAR,2015
+750,547571,Donnel Pumphrey,90,400852675,San Diego State,rushing,YDS,2015
+751,518180,Chase Price,51,400852675,San Diego State,rushing,YDS,2015
+752,3125238,Dakota Gordon,32,400852675,San Diego State,rushing,YDS,2015
+753,3139921,Christian Chapman,32,400852675,San Diego State,rushing,YDS,2015
+754,3139925,Rashaad Penny,28,400852675,San Diego State,rushing,YDS,2015
+755,547571,Donnel Pumphrey,5.6,400852675,San Diego State,rushing,AVG,2015
+756,518180,Chase Price,2.8,400852675,San Diego State,rushing,AVG,2015
+757,3125238,Dakota Gordon,6.4,400852675,San Diego State,rushing,AVG,2015
+758,3139921,Christian Chapman,5.3,400852675,San Diego State,rushing,AVG,2015
+759,3139925,Rashaad Penny,28.0,400852675,San Diego State,rushing,AVG,2015
+760,547571,Donnel Pumphrey,0,400852675,San Diego State,rushing,TD,2015
+761,518180,Chase Price,0,400852675,San Diego State,rushing,TD,2015
+762,3125238,Dakota Gordon,1,400852675,San Diego State,rushing,TD,2015
+763,3139921,Christian Chapman,0,400852675,San Diego State,rushing,TD,2015
+764,3139925,Rashaad Penny,1,400852675,San Diego State,rushing,TD,2015
+765,547571,Donnel Pumphrey,30,400852675,San Diego State,rushing,LONG,2015
+766,518180,Chase Price,13,400852675,San Diego State,rushing,LONG,2015
+767,3125238,Dakota Gordon,23,400852675,San Diego State,rushing,LONG,2015
+768,3139921,Christian Chapman,13,400852675,San Diego State,rushing,LONG,2015
+769,3139925,Rashaad Penny,28,400852675,San Diego State,rushing,LONG,2015
+770,518169,Jemond Hazely,5,400852675,San Diego State,receiving,REC,2015
+771,547571,Donnel Pumphrey,2,400852675,San Diego State,receiving,REC,2015
+772,3139946,Mikah Holder,1,400852675,San Diego State,receiving,REC,2015
+773,534393,Eric Judge,1,400852675,San Diego State,receiving,REC,2015
+774,518169,Jemond Hazely,78,400852675,San Diego State,receiving,YDS,2015
+775,547571,Donnel Pumphrey,64,400852675,San Diego State,receiving,YDS,2015
+776,3139946,Mikah Holder,48,400852675,San Diego State,receiving,YDS,2015
+777,534393,Eric Judge,13,400852675,San Diego State,receiving,YDS,2015
+778,518169,Jemond Hazely,15.6,400852675,San Diego State,receiving,AVG,2015
+779,547571,Donnel Pumphrey,32.0,400852675,San Diego State,receiving,AVG,2015
+780,3139946,Mikah Holder,48.0,400852675,San Diego State,receiving,AVG,2015
+781,534393,Eric Judge,13.0,400852675,San Diego State,receiving,AVG,2015
+782,518169,Jemond Hazely,0,400852675,San Diego State,receiving,TD,2015
+783,547571,Donnel Pumphrey,1,400852675,San Diego State,receiving,TD,2015
+784,3139946,Mikah Holder,0,400852675,San Diego State,receiving,TD,2015
+785,534393,Eric Judge,0,400852675,San Diego State,receiving,TD,2015
+786,518169,Jemond Hazely,44,400852675,San Diego State,receiving,LONG,2015
+787,547571,Donnel Pumphrey,40,400852675,San Diego State,receiving,LONG,2015
+788,3139946,Mikah Holder,48,400852675,San Diego State,receiving,LONG,2015
+789,534393,Eric Judge,13,400852675,San Diego State,receiving,LONG,2015
+790,3139925,Rashaad Penny,4,400852675,San Diego State,kickReturns,NO,2015
+791,518180,Chase Price,1,400852675,San Diego State,kickReturns,NO,2015
+792,3139925,Rashaad Penny,87,400852675,San Diego State,kickReturns,YDS,2015
+793,518180,Chase Price,20,400852675,San Diego State,kickReturns,YDS,2015
+794,3139925,Rashaad Penny,21.8,400852675,San Diego State,kickReturns,AVG,2015
+795,518180,Chase Price,20.0,400852675,San Diego State,kickReturns,AVG,2015
+796,3139925,Rashaad Penny,28,400852675,San Diego State,kickReturns,LONG,2015
+797,518180,Chase Price,20,400852675,San Diego State,kickReturns,LONG,2015
+798,3139925,Rashaad Penny,0,400852675,San Diego State,kickReturns,TD,2015
+799,518180,Chase Price,0,400852675,San Diego State,kickReturns,TD,2015
+800,3139946,Mikah Holder,2,400852675,San Diego State,puntReturns,NO,2015
+801,3139946,Mikah Holder,-4,400852675,San Diego State,puntReturns,YDS,2015
+802,3139946,Mikah Holder,-2.0,400852675,San Diego State,puntReturns,AVG,2015
+803,3139946,Mikah Holder,-1,400852675,San Diego State,puntReturns,LONG,2015
+804,3139946,Mikah Holder,0,400852675,San Diego State,puntReturns,TD,2015
+805,3139942,Donny Hageman,2/2,400852675,San Diego State,kicking,FG,2015
+806,3139942,Donny Hageman,100.0,400852675,San Diego State,kicking,PCT,2015
+807,3139942,Donny Hageman,46,400852675,San Diego State,kicking,LONG,2015
+808,3139942,Donny Hageman,3/3,400852675,San Diego State,kicking,XP,2015
+809,3139942,Donny Hageman,9,400852675,San Diego State,kicking,PTS,2015
+810,540655,Tanner Blain,5,400852675,San Diego State,punting,NO,2015
+811,540655,Tanner Blain,209,400852675,San Diego State,punting,YDS,2015
+812,540655,Tanner Blain,41.8,400852675,San Diego State,punting,AVG,2015
+813,540655,Tanner Blain,0,400852675,San Diego State,punting,TB,2015
+814,540655,Tanner Blain,0,400852675,San Diego State,punting,In 20,2015
+815,540655,Tanner Blain,51,400852675,San Diego State,punting,LONG,2015
+816,547343,Karson Roberts,5/11,400852675,Air Force,passing,C/ATT,2015
+817,547343,Karson Roberts,35,400852675,Air Force,passing,YDS,2015
+818,547343,Karson Roberts,3.2,400852675,Air Force,passing,AVG,2015
+819,547343,Karson Roberts,0,400852675,Air Force,passing,TD,2015
+820,547343,Karson Roberts,0,400852675,Air Force,passing,INT,2015
+821,547343,Karson Roberts,31.2,400852675,Air Force,passing,QBR,2015
+822,3124349,Jacobi Owens,17,400852675,Air Force,rushing,CAR,2015
+823,547343,Karson Roberts,13,400852675,Air Force,rushing,CAR,2015
+824,3935209,Timothy McVey,9,400852675,Air Force,rushing,CAR,2015
+825,3157674,Tyler Williams,5,400852675,Air Force,rushing,CAR,2015
+826,544097,Garrett Brown,2,400852675,Air Force,rushing,CAR,2015
+827,3124349,Jacobi Owens,156,400852675,Air Force,rushing,YDS,2015
+828,547343,Karson Roberts,83,400852675,Air Force,rushing,YDS,2015
+829,3935209,Timothy McVey,48,400852675,Air Force,rushing,YDS,2015
+830,3157674,Tyler Williams,17,400852675,Air Force,rushing,YDS,2015
+831,544097,Garrett Brown,1,400852675,Air Force,rushing,YDS,2015
+832,3124349,Jacobi Owens,9.2,400852675,Air Force,rushing,AVG,2015
+833,547343,Karson Roberts,6.4,400852675,Air Force,rushing,AVG,2015
+834,3935209,Timothy McVey,5.3,400852675,Air Force,rushing,AVG,2015
+835,3157674,Tyler Williams,3.4,400852675,Air Force,rushing,AVG,2015
+836,544097,Garrett Brown,0.5,400852675,Air Force,rushing,AVG,2015
+837,3124349,Jacobi Owens,0,400852675,Air Force,rushing,TD,2015
+838,547343,Karson Roberts,0,400852675,Air Force,rushing,TD,2015
+839,3935209,Timothy McVey,3,400852675,Air Force,rushing,TD,2015
+840,3157674,Tyler Williams,0,400852675,Air Force,rushing,TD,2015
+841,544097,Garrett Brown,0,400852675,Air Force,rushing,TD,2015
+842,3124349,Jacobi Owens,65,400852675,Air Force,rushing,LONG,2015
+843,547343,Karson Roberts,51,400852675,Air Force,rushing,LONG,2015
+844,3935209,Timothy McVey,12,400852675,Air Force,rushing,LONG,2015
+845,3157674,Tyler Williams,11,400852675,Air Force,rushing,LONG,2015
+846,544097,Garrett Brown,4,400852675,Air Force,rushing,LONG,2015
+847,538421,Garrett Griffin,4,400852675,Air Force,receiving,REC,2015
+848,3935209,Timothy McVey,1,400852675,Air Force,receiving,REC,2015
+849,538421,Garrett Griffin,35,400852675,Air Force,receiving,YDS,2015
+850,3935209,Timothy McVey,0,400852675,Air Force,receiving,YDS,2015
+851,538421,Garrett Griffin,8.8,400852675,Air Force,receiving,AVG,2015
+852,3935209,Timothy McVey,0.0,400852675,Air Force,receiving,AVG,2015
+853,538421,Garrett Griffin,0,400852675,Air Force,receiving,TD,2015
+854,3935209,Timothy McVey,0,400852675,Air Force,receiving,TD,2015
+855,538421,Garrett Griffin,13,400852675,Air Force,receiving,LONG,2015
+856,3935209,Timothy McVey,0,400852675,Air Force,receiving,LONG,2015
+857,3935209,Timothy McVey,1,400852675,Air Force,kickReturns,NO,2015
+858,3157674,Tyler Williams,1,400852675,Air Force,kickReturns,NO,2015
+859,3152853,Bryan Driskell,1,400852675,Air Force,kickReturns,NO,2015
+860,3935202,Aubrey Duty-Tyson,1,400852675,Air Force,kickReturns,NO,2015
+861,3935209,Timothy McVey,35,400852675,Air Force,kickReturns,YDS,2015
+862,3157674,Tyler Williams,25,400852675,Air Force,kickReturns,YDS,2015
+863,3152853,Bryan Driskell,22,400852675,Air Force,kickReturns,YDS,2015
+864,3935202,Aubrey Duty-Tyson,12,400852675,Air Force,kickReturns,YDS,2015
+865,3935209,Timothy McVey,35.0,400852675,Air Force,kickReturns,AVG,2015
+866,3157674,Tyler Williams,25.0,400852675,Air Force,kickReturns,AVG,2015
+867,3152853,Bryan Driskell,22.0,400852675,Air Force,kickReturns,AVG,2015
+868,3935202,Aubrey Duty-Tyson,12.0,400852675,Air Force,kickReturns,AVG,2015
+869,3935209,Timothy McVey,35,400852675,Air Force,kickReturns,LONG,2015
+870,3157674,Tyler Williams,25,400852675,Air Force,kickReturns,LONG,2015
+871,3152853,Bryan Driskell,22,400852675,Air Force,kickReturns,LONG,2015
+872,3935202,Aubrey Duty-Tyson,12,400852675,Air Force,kickReturns,LONG,2015
+873,3935209,Timothy McVey,0,400852675,Air Force,kickReturns,TD,2015
+874,3157674,Tyler Williams,0,400852675,Air Force,kickReturns,TD,2015
+875,3152853,Bryan Driskell,0,400852675,Air Force,kickReturns,TD,2015
+876,3935202,Aubrey Duty-Tyson,0,400852675,Air Force,kickReturns,TD,2015
+877,544097,Garrett Brown,2,400852675,Air Force,puntReturns,NO,2015
+878,544097,Garrett Brown,1,400852675,Air Force,puntReturns,YDS,2015
+879,544097,Garrett Brown,0.5,400852675,Air Force,puntReturns,AVG,2015
+880,544097,Garrett Brown,3,400852675,Air Force,puntReturns,LONG,2015
+881,544097,Garrett Brown,0,400852675,Air Force,puntReturns,TD,2015
+882,3935193,Luke Strebel,1/1,400852675,Air Force,kicking,FG,2015
+883,3935193,Luke Strebel,100.0,400852675,Air Force,kicking,PCT,2015
+884,3935193,Luke Strebel,21,400852675,Air Force,kicking,LONG,2015
+885,3935193,Luke Strebel,3/3,400852675,Air Force,kicking,XP,2015
+886,3935193,Luke Strebel,6,400852675,Air Force,kicking,PTS,2015
+887,3935193,Luke Strebel,6,400852675,Air Force,punting,NO,2015
+888,3935193,Luke Strebel,237,400852675,Air Force,punting,YDS,2015
+889,3935193,Luke Strebel,39.5,400852675,Air Force,punting,AVG,2015
+890,3935193,Luke Strebel,0,400852675,Air Force,punting,TB,2015
+891,3935193,Luke Strebel,0,400852675,Air Force,punting,In 20,2015
+892,3935193,Luke Strebel,52,400852675,Air Force,punting,LONG,2015
+893,546145,Brandon Silvers,22/28,400787485,Troy,passing,C/ATT,2015
+894,546145,Brandon Silvers,320,400787485,Troy,passing,YDS,2015
+895,546145,Brandon Silvers,11.4,400787485,Troy,passing,AVG,2015
+896,546145,Brandon Silvers,4,400787485,Troy,passing,TD,2015
+897,546145,Brandon Silvers,0,400787485,Troy,passing,INT,2015
+898,546145,Brandon Silvers,87.2,400787485,Troy,passing,QBR,2015
+899,531721,Brandon Burks,25,400787485,Troy,rushing,CAR,2015
+900,551061,Josh Anderson,2,400787485,Troy,rushing,CAR,2015
+901,546145,Brandon Silvers,1,400787485,Troy,rushing,CAR,2015
+902,3125486,KE'Marvin Pitts,3,400787485,Troy,rushing,CAR,2015
+903,3125472,Andre Flakes,2,400787485,Troy,rushing,CAR,2015
+904,531721,Brandon Burks,118,400787485,Troy,rushing,YDS,2015
+905,551061,Josh Anderson,7,400787485,Troy,rushing,YDS,2015
+906,546145,Brandon Silvers,2,400787485,Troy,rushing,YDS,2015
+907,3125486,KE'Marvin Pitts,1,400787485,Troy,rushing,YDS,2015
+908,3125472,Andre Flakes,0,400787485,Troy,rushing,YDS,2015
+909,531721,Brandon Burks,4.7,400787485,Troy,rushing,AVG,2015
+910,551061,Josh Anderson,3.5,400787485,Troy,rushing,AVG,2015
+911,546145,Brandon Silvers,2.0,400787485,Troy,rushing,AVG,2015
+912,3125486,KE'Marvin Pitts,0.3,400787485,Troy,rushing,AVG,2015
+913,3125472,Andre Flakes,0.0,400787485,Troy,rushing,AVG,2015
+914,531721,Brandon Burks,0,400787485,Troy,rushing,TD,2015
+915,551061,Josh Anderson,0,400787485,Troy,rushing,TD,2015
+916,546145,Brandon Silvers,0,400787485,Troy,rushing,TD,2015
+917,3125486,KE'Marvin Pitts,0,400787485,Troy,rushing,TD,2015
+918,3125472,Andre Flakes,0,400787485,Troy,rushing,TD,2015
+919,531721,Brandon Burks,16,400787485,Troy,rushing,LONG,2015
+920,551061,Josh Anderson,7,400787485,Troy,rushing,LONG,2015
+921,546145,Brandon Silvers,2,400787485,Troy,rushing,LONG,2015
+922,3125486,KE'Marvin Pitts,2,400787485,Troy,rushing,LONG,2015
+923,3125472,Andre Flakes,0,400787485,Troy,rushing,LONG,2015
+924,3125464,Teddy Ruben,8,400787485,Troy,receiving,REC,2015
+925,521329,Jarvis Bentley,2,400787485,Troy,receiving,REC,2015
+926,531721,Brandon Burks,4,400787485,Troy,receiving,REC,2015
+927,3125465,Emanuel Thompson,2,400787485,Troy,receiving,REC,2015
+928,551085,Clark Quisenberry,2,400787485,Troy,receiving,REC,2015
+929,3125461,John Johnson,1,400787485,Troy,receiving,REC,2015
+930,3922168,Deondre Douglas,2,400787485,Troy,receiving,REC,2015
+931,515163,K.D. Edenfield,1,400787485,Troy,receiving,REC,2015
+932,3125464,Teddy Ruben,131,400787485,Troy,receiving,YDS,2015
+933,521329,Jarvis Bentley,77,400787485,Troy,receiving,YDS,2015
+934,531721,Brandon Burks,35,400787485,Troy,receiving,YDS,2015
+935,3125465,Emanuel Thompson,24,400787485,Troy,receiving,YDS,2015
+936,551085,Clark Quisenberry,18,400787485,Troy,receiving,YDS,2015
+937,3125461,John Johnson,15,400787485,Troy,receiving,YDS,2015
+938,3922168,Deondre Douglas,13,400787485,Troy,receiving,YDS,2015
+939,515163,K.D. Edenfield,7,400787485,Troy,receiving,YDS,2015
+940,3125464,Teddy Ruben,16.4,400787485,Troy,receiving,AVG,2015
+941,521329,Jarvis Bentley,38.5,400787485,Troy,receiving,AVG,2015
+942,531721,Brandon Burks,8.8,400787485,Troy,receiving,AVG,2015
+943,3125465,Emanuel Thompson,12.0,400787485,Troy,receiving,AVG,2015
+944,551085,Clark Quisenberry,9.0,400787485,Troy,receiving,AVG,2015
+945,3125461,John Johnson,15.0,400787485,Troy,receiving,AVG,2015
+946,3922168,Deondre Douglas,6.5,400787485,Troy,receiving,AVG,2015
+947,515163,K.D. Edenfield,7.0,400787485,Troy,receiving,AVG,2015
+948,3125464,Teddy Ruben,2,400787485,Troy,receiving,TD,2015
+949,521329,Jarvis Bentley,1,400787485,Troy,receiving,TD,2015
+950,531721,Brandon Burks,1,400787485,Troy,receiving,TD,2015
+951,3125465,Emanuel Thompson,0,400787485,Troy,receiving,TD,2015
+952,551085,Clark Quisenberry,0,400787485,Troy,receiving,TD,2015
+953,3125461,John Johnson,0,400787485,Troy,receiving,TD,2015
+954,3922168,Deondre Douglas,0,400787485,Troy,receiving,TD,2015
+955,515163,K.D. Edenfield,0,400787485,Troy,receiving,TD,2015
+956,3125464,Teddy Ruben,62,400787485,Troy,receiving,LONG,2015
+957,521329,Jarvis Bentley,67,400787485,Troy,receiving,LONG,2015
+958,531721,Brandon Burks,23,400787485,Troy,receiving,LONG,2015
+959,3125465,Emanuel Thompson,13,400787485,Troy,receiving,LONG,2015
+960,551085,Clark Quisenberry,10,400787485,Troy,receiving,LONG,2015
+961,3125461,John Johnson,15,400787485,Troy,receiving,LONG,2015
+962,3922168,Deondre Douglas,8,400787485,Troy,receiving,LONG,2015
+963,515163,K.D. Edenfield,7,400787485,Troy,receiving,LONG,2015
+964,536996,Montres Kitchens,1,400787485,Troy,interceptions,INT,2015
+965,536996,Montres Kitchens,0,400787485,Troy,interceptions,YDS,2015
+966,536996,Montres Kitchens,0,400787485,Troy,interceptions,TD,2015
+967,3125464,Teddy Ruben,4,400787485,Troy,kickReturns,NO,2015
+968,3125464,Teddy Ruben,65,400787485,Troy,kickReturns,YDS,2015
+969,3125464,Teddy Ruben,16.3,400787485,Troy,kickReturns,AVG,2015
+970,3125464,Teddy Ruben,24,400787485,Troy,kickReturns,LONG,2015
+971,3125464,Teddy Ruben,0,400787485,Troy,kickReturns,TD,2015
+972,3125464,Teddy Ruben,2,400787485,Troy,puntReturns,NO,2015
+973,3125464,Teddy Ruben,11,400787485,Troy,puntReturns,YDS,2015
+974,3125464,Teddy Ruben,5.5,400787485,Troy,puntReturns,AVG,2015
+975,3125464,Teddy Ruben,10,400787485,Troy,puntReturns,LONG,2015
+976,3125464,Teddy Ruben,0,400787485,Troy,puntReturns,TD,2015
+977,531724,Jed Solomon,2/2,400787485,Troy,kicking,FG,2015
+978,531724,Jed Solomon,100.0,400787485,Troy,kicking,PCT,2015
+979,531724,Jed Solomon,39,400787485,Troy,kicking,LONG,2015
+980,531724,Jed Solomon,5/5,400787485,Troy,kicking,XP,2015
+981,531724,Jed Solomon,11,400787485,Troy,kicking,PTS,2015
+982,531738,Ryan Kay,2,400787485,Troy,punting,NO,2015
+983,531738,Ryan Kay,86,400787485,Troy,punting,YDS,2015
+984,531738,Ryan Kay,43.0,400787485,Troy,punting,AVG,2015
+985,531738,Ryan Kay,0,400787485,Troy,punting,TB,2015
+986,531738,Ryan Kay,0,400787485,Troy,punting,In 20,2015
+987,531738,Ryan Kay,47,400787485,Troy,punting,LONG,2015
+988,3124912,Jordan Davis,19/33,400787485,Louisiana,passing,C/ATT,2015
+989,531678,Brooks Haack,2/4,400787485,Louisiana,passing,C/ATT,2015
+990,545809,Elijah McGuire,0/1,400787485,Louisiana,passing,C/ATT,2015
+991,3124912,Jordan Davis,196,400787485,Louisiana,passing,YDS,2015
+992,531678,Brooks Haack,0,400787485,Louisiana,passing,YDS,2015
+993,545809,Elijah McGuire,0,400787485,Louisiana,passing,YDS,2015
+994,3124912,Jordan Davis,5.9,400787485,Louisiana,passing,AVG,2015
+995,531678,Brooks Haack,0.0,400787485,Louisiana,passing,AVG,2015
+996,545809,Elijah McGuire,0.0,400787485,Louisiana,passing,AVG,2015
+997,3124912,Jordan Davis,1,400787485,Louisiana,passing,TD,2015
+998,531678,Brooks Haack,0,400787485,Louisiana,passing,TD,2015
+999,545809,Elijah McGuire,0,400787485,Louisiana,passing,TD,2015
+1000,3124912,Jordan Davis,0,400787485,Louisiana,passing,INT,2015
+1001,531678,Brooks Haack,1,400787485,Louisiana,passing,INT,2015
+1002,545809,Elijah McGuire,0,400787485,Louisiana,passing,INT,2015
+1003,3124912,Jordan Davis,41.4,400787485,Louisiana,passing,QBR,2015
+1004,531678,Brooks Haack,2.3,400787485,Louisiana,passing,QBR,2015
+1005,545809,Elijah McGuire,12.8,400787485,Louisiana,passing,QBR,2015
+1006,545809,Elijah McGuire,15,400787485,Louisiana,rushing,CAR,2015
+1007,518088,Torrey Pierce,4,400787485,Louisiana,rushing,CAR,2015
+1008,512690,Montrel Carter,4,400787485,Louisiana,rushing,CAR,2015
+1009,3124912,Jordan Davis,17,400787485,Louisiana,rushing,CAR,2015
+1010,545809,Elijah McGuire,86,400787485,Louisiana,rushing,YDS,2015
+1011,518088,Torrey Pierce,19,400787485,Louisiana,rushing,YDS,2015
+1012,512690,Montrel Carter,6,400787485,Louisiana,rushing,YDS,2015
+1013,3124912,Jordan Davis,3,400787485,Louisiana,rushing,YDS,2015
+1014,545809,Elijah McGuire,5.7,400787485,Louisiana,rushing,AVG,2015
+1015,518088,Torrey Pierce,4.8,400787485,Louisiana,rushing,AVG,2015
+1016,512690,Montrel Carter,1.5,400787485,Louisiana,rushing,AVG,2015
+1017,3124912,Jordan Davis,0.2,400787485,Louisiana,rushing,AVG,2015
+1018,545809,Elijah McGuire,1,400787485,Louisiana,rushing,TD,2015
+1019,518088,Torrey Pierce,0,400787485,Louisiana,rushing,TD,2015
+1020,512690,Montrel Carter,0,400787485,Louisiana,rushing,TD,2015
+1021,3124912,Jordan Davis,0,400787485,Louisiana,rushing,TD,2015
+1022,545809,Elijah McGuire,20,400787485,Louisiana,rushing,LONG,2015
+1023,518088,Torrey Pierce,8,400787485,Louisiana,rushing,LONG,2015
+1024,512690,Montrel Carter,8,400787485,Louisiana,rushing,LONG,2015
+1025,3124912,Jordan Davis,9,400787485,Louisiana,rushing,LONG,2015
+1026,545810,Devin Scott,4,400787485,Louisiana,receiving,REC,2015
+1027,3917577,Gary Haynes,8,400787485,Louisiana,receiving,REC,2015
+1028,536320,Al Riles,2,400787485,Louisiana,receiving,REC,2015
+1029,512339,Jamal Robinson,2,400787485,Louisiana,receiving,REC,2015
+1030,545809,Elijah McGuire,3,400787485,Louisiana,receiving,REC,2015
+1031,3124919,Gabe Fuselier,1,400787485,Louisiana,receiving,REC,2015
+1032,512690,Montrel Carter,1,400787485,Louisiana,receiving,REC,2015
+1033,545810,Devin Scott,74,400787485,Louisiana,receiving,YDS,2015
+1034,3917577,Gary Haynes,67,400787485,Louisiana,receiving,YDS,2015
+1035,536320,Al Riles,18,400787485,Louisiana,receiving,YDS,2015
+1036,512339,Jamal Robinson,17,400787485,Louisiana,receiving,YDS,2015
+1037,545809,Elijah McGuire,11,400787485,Louisiana,receiving,YDS,2015
+1038,3124919,Gabe Fuselier,5,400787485,Louisiana,receiving,YDS,2015
+1039,512690,Montrel Carter,4,400787485,Louisiana,receiving,YDS,2015
+1040,545810,Devin Scott,18.5,400787485,Louisiana,receiving,AVG,2015
+1041,3917577,Gary Haynes,8.4,400787485,Louisiana,receiving,AVG,2015
+1042,536320,Al Riles,9.0,400787485,Louisiana,receiving,AVG,2015
+1043,512339,Jamal Robinson,8.5,400787485,Louisiana,receiving,AVG,2015
+1044,545809,Elijah McGuire,3.7,400787485,Louisiana,receiving,AVG,2015
+1045,3124919,Gabe Fuselier,5.0,400787485,Louisiana,receiving,AVG,2015
+1046,512690,Montrel Carter,4.0,400787485,Louisiana,receiving,AVG,2015
+1047,545810,Devin Scott,0,400787485,Louisiana,receiving,TD,2015
+1048,3917577,Gary Haynes,0,400787485,Louisiana,receiving,TD,2015
+1049,536320,Al Riles,0,400787485,Louisiana,receiving,TD,2015
+1050,512339,Jamal Robinson,0,400787485,Louisiana,receiving,TD,2015
+1051,545809,Elijah McGuire,1,400787485,Louisiana,receiving,TD,2015
+1052,3124919,Gabe Fuselier,0,400787485,Louisiana,receiving,TD,2015
+1053,512690,Montrel Carter,0,400787485,Louisiana,receiving,TD,2015
+1054,545810,Devin Scott,47,400787485,Louisiana,receiving,LONG,2015
+1055,3917577,Gary Haynes,16,400787485,Louisiana,receiving,LONG,2015
+1056,536320,Al Riles,12,400787485,Louisiana,receiving,LONG,2015
+1057,512339,Jamal Robinson,10,400787485,Louisiana,receiving,LONG,2015
+1058,545809,Elijah McGuire,9,400787485,Louisiana,receiving,LONG,2015
+1059,3124919,Gabe Fuselier,5,400787485,Louisiana,receiving,LONG,2015
+1060,512690,Montrel Carter,4,400787485,Louisiana,receiving,LONG,2015
+1061,518088,Torrey Pierce,4,400787485,Louisiana,kickReturns,NO,2015
+1062,518088,Torrey Pierce,67,400787485,Louisiana,kickReturns,YDS,2015
+1063,518088,Torrey Pierce,16.8,400787485,Louisiana,kickReturns,AVG,2015
+1064,518088,Torrey Pierce,22,400787485,Louisiana,kickReturns,LONG,2015
+1065,518088,Torrey Pierce,0,400787485,Louisiana,kickReturns,TD,2015
+1066,546093,Reginald Miles,1,400787485,Louisiana,puntReturns,NO,2015
+1067,3917577,Gary Haynes,1,400787485,Louisiana,puntReturns,NO,2015
+1068,546093,Reginald Miles,8,400787485,Louisiana,puntReturns,YDS,2015
+1069,3917577,Gary Haynes,2,400787485,Louisiana,puntReturns,YDS,2015
+1070,546093,Reginald Miles,8.0,400787485,Louisiana,puntReturns,AVG,2015
+1071,3917577,Gary Haynes,2.0,400787485,Louisiana,puntReturns,AVG,2015
+1072,546093,Reginald Miles,0,400787485,Louisiana,puntReturns,LONG,2015
+1073,3917577,Gary Haynes,2,400787485,Louisiana,puntReturns,LONG,2015
+1074,546093,Reginald Miles,0,400787485,Louisiana,puntReturns,TD,2015
+1075,3917577,Gary Haynes,0,400787485,Louisiana,puntReturns,TD,2015
+1076,512685,Carlos Alvarez,1/1,400787485,Louisiana,kicking,FG,2015
+1077,512685,Carlos Alvarez,100.0,400787485,Louisiana,kicking,PCT,2015
+1078,512685,Carlos Alvarez,41,400787485,Louisiana,kicking,LONG,2015
+1079,512685,Carlos Alvarez,2/2,400787485,Louisiana,kicking,XP,2015
+1080,512685,Carlos Alvarez,5,400787485,Louisiana,kicking,PTS,2015
+1081,3917586,Steven Coutts,4,400787485,Louisiana,punting,NO,2015
+1082,3917586,Steven Coutts,175,400787485,Louisiana,punting,YDS,2015
+1083,3917586,Steven Coutts,43.8,400787485,Louisiana,punting,AVG,2015
+1084,3917586,Steven Coutts,0,400787485,Louisiana,punting,TB,2015
+1085,3917586,Steven Coutts,0,400787485,Louisiana,punting,In 20,2015
+1086,3917586,Steven Coutts,56,400787485,Louisiana,punting,LONG,2015
+1087,550597,Kody Cook,4/12,400763469,Kansas State,passing,C/ATT,2015
+1088,517248,Joe Hubener,6/19,400763469,Kansas State,passing,C/ATT,2015
+1089,550597,Kody Cook,121,400763469,Kansas State,passing,YDS,2015
+1090,517248,Joe Hubener,85,400763469,Kansas State,passing,YDS,2015
+1091,550597,Kody Cook,10.1,400763469,Kansas State,passing,AVG,2015
+1092,517248,Joe Hubener,4.5,400763469,Kansas State,passing,AVG,2015
+1093,550597,Kody Cook,1,400763469,Kansas State,passing,TD,2015
+1094,517248,Joe Hubener,0,400763469,Kansas State,passing,TD,2015
+1095,550597,Kody Cook,0,400763469,Kansas State,passing,INT,2015
+1096,517248,Joe Hubener,2,400763469,Kansas State,passing,INT,2015
+1097,550597,Kody Cook,31.0,400763469,Kansas State,passing,QBR,2015
+1098,517248,Joe Hubener,8.3,400763469,Kansas State,passing,QBR,2015
+1099,534616,Charles Jones,14,400763469,Kansas State,rushing,CAR,2015
+1100,550597,Kody Cook,19,400763469,Kansas State,rushing,CAR,2015
+1101,517248,Joe Hubener,12,400763469,Kansas State,rushing,CAR,2015
+1102,3125084,Justin Silmon,3,400763469,Kansas State,rushing,CAR,2015
+1103,3125087,Dalvin Warmack,1,400763469,Kansas State,rushing,CAR,2015
+1104,534616,Charles Jones,44,400763469,Kansas State,rushing,YDS,2015
+1105,550597,Kody Cook,34,400763469,Kansas State,rushing,YDS,2015
+1106,517248,Joe Hubener,15,400763469,Kansas State,rushing,YDS,2015
+1107,3125084,Justin Silmon,5,400763469,Kansas State,rushing,YDS,2015
+1108,3125087,Dalvin Warmack,0,400763469,Kansas State,rushing,YDS,2015
+1109,534616,Charles Jones,3.1,400763469,Kansas State,rushing,AVG,2015
+1110,550597,Kody Cook,1.8,400763469,Kansas State,rushing,AVG,2015
+1111,517248,Joe Hubener,1.3,400763469,Kansas State,rushing,AVG,2015
+1112,3125084,Justin Silmon,1.7,400763469,Kansas State,rushing,AVG,2015
+1113,3125087,Dalvin Warmack,0.0,400763469,Kansas State,rushing,AVG,2015
+1114,534616,Charles Jones,0,400763469,Kansas State,rushing,TD,2015
+1115,550597,Kody Cook,1,400763469,Kansas State,rushing,TD,2015
+1116,517248,Joe Hubener,0,400763469,Kansas State,rushing,TD,2015
+1117,3125084,Justin Silmon,0,400763469,Kansas State,rushing,TD,2015
+1118,3125087,Dalvin Warmack,0,400763469,Kansas State,rushing,TD,2015
+1119,534616,Charles Jones,9,400763469,Kansas State,rushing,LONG,2015
+1120,550597,Kody Cook,9,400763469,Kansas State,rushing,LONG,2015
+1121,517248,Joe Hubener,6,400763469,Kansas State,rushing,LONG,2015
+1122,3125084,Justin Silmon,3,400763469,Kansas State,rushing,LONG,2015
+1123,3125087,Dalvin Warmack,0,400763469,Kansas State,rushing,LONG,2015
+1124,534604,Deante Burton,5,400763469,Kansas State,receiving,REC,2015
+1125,3125062,Winston Dimel,1,400763469,Kansas State,receiving,REC,2015
+1126,517250,Kyle Klein,1,400763469,Kansas State,receiving,REC,2015
+1127,550597,Kody Cook,1,400763469,Kansas State,receiving,REC,2015
+1128,3125060,Andre Davis,1,400763469,Kansas State,receiving,REC,2015
+1129,534616,Charles Jones,1,400763469,Kansas State,receiving,REC,2015
+1130,534604,Deante Burton,135,400763469,Kansas State,receiving,YDS,2015
+1131,3125062,Winston Dimel,27,400763469,Kansas State,receiving,YDS,2015
+1132,517250,Kyle Klein,17,400763469,Kansas State,receiving,YDS,2015
+1133,550597,Kody Cook,15,400763469,Kansas State,receiving,YDS,2015
+1134,3125060,Andre Davis,13,400763469,Kansas State,receiving,YDS,2015
+1135,534616,Charles Jones,-1,400763469,Kansas State,receiving,YDS,2015
+1136,534604,Deante Burton,27.0,400763469,Kansas State,receiving,AVG,2015
+1137,3125062,Winston Dimel,27.0,400763469,Kansas State,receiving,AVG,2015
+1138,517250,Kyle Klein,17.0,400763469,Kansas State,receiving,AVG,2015
+1139,550597,Kody Cook,15.0,400763469,Kansas State,receiving,AVG,2015
+1140,3125060,Andre Davis,13.0,400763469,Kansas State,receiving,AVG,2015
+1141,534616,Charles Jones,-1.0,400763469,Kansas State,receiving,AVG,2015
+1142,534604,Deante Burton,1,400763469,Kansas State,receiving,TD,2015
+1143,3125062,Winston Dimel,0,400763469,Kansas State,receiving,TD,2015
+1144,517250,Kyle Klein,0,400763469,Kansas State,receiving,TD,2015
+1145,550597,Kody Cook,0,400763469,Kansas State,receiving,TD,2015
+1146,3125060,Andre Davis,0,400763469,Kansas State,receiving,TD,2015
+1147,534616,Charles Jones,0,400763469,Kansas State,receiving,TD,2015
+1148,534604,Deante Burton,77,400763469,Kansas State,receiving,LONG,2015
+1149,3125062,Winston Dimel,27,400763469,Kansas State,receiving,LONG,2015
+1150,517250,Kyle Klein,17,400763469,Kansas State,receiving,LONG,2015
+1151,550597,Kody Cook,15,400763469,Kansas State,receiving,LONG,2015
+1152,3125060,Andre Davis,13,400763469,Kansas State,receiving,LONG,2015
+1153,534616,Charles Jones,0,400763469,Kansas State,receiving,LONG,2015
+1154,534603,Morgan Burns,3,400763469,Kansas State,kickReturns,NO,2015
+1155,3125068,Dominique Heath,1,400763469,Kansas State,kickReturns,NO,2015
+1156,534603,Morgan Burns,201,400763469,Kansas State,kickReturns,YDS,2015
+1157,3125068,Dominique Heath,8,400763469,Kansas State,kickReturns,YDS,2015
+1158,534603,Morgan Burns,67.0,400763469,Kansas State,kickReturns,AVG,2015
+1159,3125068,Dominique Heath,8.0,400763469,Kansas State,kickReturns,AVG,2015
+1160,534603,Morgan Burns,97,400763469,Kansas State,kickReturns,LONG,2015
+1161,3125068,Dominique Heath,8,400763469,Kansas State,kickReturns,LONG,2015
+1162,534603,Morgan Burns,1,400763469,Kansas State,kickReturns,TD,2015
+1163,3125068,Dominique Heath,0,400763469,Kansas State,kickReturns,TD,2015
+1164,3125068,Dominique Heath,4,400763469,Kansas State,puntReturns,NO,2015
+1165,3125068,Dominique Heath,-7,400763469,Kansas State,puntReturns,YDS,2015
+1166,3125068,Dominique Heath,-1.8,400763469,Kansas State,puntReturns,AVG,2015
+1167,3125068,Dominique Heath,3,400763469,Kansas State,puntReturns,LONG,2015
+1168,3125068,Dominique Heath,0,400763469,Kansas State,puntReturns,TD,2015
+1169,550141,Matthew McCrane,1/1,400763469,Kansas State,kicking,FG,2015
+1170,550141,Matthew McCrane,100.0,400763469,Kansas State,kicking,PCT,2015
+1171,550141,Matthew McCrane,40,400763469,Kansas State,kicking,LONG,2015
+1172,550141,Matthew McCrane,3/3,400763469,Kansas State,kicking,XP,2015
+1173,550141,Matthew McCrane,6,400763469,Kansas State,kicking,PTS,2015
+1174,550157,Nick Walsh,11,400763469,Kansas State,punting,NO,2015
+1175,550157,Nick Walsh,466,400763469,Kansas State,punting,YDS,2015
+1176,550157,Nick Walsh,42.4,400763469,Kansas State,punting,AVG,2015
+1177,550157,Nick Walsh,0,400763469,Kansas State,punting,TB,2015
+1178,550157,Nick Walsh,0,400763469,Kansas State,punting,In 20,2015
+1179,550157,Nick Walsh,62,400763469,Kansas State,punting,LONG,2015
+1180,3116460,Skyler Howard,19/42,400763469,West Virginia,passing,C/ATT,2015
+1181,3116460,Skyler Howard,281,400763469,West Virginia,passing,YDS,2015
+1182,3116460,Skyler Howard,6.7,400763469,West Virginia,passing,AVG,2015
+1183,3116460,Skyler Howard,1,400763469,West Virginia,passing,TD,2015
+1184,3116460,Skyler Howard,0,400763469,West Virginia,passing,INT,2015
+1185,3116460,Skyler Howard,28.8,400763469,West Virginia,passing,QBR,2015
+1186,546046,Wendell Smallwood,25,400763469,West Virginia,rushing,CAR,2015
+1187,530449,Rushel Shell,7,400763469,West Virginia,rushing,CAR,2015
+1188,3116460,Skyler Howard,10,400763469,West Virginia,rushing,CAR,2015
+1189,546046,Wendell Smallwood,141,400763469,West Virginia,rushing,YDS,2015
+1190,530449,Rushel Shell,38,400763469,West Virginia,rushing,YDS,2015
+1191,3116460,Skyler Howard,-13,400763469,West Virginia,rushing,YDS,2015
+1192,546046,Wendell Smallwood,5.6,400763469,West Virginia,rushing,AVG,2015
+1193,530449,Rushel Shell,5.4,400763469,West Virginia,rushing,AVG,2015
+1194,3116460,Skyler Howard,-1.3,400763469,West Virginia,rushing,AVG,2015
+1195,546046,Wendell Smallwood,1,400763469,West Virginia,rushing,TD,2015
+1196,530449,Rushel Shell,0,400763469,West Virginia,rushing,TD,2015
+1197,3116460,Skyler Howard,0,400763469,West Virginia,rushing,TD,2015
+1198,546046,Wendell Smallwood,14,400763469,West Virginia,rushing,LONG,2015
+1199,530449,Rushel Shell,19,400763469,West Virginia,rushing,LONG,2015
+1200,3116460,Skyler Howard,4,400763469,West Virginia,rushing,LONG,2015
+1201,534518,Jordan Thompson,5,400763469,West Virginia,receiving,REC,2015
+1202,546045,Daikiel Shorts,7,400763469,West Virginia,receiving,REC,2015
+1203,3916069,Jovon Durante,4,400763469,West Virginia,receiving,REC,2015
+1204,3916085,Ka'Raun White,1,400763469,West Virginia,receiving,REC,2015
+1205,546034,Shelton Gibson,1,400763469,West Virginia,receiving,REC,2015
+1206,530449,Rushel Shell,1,400763469,West Virginia,receiving,REC,2015
+1207,534518,Jordan Thompson,127,400763469,West Virginia,receiving,YDS,2015
+1208,546045,Daikiel Shorts,68,400763469,West Virginia,receiving,YDS,2015
+1209,3916069,Jovon Durante,57,400763469,West Virginia,receiving,YDS,2015
+1210,3916085,Ka'Raun White,14,400763469,West Virginia,receiving,YDS,2015
+1211,546034,Shelton Gibson,11,400763469,West Virginia,receiving,YDS,2015
+1212,530449,Rushel Shell,4,400763469,West Virginia,receiving,YDS,2015
+1213,534518,Jordan Thompson,25.4,400763469,West Virginia,receiving,AVG,2015
+1214,546045,Daikiel Shorts,9.7,400763469,West Virginia,receiving,AVG,2015
+1215,3916069,Jovon Durante,14.3,400763469,West Virginia,receiving,AVG,2015
+1216,3916085,Ka'Raun White,14.0,400763469,West Virginia,receiving,AVG,2015
+1217,546034,Shelton Gibson,11.0,400763469,West Virginia,receiving,AVG,2015
+1218,530449,Rushel Shell,4.0,400763469,West Virginia,receiving,AVG,2015
+1219,534518,Jordan Thompson,0,400763469,West Virginia,receiving,TD,2015
+1220,546045,Daikiel Shorts,0,400763469,West Virginia,receiving,TD,2015
+1221,3916069,Jovon Durante,1,400763469,West Virginia,receiving,TD,2015
+1222,3916085,Ka'Raun White,0,400763469,West Virginia,receiving,TD,2015
+1223,546034,Shelton Gibson,0,400763469,West Virginia,receiving,TD,2015
+1224,530449,Rushel Shell,0,400763469,West Virginia,receiving,TD,2015
+1225,534518,Jordan Thompson,51,400763469,West Virginia,receiving,LONG,2015
+1226,546045,Daikiel Shorts,13,400763469,West Virginia,receiving,LONG,2015
+1227,3916069,Jovon Durante,24,400763469,West Virginia,receiving,LONG,2015
+1228,3916085,Ka'Raun White,14,400763469,West Virginia,receiving,LONG,2015
+1229,546034,Shelton Gibson,11,400763469,West Virginia,receiving,LONG,2015
+1230,530449,Rushel Shell,4,400763469,West Virginia,receiving,LONG,2015
+1231,518146,Nick Kwiatkoski,1,400763469,West Virginia,interceptions,INT,2015
+1232,546053,Daryl Worley,1,400763469,West Virginia,interceptions,INT,2015
+1233,518146,Nick Kwiatkoski,0,400763469,West Virginia,interceptions,YDS,2015
+1234,546053,Daryl Worley,0,400763469,West Virginia,interceptions,YDS,2015
+1235,518146,Nick Kwiatkoski,0,400763469,West Virginia,interceptions,TD,2015
+1236,546053,Daryl Worley,0,400763469,West Virginia,interceptions,TD,2015
+1237,546034,Shelton Gibson,1,400763469,West Virginia,kickReturns,NO,2015
+1238,3916071,Gary Jennings,1,400763469,West Virginia,kickReturns,NO,2015
+1239,3916069,Jovon Durante,1,400763469,West Virginia,kickReturns,NO,2015
+1240,546034,Shelton Gibson,36,400763469,West Virginia,kickReturns,YDS,2015
+1241,3916071,Gary Jennings,35,400763469,West Virginia,kickReturns,YDS,2015
+1242,3916069,Jovon Durante,6,400763469,West Virginia,kickReturns,YDS,2015
+1243,546034,Shelton Gibson,36.0,400763469,West Virginia,kickReturns,AVG,2015
+1244,3916071,Gary Jennings,35.0,400763469,West Virginia,kickReturns,AVG,2015
+1245,3916069,Jovon Durante,6.0,400763469,West Virginia,kickReturns,AVG,2015
+1246,546034,Shelton Gibson,36,400763469,West Virginia,kickReturns,LONG,2015
+1247,3916071,Gary Jennings,35,400763469,West Virginia,kickReturns,LONG,2015
+1248,3916069,Jovon Durante,6,400763469,West Virginia,kickReturns,LONG,2015
+1249,546034,Shelton Gibson,0,400763469,West Virginia,kickReturns,TD,2015
+1250,3916071,Gary Jennings,0,400763469,West Virginia,kickReturns,TD,2015
+1251,3916069,Jovon Durante,0,400763469,West Virginia,kickReturns,TD,2015
+1252,3916069,Jovon Durante,2,400763469,West Virginia,puntReturns,NO,2015
+1253,3916071,Gary Jennings,1,400763469,West Virginia,puntReturns,NO,2015
+1254,534494,K.J. Dillon,1,400763469,West Virginia,puntReturns,NO,2015
+1255,3916069,Jovon Durante,14,400763469,West Virginia,puntReturns,YDS,2015
+1256,3916071,Gary Jennings,6,400763469,West Virginia,puntReturns,YDS,2015
+1257,534494,K.J. Dillon,4,400763469,West Virginia,puntReturns,YDS,2015
+1258,3916069,Jovon Durante,7.0,400763469,West Virginia,puntReturns,AVG,2015
+1259,3916071,Gary Jennings,6.0,400763469,West Virginia,puntReturns,AVG,2015
+1260,534494,K.J. Dillon,4.0,400763469,West Virginia,puntReturns,AVG,2015
+1261,3916069,Jovon Durante,11,400763469,West Virginia,puntReturns,LONG,2015
+1262,3916071,Gary Jennings,6,400763469,West Virginia,puntReturns,LONG,2015
+1263,534494,K.J. Dillon,4,400763469,West Virginia,puntReturns,LONG,2015
+1264,3916069,Jovon Durante,0,400763469,West Virginia,puntReturns,TD,2015
+1265,3916071,Gary Jennings,0,400763469,West Virginia,puntReturns,TD,2015
+1266,534494,K.J. Dillon,0,400763469,West Virginia,puntReturns,TD,2015
+1267,534507,Josh Lambert,3/4,400763469,West Virginia,kicking,FG,2015
+1268,534507,Josh Lambert,75.0,400763469,West Virginia,kicking,PCT,2015
+1269,534507,Josh Lambert,45,400763469,West Virginia,kicking,LONG,2015
+1270,534507,Josh Lambert,2/2,400763469,West Virginia,kicking,XP,2015
+1271,534507,Josh Lambert,11,400763469,West Virginia,kicking,PTS,2015
+1272,546044,Nick O'Toole,9,400763469,West Virginia,punting,NO,2015
+1273,546044,Nick O'Toole,426,400763469,West Virginia,punting,YDS,2015
+1274,546044,Nick O'Toole,47.3,400763469,West Virginia,punting,AVG,2015
+1275,546044,Nick O'Toole,0,400763469,West Virginia,punting,TB,2015
+1276,546044,Nick O'Toole,0,400763469,West Virginia,punting,In 20,2015
+1277,546044,Nick O'Toole,53,400763469,West Virginia,punting,LONG,2015
+1278,3121647,Treon Harris,9/24,400852681,Florida,passing,C/ATT,2015
+1279,3121647,Treon Harris,165,400852681,Florida,passing,YDS,2015
+1280,3121647,Treon Harris,6.9,400852681,Florida,passing,AVG,2015
+1281,3121647,Treon Harris,1,400852681,Florida,passing,TD,2015
+1282,3121647,Treon Harris,1,400852681,Florida,passing,INT,2015
+1283,3121647,Treon Harris,6.7,400852681,Florida,passing,QBR,2015
+1284,3915098,Jordan Cronkrite,2,400852681,Florida,rushing,CAR,2015
+1285,546318,Kelvin Taylor,7,400852681,Florida,rushing,CAR,2015
+1286,3915115,Jordan Scarlett,1,400852681,Florida,rushing,CAR,2015
+1287,3121647,Treon Harris,11,400852681,Florida,rushing,CAR,2015
+1288,3915098,Jordan Cronkrite,8,400852681,Florida,rushing,YDS,2015
+1289,546318,Kelvin Taylor,8,400852681,Florida,rushing,YDS,2015
+1290,3915115,Jordan Scarlett,3,400852681,Florida,rushing,YDS,2015
+1291,3121647,Treon Harris,-4,400852681,Florida,rushing,YDS,2015
+1292,3915098,Jordan Cronkrite,4.0,400852681,Florida,rushing,AVG,2015
+1293,546318,Kelvin Taylor,1.1,400852681,Florida,rushing,AVG,2015
+1294,3915115,Jordan Scarlett,3.0,400852681,Florida,rushing,AVG,2015
+1295,3121647,Treon Harris,-0.4,400852681,Florida,rushing,AVG,2015
+1296,3915098,Jordan Cronkrite,0,400852681,Florida,rushing,TD,2015
+1297,546318,Kelvin Taylor,0,400852681,Florida,rushing,TD,2015
+1298,3915115,Jordan Scarlett,0,400852681,Florida,rushing,TD,2015
+1299,3121647,Treon Harris,0,400852681,Florida,rushing,TD,2015
+1300,3915098,Jordan Cronkrite,8,400852681,Florida,rushing,LONG,2015
+1301,546318,Kelvin Taylor,3,400852681,Florida,rushing,LONG,2015
+1302,3915115,Jordan Scarlett,3,400852681,Florida,rushing,LONG,2015
+1303,3121647,Treon Harris,23,400852681,Florida,rushing,LONG,2015
+1304,3121661,C.J. Worton,1,400852681,Florida,receiving,REC,2015
+1305,3915097,Antonio Callaway,1,400852681,Florida,receiving,REC,2015
+1306,501194,Jake McGee,3,400852681,Florida,receiving,REC,2015
+1307,512204,Valdez Showers,2,400852681,Florida,receiving,REC,2015
+1308,559555,DeAndre Goolsby,1,400852681,Florida,receiving,REC,2015
+1309,3121647,Treon Harris,1,400852681,Florida,receiving,REC,2015
+1310,3121661,C.J. Worton,46,400852681,Florida,receiving,YDS,2015
+1311,3915097,Antonio Callaway,46,400852681,Florida,receiving,YDS,2015
+1312,501194,Jake McGee,43,400852681,Florida,receiving,YDS,2015
+1313,512204,Valdez Showers,22,400852681,Florida,receiving,YDS,2015
+1314,559555,DeAndre Goolsby,15,400852681,Florida,receiving,YDS,2015
+1315,3121647,Treon Harris,-7,400852681,Florida,receiving,YDS,2015
+1316,3121661,C.J. Worton,46.0,400852681,Florida,receiving,AVG,2015
+1317,3915097,Antonio Callaway,46.0,400852681,Florida,receiving,AVG,2015
+1318,501194,Jake McGee,14.3,400852681,Florida,receiving,AVG,2015
+1319,512204,Valdez Showers,11.0,400852681,Florida,receiving,AVG,2015
+1320,559555,DeAndre Goolsby,15.0,400852681,Florida,receiving,AVG,2015
+1321,3121647,Treon Harris,-7.0,400852681,Florida,receiving,AVG,2015
+1322,3121661,C.J. Worton,1,400852681,Florida,receiving,TD,2015
+1323,3915097,Antonio Callaway,0,400852681,Florida,receiving,TD,2015
+1324,501194,Jake McGee,0,400852681,Florida,receiving,TD,2015
+1325,512204,Valdez Showers,0,400852681,Florida,receiving,TD,2015
+1326,559555,DeAndre Goolsby,0,400852681,Florida,receiving,TD,2015
+1327,3121647,Treon Harris,0,400852681,Florida,receiving,TD,2015
+1328,3121661,C.J. Worton,46,400852681,Florida,receiving,LONG,2015
+1329,3915097,Antonio Callaway,46,400852681,Florida,receiving,LONG,2015
+1330,501194,Jake McGee,18,400852681,Florida,receiving,LONG,2015
+1331,512204,Valdez Showers,18,400852681,Florida,receiving,LONG,2015
+1332,559555,DeAndre Goolsby,15,400852681,Florida,receiving,LONG,2015
+1333,3121647,Treon Harris,0,400852681,Florida,receiving,LONG,2015
+1334,551319,Vernon Hargreaves III,2,400852681,Florida,kickReturns,NO,2015
+1335,551319,Vernon Hargreaves III,44,400852681,Florida,kickReturns,YDS,2015
+1336,551319,Vernon Hargreaves III,22.0,400852681,Florida,kickReturns,AVG,2015
+1337,551319,Vernon Hargreaves III,24,400852681,Florida,kickReturns,LONG,2015
+1338,551319,Vernon Hargreaves III,0,400852681,Florida,kickReturns,TD,2015
+1339,3915097,Antonio Callaway,5,400852681,Florida,puntReturns,NO,2015
+1340,3915097,Antonio Callaway,84,400852681,Florida,puntReturns,YDS,2015
+1341,3915097,Antonio Callaway,16.8,400852681,Florida,puntReturns,AVG,2015
+1342,3915097,Antonio Callaway,85,400852681,Florida,puntReturns,LONG,2015
+1343,3915097,Antonio Callaway,1,400852681,Florida,puntReturns,TD,2015
+1344,3949853,Neil MacInnes,0/0,400852681,Florida,kicking,FG,2015
+1345,535915,Austin Hardin,0/1,400852681,Florida,kicking,FG,2015
+1346,3949853,Neil MacInnes,0.0,400852681,Florida,kicking,PCT,2015
+1347,535915,Austin Hardin,0.0,400852681,Florida,kicking,PCT,2015
+1348,3949853,Neil MacInnes,0,400852681,Florida,kicking,LONG,2015
+1349,535915,Austin Hardin,0,400852681,Florida,kicking,LONG,2015
+1350,3949853,Neil MacInnes,1/1,400852681,Florida,kicking,XP,2015
+1351,535915,Austin Hardin,0/0,400852681,Florida,kicking,XP,2015
+1352,3949853,Neil MacInnes,1,400852681,Florida,kicking,PTS,2015
+1353,535915,Austin Hardin,0,400852681,Florida,kicking,PTS,2015
+1354,551335,Johnny Townsend,8,400852681,Florida,punting,NO,2015
+1355,551335,Johnny Townsend,414,400852681,Florida,punting,YDS,2015
+1356,551335,Johnny Townsend,51.8,400852681,Florida,punting,AVG,2015
+1357,551335,Johnny Townsend,0,400852681,Florida,punting,TB,2015
+1358,551335,Johnny Townsend,0,400852681,Florida,punting,In 20,2015
+1359,551335,Johnny Townsend,57,400852681,Florida,punting,LONG,2015
+1360,514124,Jake Coker,18/26,400852681,Alabama,passing,C/ATT,2015
+1361,514124,Jake Coker,204,400852681,Alabama,passing,YDS,2015
+1362,514124,Jake Coker,7.8,400852681,Alabama,passing,AVG,2015
+1363,514124,Jake Coker,2,400852681,Alabama,passing,TD,2015
+1364,514124,Jake Coker,0,400852681,Alabama,passing,INT,2015
+1365,514124,Jake Coker,76.1,400852681,Alabama,passing,QBR,2015
+1366,546368,Derrick Henry,44,400852681,Alabama,rushing,CAR,2015
+1367,514124,Jake Coker,8,400852681,Alabama,rushing,CAR,2015
+1368,535744,Kenyan Drake,4,400852681,Alabama,rushing,CAR,2015
+1369,551307,ArDarius Stewart,1,400852681,Alabama,rushing,CAR,2015
+1370,3925357,Calvin Ridley,1,400852681,Alabama,rushing,CAR,2015
+1371,546368,Derrick Henry,189,400852681,Alabama,rushing,YDS,2015
+1372,514124,Jake Coker,23,400852681,Alabama,rushing,YDS,2015
+1373,535744,Kenyan Drake,14,400852681,Alabama,rushing,YDS,2015
+1374,551307,ArDarius Stewart,5,400852681,Alabama,rushing,YDS,2015
+1375,3925357,Calvin Ridley,2,400852681,Alabama,rushing,YDS,2015
+1376,546368,Derrick Henry,4.3,400852681,Alabama,rushing,AVG,2015
+1377,514124,Jake Coker,2.9,400852681,Alabama,rushing,AVG,2015
+1378,535744,Kenyan Drake,3.5,400852681,Alabama,rushing,AVG,2015
+1379,551307,ArDarius Stewart,5.0,400852681,Alabama,rushing,AVG,2015
+1380,3925357,Calvin Ridley,2.0,400852681,Alabama,rushing,AVG,2015
+1381,546368,Derrick Henry,1,400852681,Alabama,rushing,TD,2015
+1382,514124,Jake Coker,0,400852681,Alabama,rushing,TD,2015
+1383,535744,Kenyan Drake,0,400852681,Alabama,rushing,TD,2015
+1384,551307,ArDarius Stewart,0,400852681,Alabama,rushing,TD,2015
+1385,3925357,Calvin Ridley,0,400852681,Alabama,rushing,TD,2015
+1386,546368,Derrick Henry,21,400852681,Alabama,rushing,LONG,2015
+1387,514124,Jake Coker,17,400852681,Alabama,rushing,LONG,2015
+1388,535744,Kenyan Drake,7,400852681,Alabama,rushing,LONG,2015
+1389,551307,ArDarius Stewart,5,400852681,Alabama,rushing,LONG,2015
+1390,3925357,Calvin Ridley,2,400852681,Alabama,rushing,LONG,2015
+1391,3925357,Calvin Ridley,8,400852681,Alabama,receiving,REC,2015
+1392,551307,ArDarius Stewart,4,400852681,Alabama,receiving,REC,2015
+1393,517255,Richard Mullaney,3,400852681,Alabama,receiving,REC,2015
+1394,535744,Kenyan Drake,3,400852681,Alabama,receiving,REC,2015
+1395,3925357,Calvin Ridley,102,400852681,Alabama,receiving,YDS,2015
+1396,551307,ArDarius Stewart,64,400852681,Alabama,receiving,YDS,2015
+1397,517255,Richard Mullaney,22,400852681,Alabama,receiving,YDS,2015
+1398,535744,Kenyan Drake,16,400852681,Alabama,receiving,YDS,2015
+1399,3925357,Calvin Ridley,12.8,400852681,Alabama,receiving,AVG,2015
+1400,551307,ArDarius Stewart,16.0,400852681,Alabama,receiving,AVG,2015
+1401,517255,Richard Mullaney,7.3,400852681,Alabama,receiving,AVG,2015
+1402,535744,Kenyan Drake,5.3,400852681,Alabama,receiving,AVG,2015
+1403,3925357,Calvin Ridley,0,400852681,Alabama,receiving,TD,2015
+1404,551307,ArDarius Stewart,1,400852681,Alabama,receiving,TD,2015
+1405,517255,Richard Mullaney,1,400852681,Alabama,receiving,TD,2015
+1406,535744,Kenyan Drake,0,400852681,Alabama,receiving,TD,2015
+1407,3925357,Calvin Ridley,55,400852681,Alabama,receiving,LONG,2015
+1408,551307,ArDarius Stewart,32,400852681,Alabama,receiving,LONG,2015
+1409,517255,Richard Mullaney,9,400852681,Alabama,receiving,LONG,2015
+1410,535744,Kenyan Drake,9,400852681,Alabama,receiving,LONG,2015
+1411,3126356,Marlon Humphrey,1,400852681,Alabama,interceptions,INT,2015
+1412,3126356,Marlon Humphrey,-1,400852681,Alabama,interceptions,YDS,2015
+1413,3126356,Marlon Humphrey,0,400852681,Alabama,interceptions,TD,2015
+1414,535750,Cyrus Jones,1,400852681,Alabama,kickReturns,NO,2015
+1415,535744,Kenyan Drake,1,400852681,Alabama,kickReturns,NO,2015
+1416,535750,Cyrus Jones,24,400852681,Alabama,kickReturns,YDS,2015
+1417,535744,Kenyan Drake,22,400852681,Alabama,kickReturns,YDS,2015
+1418,535750,Cyrus Jones,24.0,400852681,Alabama,kickReturns,AVG,2015
+1419,535744,Kenyan Drake,22.0,400852681,Alabama,kickReturns,AVG,2015
+1420,535750,Cyrus Jones,24,400852681,Alabama,kickReturns,LONG,2015
+1421,535744,Kenyan Drake,22,400852681,Alabama,kickReturns,LONG,2015
+1422,535750,Cyrus Jones,0,400852681,Alabama,kickReturns,TD,2015
+1423,535744,Kenyan Drake,0,400852681,Alabama,kickReturns,TD,2015
+1424,535750,Cyrus Jones,7,400852681,Alabama,puntReturns,NO,2015
+1425,3126355,Keith Holcombe,1,400852681,Alabama,puntReturns,NO,2015
+1426,535750,Cyrus Jones,32,400852681,Alabama,puntReturns,YDS,2015
+1427,3126355,Keith Holcombe,13,400852681,Alabama,puntReturns,YDS,2015
+1428,535750,Cyrus Jones,4.6,400852681,Alabama,puntReturns,AVG,2015
+1429,3126355,Keith Holcombe,13.0,400852681,Alabama,puntReturns,AVG,2015
+1430,535750,Cyrus Jones,15,400852681,Alabama,puntReturns,LONG,2015
+1431,3126355,Keith Holcombe,13,400852681,Alabama,puntReturns,LONG,2015
+1432,535750,Cyrus Jones,0,400852681,Alabama,puntReturns,TD,2015
+1433,3126355,Keith Holcombe,0,400852681,Alabama,puntReturns,TD,2015
+1434,535747,Adam Griffith,2/3,400852681,Alabama,kicking,FG,2015
+1435,535747,Adam Griffith,66.7,400852681,Alabama,kicking,PCT,2015
+1436,535747,Adam Griffith,30,400852681,Alabama,kicking,LONG,2015
+1437,535747,Adam Griffith,3/3,400852681,Alabama,kicking,XP,2015
+1438,535747,Adam Griffith,9,400852681,Alabama,kicking,PTS,2015
+1439,3126368,JK Scott,6,400852681,Alabama,punting,NO,2015
+1440,3126368,JK Scott,307,400852681,Alabama,punting,YDS,2015
+1441,3126368,JK Scott,51.2,400852681,Alabama,punting,AVG,2015
+1442,3126368,JK Scott,0,400852681,Alabama,punting,TB,2015
+1443,3126368,JK Scott,0,400852681,Alabama,punting,In 20,2015
+1444,3126368,JK Scott,59,400852681,Alabama,punting,LONG,2015
+1445,538156,Fredi Knighten,12/16,400787483,Arkansas State,passing,C/ATT,2015
+1446,538156,Fredi Knighten,192,400787483,Arkansas State,passing,YDS,2015
+1447,538156,Fredi Knighten,12.0,400787483,Arkansas State,passing,AVG,2015
+1448,538156,Fredi Knighten,2,400787483,Arkansas State,passing,TD,2015
+1449,538156,Fredi Knighten,0,400787483,Arkansas State,passing,INT,2015
+1450,538156,Fredi Knighten,95.4,400787483,Arkansas State,passing,QBR,2015
+1451,538149,Michael Gordon,20,400787483,Arkansas State,rushing,CAR,2015
+1452,3147876,Logan Moragne,3,400787483,Arkansas State,rushing,CAR,2015
+1453,554948,Johnston White,4,400787483,Arkansas State,rushing,CAR,2015
+1454,3917190,Warren Wand,7,400787483,Arkansas State,rushing,CAR,2015
+1455,538156,Fredi Knighten,9,400787483,Arkansas State,rushing,CAR,2015
+1456,538150,Rocky Hayes,1,400787483,Arkansas State,rushing,CAR,2015
+1457,515871,Darion Griswold,1,400787483,Arkansas State,rushing,CAR,2015
+1458,515882,J.D. McKissic,1,400787483,Arkansas State,rushing,CAR,2015
+1459,538149,Michael Gordon,148,400787483,Arkansas State,rushing,YDS,2015
+1460,3147876,Logan Moragne,72,400787483,Arkansas State,rushing,YDS,2015
+1461,554948,Johnston White,59,400787483,Arkansas State,rushing,YDS,2015
+1462,3917190,Warren Wand,33,400787483,Arkansas State,rushing,YDS,2015
+1463,538156,Fredi Knighten,18,400787483,Arkansas State,rushing,YDS,2015
+1464,538150,Rocky Hayes,5,400787483,Arkansas State,rushing,YDS,2015
+1465,515871,Darion Griswold,4,400787483,Arkansas State,rushing,YDS,2015
+1466,515882,J.D. McKissic,4,400787483,Arkansas State,rushing,YDS,2015
+1467,538149,Michael Gordon,7.4,400787483,Arkansas State,rushing,AVG,2015
+1468,3147876,Logan Moragne,24.0,400787483,Arkansas State,rushing,AVG,2015
+1469,554948,Johnston White,14.8,400787483,Arkansas State,rushing,AVG,2015
+1470,3917190,Warren Wand,4.7,400787483,Arkansas State,rushing,AVG,2015
+1471,538156,Fredi Knighten,2.0,400787483,Arkansas State,rushing,AVG,2015
+1472,538150,Rocky Hayes,5.0,400787483,Arkansas State,rushing,AVG,2015
+1473,515871,Darion Griswold,4.0,400787483,Arkansas State,rushing,AVG,2015
+1474,515882,J.D. McKissic,4.0,400787483,Arkansas State,rushing,AVG,2015
+1475,538149,Michael Gordon,1,400787483,Arkansas State,rushing,TD,2015
+1476,3147876,Logan Moragne,0,400787483,Arkansas State,rushing,TD,2015
+1477,554948,Johnston White,1,400787483,Arkansas State,rushing,TD,2015
+1478,3917190,Warren Wand,1,400787483,Arkansas State,rushing,TD,2015
+1479,538156,Fredi Knighten,1,400787483,Arkansas State,rushing,TD,2015
+1480,538150,Rocky Hayes,0,400787483,Arkansas State,rushing,TD,2015
+1481,515871,Darion Griswold,1,400787483,Arkansas State,rushing,TD,2015
+1482,515882,J.D. McKissic,0,400787483,Arkansas State,rushing,TD,2015
+1483,538149,Michael Gordon,29,400787483,Arkansas State,rushing,LONG,2015
+1484,3147876,Logan Moragne,58,400787483,Arkansas State,rushing,LONG,2015
+1485,554948,Johnston White,48,400787483,Arkansas State,rushing,LONG,2015
+1486,3917190,Warren Wand,9,400787483,Arkansas State,rushing,LONG,2015
+1487,538156,Fredi Knighten,10,400787483,Arkansas State,rushing,LONG,2015
+1488,538150,Rocky Hayes,5,400787483,Arkansas State,rushing,LONG,2015
+1489,515871,Darion Griswold,4,400787483,Arkansas State,rushing,LONG,2015
+1490,515882,J.D. McKissic,4,400787483,Arkansas State,rushing,LONG,2015
+1491,538152,Tres Houston,3,400787483,Arkansas State,receiving,REC,2015
+1492,3935525,Chris Murray,2,400787483,Arkansas State,receiving,REC,2015
+1493,538149,Michael Gordon,2,400787483,Arkansas State,receiving,REC,2015
+1494,545962,Dijon Paschal,3,400787483,Arkansas State,receiving,REC,2015
+1495,515871,Darion Griswold,1,400787483,Arkansas State,receiving,REC,2015
+1496,515882,J.D. McKissic,1,400787483,Arkansas State,receiving,REC,2015
+1497,538152,Tres Houston,62,400787483,Arkansas State,receiving,YDS,2015
+1498,3935525,Chris Murray,50,400787483,Arkansas State,receiving,YDS,2015
+1499,538149,Michael Gordon,30,400787483,Arkansas State,receiving,YDS,2015
+1500,545962,Dijon Paschal,24,400787483,Arkansas State,receiving,YDS,2015
+1501,515871,Darion Griswold,19,400787483,Arkansas State,receiving,YDS,2015
+1502,515882,J.D. McKissic,7,400787483,Arkansas State,receiving,YDS,2015
+1503,538152,Tres Houston,20.7,400787483,Arkansas State,receiving,AVG,2015
+1504,3935525,Chris Murray,25.0,400787483,Arkansas State,receiving,AVG,2015
+1505,538149,Michael Gordon,15.0,400787483,Arkansas State,receiving,AVG,2015
+1506,545962,Dijon Paschal,8.0,400787483,Arkansas State,receiving,AVG,2015
+1507,515871,Darion Griswold,19.0,400787483,Arkansas State,receiving,AVG,2015
+1508,515882,J.D. McKissic,7.0,400787483,Arkansas State,receiving,AVG,2015
+1509,538152,Tres Houston,0,400787483,Arkansas State,receiving,TD,2015
+1510,3935525,Chris Murray,1,400787483,Arkansas State,receiving,TD,2015
+1511,538149,Michael Gordon,0,400787483,Arkansas State,receiving,TD,2015
+1512,545962,Dijon Paschal,0,400787483,Arkansas State,receiving,TD,2015
+1513,515871,Darion Griswold,0,400787483,Arkansas State,receiving,TD,2015
+1514,515882,J.D. McKissic,1,400787483,Arkansas State,receiving,TD,2015
+1515,538152,Tres Houston,36,400787483,Arkansas State,receiving,LONG,2015
+1516,3935525,Chris Murray,32,400787483,Arkansas State,receiving,LONG,2015
+1517,538149,Michael Gordon,18,400787483,Arkansas State,receiving,LONG,2015
+1518,545962,Dijon Paschal,13,400787483,Arkansas State,receiving,LONG,2015
+1519,515871,Darion Griswold,19,400787483,Arkansas State,receiving,LONG,2015
+1520,515882,J.D. McKissic,7,400787483,Arkansas State,receiving,LONG,2015
+1521,550842,Money Hunter,1,400787483,Arkansas State,interceptions,INT,2015
+1522,538150,Rocky Hayes,1,400787483,Arkansas State,interceptions,INT,2015
+1523,550842,Money Hunter,99,400787483,Arkansas State,interceptions,YDS,2015
+1524,538150,Rocky Hayes,0,400787483,Arkansas State,interceptions,YDS,2015
+1525,550842,Money Hunter,1,400787483,Arkansas State,interceptions,TD,2015
+1526,538150,Rocky Hayes,0,400787483,Arkansas State,interceptions,TD,2015
+1527,515882,J.D. McKissic,1,400787483,Arkansas State,kickReturns,NO,2015
+1528,515882,J.D. McKissic,31,400787483,Arkansas State,kickReturns,YDS,2015
+1529,515882,J.D. McKissic,31.0,400787483,Arkansas State,kickReturns,AVG,2015
+1530,515882,J.D. McKissic,31,400787483,Arkansas State,kickReturns,LONG,2015
+1531,515882,J.D. McKissic,0,400787483,Arkansas State,kickReturns,TD,2015
+1532,515882,J.D. McKissic,1,400787483,Arkansas State,puntReturns,NO,2015
+1533,515882,J.D. McKissic,0,400787483,Arkansas State,puntReturns,YDS,2015
+1534,515882,J.D. McKissic,0.0,400787483,Arkansas State,puntReturns,AVG,2015
+1535,515882,J.D. McKissic,0,400787483,Arkansas State,puntReturns,LONG,2015
+1536,515882,J.D. McKissic,0,400787483,Arkansas State,puntReturns,TD,2015
+1537,3933177,J.D. Houston,0/1,400787483,Arkansas State,kicking,FG,2015
+1538,3933177,J.D. Houston,0.0,400787483,Arkansas State,kicking,PCT,2015
+1539,3933177,J.D. Houston,0,400787483,Arkansas State,kicking,LONG,2015
+1540,3933177,J.D. Houston,7/8,400787483,Arkansas State,kicking,XP,2015
+1541,3933177,J.D. Houston,7,400787483,Arkansas State,kicking,PTS,2015
+1542,538142,Luke Ferguson,2,400787483,Arkansas State,punting,NO,2015
+1543,538142,Luke Ferguson,92,400787483,Arkansas State,punting,YDS,2015
+1544,538142,Luke Ferguson,46.0,400787483,Arkansas State,punting,AVG,2015
+1545,538142,Luke Ferguson,0,400787483,Arkansas State,punting,TB,2015
+1546,538142,Luke Ferguson,0,400787483,Arkansas State,punting,In 20,2015
+1547,538142,Luke Ferguson,67,400787483,Arkansas State,punting,LONG,2015
+1548,548240,Tyler Jones,11/17,400787483,Texas State,passing,C/ATT,2015
+1549,3125432,Connor White,8/15,400787483,Texas State,passing,C/ATT,2015
+1550,548240,Tyler Jones,129,400787483,Texas State,passing,YDS,2015
+1551,3125432,Connor White,98,400787483,Texas State,passing,YDS,2015
+1552,548240,Tyler Jones,7.6,400787483,Texas State,passing,AVG,2015
+1553,3125432,Connor White,6.5,400787483,Texas State,passing,AVG,2015
+1554,548240,Tyler Jones,0,400787483,Texas State,passing,TD,2015
+1555,3125432,Connor White,0,400787483,Texas State,passing,TD,2015
+1556,548240,Tyler Jones,1,400787483,Texas State,passing,INT,2015
+1557,3125432,Connor White,1,400787483,Texas State,passing,INT,2015
+1558,548240,Tyler Jones,17.0,400787483,Texas State,passing,QBR,2015
+1559,3125432,Connor White,35.7,400787483,Texas State,passing,QBR,2015
+1560,3922148,Tyler Siudzinski,12,400787483,Texas State,rushing,CAR,2015
+1561,548240,Tyler Jones,14,400787483,Texas State,rushing,CAR,2015
+1562,548232,C.J. Best,4,400787483,Texas State,rushing,CAR,2015
+1563,3125432,Connor White,8,400787483,Texas State,rushing,CAR,2015
+1564,3922138,Nick Bingham,5,400787483,Texas State,rushing,CAR,2015
+1565,3922148,Tyler Siudzinski,41,400787483,Texas State,rushing,YDS,2015
+1566,548240,Tyler Jones,36,400787483,Texas State,rushing,YDS,2015
+1567,548232,C.J. Best,35,400787483,Texas State,rushing,YDS,2015
+1568,3125432,Connor White,30,400787483,Texas State,rushing,YDS,2015
+1569,3922138,Nick Bingham,12,400787483,Texas State,rushing,YDS,2015
+1570,3922148,Tyler Siudzinski,3.4,400787483,Texas State,rushing,AVG,2015
+1571,548240,Tyler Jones,2.6,400787483,Texas State,rushing,AVG,2015
+1572,548232,C.J. Best,8.8,400787483,Texas State,rushing,AVG,2015
+1573,3125432,Connor White,3.8,400787483,Texas State,rushing,AVG,2015
+1574,3922138,Nick Bingham,2.4,400787483,Texas State,rushing,AVG,2015
+1575,3922148,Tyler Siudzinski,0,400787483,Texas State,rushing,TD,2015
+1576,548240,Tyler Jones,0,400787483,Texas State,rushing,TD,2015
+1577,548232,C.J. Best,1,400787483,Texas State,rushing,TD,2015
+1578,3125432,Connor White,0,400787483,Texas State,rushing,TD,2015
+1579,3922138,Nick Bingham,1,400787483,Texas State,rushing,TD,2015
+1580,3922148,Tyler Siudzinski,12,400787483,Texas State,rushing,LONG,2015
+1581,548240,Tyler Jones,34,400787483,Texas State,rushing,LONG,2015
+1582,548232,C.J. Best,12,400787483,Texas State,rushing,LONG,2015
+1583,3125432,Connor White,19,400787483,Texas State,rushing,LONG,2015
+1584,3922138,Nick Bingham,10,400787483,Texas State,rushing,LONG,2015
+1585,548232,C.J. Best,8,400787483,Texas State,receiving,REC,2015
+1586,515416,Jafus Gaines,2,400787483,Texas State,receiving,REC,2015
+1587,532240,Ryan Garrey,5,400787483,Texas State,receiving,REC,2015
+1588,532259,Brandon Smith,3,400787483,Texas State,receiving,REC,2015
+1589,3922148,Tyler Siudzinski,1,400787483,Texas State,receiving,REC,2015
+1590,548232,C.J. Best,95,400787483,Texas State,receiving,YDS,2015
+1591,515416,Jafus Gaines,41,400787483,Texas State,receiving,YDS,2015
+1592,532240,Ryan Garrey,37,400787483,Texas State,receiving,YDS,2015
+1593,532259,Brandon Smith,35,400787483,Texas State,receiving,YDS,2015
+1594,3922148,Tyler Siudzinski,19,400787483,Texas State,receiving,YDS,2015
+1595,548232,C.J. Best,11.9,400787483,Texas State,receiving,AVG,2015
+1596,515416,Jafus Gaines,20.5,400787483,Texas State,receiving,AVG,2015
+1597,532240,Ryan Garrey,7.4,400787483,Texas State,receiving,AVG,2015
+1598,532259,Brandon Smith,11.7,400787483,Texas State,receiving,AVG,2015
+1599,3922148,Tyler Siudzinski,19.0,400787483,Texas State,receiving,AVG,2015
+1600,548232,C.J. Best,0,400787483,Texas State,receiving,TD,2015
+1601,515416,Jafus Gaines,0,400787483,Texas State,receiving,TD,2015
+1602,532240,Ryan Garrey,0,400787483,Texas State,receiving,TD,2015
+1603,532259,Brandon Smith,0,400787483,Texas State,receiving,TD,2015
+1604,3922148,Tyler Siudzinski,0,400787483,Texas State,receiving,TD,2015
+1605,548232,C.J. Best,23,400787483,Texas State,receiving,LONG,2015
+1606,515416,Jafus Gaines,29,400787483,Texas State,receiving,LONG,2015
+1607,532240,Ryan Garrey,14,400787483,Texas State,receiving,LONG,2015
+1608,532259,Brandon Smith,27,400787483,Texas State,receiving,LONG,2015
+1609,3922148,Tyler Siudzinski,19,400787483,Texas State,receiving,LONG,2015
+1610,532259,Brandon Smith,2,400787483,Texas State,kickReturns,NO,2015
+1611,3918111,Javante O'Roy,1,400787483,Texas State,kickReturns,NO,2015
+1612,547174,Kwamane Bowens,1,400787483,Texas State,kickReturns,NO,2015
+1613,532259,Brandon Smith,30,400787483,Texas State,kickReturns,YDS,2015
+1614,3918111,Javante O'Roy,14,400787483,Texas State,kickReturns,YDS,2015
+1615,547174,Kwamane Bowens,12,400787483,Texas State,kickReturns,YDS,2015
+1616,532259,Brandon Smith,15.0,400787483,Texas State,kickReturns,AVG,2015
+1617,3918111,Javante O'Roy,14.0,400787483,Texas State,kickReturns,AVG,2015
+1618,547174,Kwamane Bowens,12.0,400787483,Texas State,kickReturns,AVG,2015
+1619,532259,Brandon Smith,21,400787483,Texas State,kickReturns,LONG,2015
+1620,3918111,Javante O'Roy,14,400787483,Texas State,kickReturns,LONG,2015
+1621,547174,Kwamane Bowens,12,400787483,Texas State,kickReturns,LONG,2015
+1622,532259,Brandon Smith,0,400787483,Texas State,kickReturns,TD,2015
+1623,3918111,Javante O'Roy,0,400787483,Texas State,kickReturns,TD,2015
+1624,547174,Kwamane Bowens,0,400787483,Texas State,kickReturns,TD,2015
+1625,3922141,Lumi Kaba,1/2,400787483,Texas State,kicking,FG,2015
+1626,3922141,Lumi Kaba,50.0,400787483,Texas State,kicking,PCT,2015
+1627,3922141,Lumi Kaba,46,400787483,Texas State,kicking,LONG,2015
+1628,3922141,Lumi Kaba,2/2,400787483,Texas State,kicking,XP,2015
+1629,3922141,Lumi Kaba,5,400787483,Texas State,kicking,PTS,2015
+1630,3922141,Lumi Kaba,5,400787483,Texas State,punting,NO,2015
+1631,3922141,Lumi Kaba,216,400787483,Texas State,punting,YDS,2015
+1632,3922141,Lumi Kaba,43.2,400787483,Texas State,punting,AVG,2015
+1633,3922141,Lumi Kaba,0,400787483,Texas State,punting,TB,2015
+1634,3922141,Lumi Kaba,0,400787483,Texas State,punting,In 20,2015
+1635,3922141,Lumi Kaba,51,400787483,Texas State,punting,LONG,2015
+1636,512347,Earnest Carrington,5/15,400787486,Louisiana Monroe,passing,C/ATT,2015
+1637,546121,Brian Williams,4/8,400787486,Louisiana Monroe,passing,C/ATT,2015
+1638,512357,DeVontae McNeal,0/1,400787486,Louisiana Monroe,passing,C/ATT,2015
+1639,531563,Ajalen Holley,0/1,400787486,Louisiana Monroe,passing,C/ATT,2015
+1640,3124951,Kaylon Watson,0/1,400787486,Louisiana Monroe,passing,C/ATT,2015
+1641,512347,Earnest Carrington,143,400787486,Louisiana Monroe,passing,YDS,2015
+1642,546121,Brian Williams,96,400787486,Louisiana Monroe,passing,YDS,2015
+1643,512357,DeVontae McNeal,0,400787486,Louisiana Monroe,passing,YDS,2015
+1644,531563,Ajalen Holley,0,400787486,Louisiana Monroe,passing,YDS,2015
+1645,3124951,Kaylon Watson,0,400787486,Louisiana Monroe,passing,YDS,2015
+1646,512347,Earnest Carrington,9.5,400787486,Louisiana Monroe,passing,AVG,2015
+1647,546121,Brian Williams,12.0,400787486,Louisiana Monroe,passing,AVG,2015
+1648,512357,DeVontae McNeal,0.0,400787486,Louisiana Monroe,passing,AVG,2015
+1649,531563,Ajalen Holley,0.0,400787486,Louisiana Monroe,passing,AVG,2015
+1650,3124951,Kaylon Watson,0.0,400787486,Louisiana Monroe,passing,AVG,2015
+1651,512347,Earnest Carrington,2,400787486,Louisiana Monroe,passing,TD,2015
+1652,546121,Brian Williams,3,400787486,Louisiana Monroe,passing,TD,2015
+1653,512357,DeVontae McNeal,0,400787486,Louisiana Monroe,passing,TD,2015
+1654,531563,Ajalen Holley,0,400787486,Louisiana Monroe,passing,TD,2015
+1655,3124951,Kaylon Watson,0,400787486,Louisiana Monroe,passing,TD,2015
+1656,512347,Earnest Carrington,2,400787486,Louisiana Monroe,passing,INT,2015
+1657,546121,Brian Williams,0,400787486,Louisiana Monroe,passing,INT,2015
+1658,512357,DeVontae McNeal,0,400787486,Louisiana Monroe,passing,INT,2015
+1659,531563,Ajalen Holley,0,400787486,Louisiana Monroe,passing,INT,2015
+1660,3124951,Kaylon Watson,0,400787486,Louisiana Monroe,passing,INT,2015
+1661,512347,Earnest Carrington,4.5,400787486,Louisiana Monroe,passing,QBR,2015
+1662,546121,Brian Williams,69.1,400787486,Louisiana Monroe,passing,QBR,2015
+1663,512357,DeVontae McNeal,3.8,400787486,Louisiana Monroe,passing,QBR,2015
+1664,531563,Ajalen Holley,3.3,400787486,Louisiana Monroe,passing,QBR,2015
+1665,3124951,Kaylon Watson,1.5,400787486,Louisiana Monroe,passing,QBR,2015
+1666,3124951,Kaylon Watson,9,400787486,Louisiana Monroe,rushing,CAR,2015
+1667,3124950,Ben Luckett,16,400787486,Louisiana Monroe,rushing,CAR,2015
+1668,512357,DeVontae McNeal,3,400787486,Louisiana Monroe,rushing,CAR,2015
+1669,546121,Brian Williams,5,400787486,Louisiana Monroe,rushing,CAR,2015
+1670,3124964,Marcus Green,1,400787486,Louisiana Monroe,rushing,CAR,2015
+1671,512347,Earnest Carrington,7,400787486,Louisiana Monroe,rushing,CAR,2015
+1672,3124951,Kaylon Watson,46,400787486,Louisiana Monroe,rushing,YDS,2015
+1673,3124950,Ben Luckett,34,400787486,Louisiana Monroe,rushing,YDS,2015
+1674,512357,DeVontae McNeal,14,400787486,Louisiana Monroe,rushing,YDS,2015
+1675,546121,Brian Williams,8,400787486,Louisiana Monroe,rushing,YDS,2015
+1676,3124964,Marcus Green,5,400787486,Louisiana Monroe,rushing,YDS,2015
+1677,512347,Earnest Carrington,-23,400787486,Louisiana Monroe,rushing,YDS,2015
+1678,3124951,Kaylon Watson,5.1,400787486,Louisiana Monroe,rushing,AVG,2015
+1679,3124950,Ben Luckett,2.1,400787486,Louisiana Monroe,rushing,AVG,2015
+1680,512357,DeVontae McNeal,4.7,400787486,Louisiana Monroe,rushing,AVG,2015
+1681,546121,Brian Williams,1.6,400787486,Louisiana Monroe,rushing,AVG,2015
+1682,3124964,Marcus Green,5.0,400787486,Louisiana Monroe,rushing,AVG,2015
+1683,512347,Earnest Carrington,-3.3,400787486,Louisiana Monroe,rushing,AVG,2015
+1684,3124951,Kaylon Watson,0,400787486,Louisiana Monroe,rushing,TD,2015
+1685,3124950,Ben Luckett,0,400787486,Louisiana Monroe,rushing,TD,2015
+1686,512357,DeVontae McNeal,0,400787486,Louisiana Monroe,rushing,TD,2015
+1687,546121,Brian Williams,0,400787486,Louisiana Monroe,rushing,TD,2015
+1688,3124964,Marcus Green,0,400787486,Louisiana Monroe,rushing,TD,2015
+1689,512347,Earnest Carrington,0,400787486,Louisiana Monroe,rushing,TD,2015
+1690,3124951,Kaylon Watson,23,400787486,Louisiana Monroe,rushing,LONG,2015
+1691,3124950,Ben Luckett,8,400787486,Louisiana Monroe,rushing,LONG,2015
+1692,512357,DeVontae McNeal,13,400787486,Louisiana Monroe,rushing,LONG,2015
+1693,546121,Brian Williams,4,400787486,Louisiana Monroe,rushing,LONG,2015
+1694,3124964,Marcus Green,5,400787486,Louisiana Monroe,rushing,LONG,2015
+1695,512347,Earnest Carrington,5,400787486,Louisiana Monroe,rushing,LONG,2015
+1696,512357,DeVontae McNeal,1,400787486,Louisiana Monroe,receiving,REC,2015
+1697,3124964,Marcus Green,2,400787486,Louisiana Monroe,receiving,REC,2015
+1698,3124951,Kaylon Watson,1,400787486,Louisiana Monroe,receiving,REC,2015
+1699,512362,Harley Scioneaux,1,400787486,Louisiana Monroe,receiving,REC,2015
+1700,531563,Ajalen Holley,4,400787486,Louisiana Monroe,receiving,REC,2015
+1701,512357,DeVontae McNeal,74,400787486,Louisiana Monroe,receiving,YDS,2015
+1702,3124964,Marcus Green,60,400787486,Louisiana Monroe,receiving,YDS,2015
+1703,3124951,Kaylon Watson,48,400787486,Louisiana Monroe,receiving,YDS,2015
+1704,512362,Harley Scioneaux,32,400787486,Louisiana Monroe,receiving,YDS,2015
+1705,531563,Ajalen Holley,25,400787486,Louisiana Monroe,receiving,YDS,2015
+1706,512357,DeVontae McNeal,74.0,400787486,Louisiana Monroe,receiving,AVG,2015
+1707,3124964,Marcus Green,30.0,400787486,Louisiana Monroe,receiving,AVG,2015
+1708,3124951,Kaylon Watson,48.0,400787486,Louisiana Monroe,receiving,AVG,2015
+1709,512362,Harley Scioneaux,32.0,400787486,Louisiana Monroe,receiving,AVG,2015
+1710,531563,Ajalen Holley,6.3,400787486,Louisiana Monroe,receiving,AVG,2015
+1711,512357,DeVontae McNeal,1,400787486,Louisiana Monroe,receiving,TD,2015
+1712,3124964,Marcus Green,2,400787486,Louisiana Monroe,receiving,TD,2015
+1713,3124951,Kaylon Watson,1,400787486,Louisiana Monroe,receiving,TD,2015
+1714,512362,Harley Scioneaux,1,400787486,Louisiana Monroe,receiving,TD,2015
+1715,531563,Ajalen Holley,0,400787486,Louisiana Monroe,receiving,TD,2015
+1716,512357,DeVontae McNeal,74,400787486,Louisiana Monroe,receiving,LONG,2015
+1717,3124964,Marcus Green,49,400787486,Louisiana Monroe,receiving,LONG,2015
+1718,3124951,Kaylon Watson,48,400787486,Louisiana Monroe,receiving,LONG,2015
+1719,512362,Harley Scioneaux,32,400787486,Louisiana Monroe,receiving,LONG,2015
+1720,531563,Ajalen Holley,13,400787486,Louisiana Monroe,receiving,LONG,2015
+1721,531490,Trey Caldwell,1,400787486,Louisiana Monroe,interceptions,INT,2015
+1722,512354,Hunter Kissinger,1,400787486,Louisiana Monroe,interceptions,INT,2015
+1723,531490,Trey Caldwell,40,400787486,Louisiana Monroe,interceptions,YDS,2015
+1724,512354,Hunter Kissinger,4,400787486,Louisiana Monroe,interceptions,YDS,2015
+1725,531490,Trey Caldwell,1,400787486,Louisiana Monroe,interceptions,TD,2015
+1726,512354,Hunter Kissinger,0,400787486,Louisiana Monroe,interceptions,TD,2015
+1727,3918243,Markis McCray,4,400787486,Louisiana Monroe,kickReturns,NO,2015
+1728,3918243,Markis McCray,82,400787486,Louisiana Monroe,kickReturns,YDS,2015
+1729,3918243,Markis McCray,20.5,400787486,Louisiana Monroe,kickReturns,AVG,2015
+1730,3918243,Markis McCray,35,400787486,Louisiana Monroe,kickReturns,LONG,2015
+1731,3918243,Markis McCray,0,400787486,Louisiana Monroe,kickReturns,TD,2015
+1732,3124943,Junior Williams,1,400787486,Louisiana Monroe,puntReturns,NO,2015
+1733,3124943,Junior Williams,-2,400787486,Louisiana Monroe,puntReturns,YDS,2015
+1734,3124943,Junior Williams,-2.0,400787486,Louisiana Monroe,puntReturns,AVG,2015
+1735,3124943,Junior Williams,-2,400787486,Louisiana Monroe,puntReturns,LONG,2015
+1736,3124943,Junior Williams,0,400787486,Louisiana Monroe,puntReturns,TD,2015
+1737,3138662,Craig Ford,0/2,400787486,Louisiana Monroe,kicking,FG,2015
+1738,3138662,Craig Ford,0.0,400787486,Louisiana Monroe,kicking,PCT,2015
+1739,3138662,Craig Ford,0,400787486,Louisiana Monroe,kicking,LONG,2015
+1740,3138662,Craig Ford,6/6,400787486,Louisiana Monroe,kicking,XP,2015
+1741,3138662,Craig Ford,6,400787486,Louisiana Monroe,kicking,PTS,2015
+1742,3918246,Chris Qualls,8,400787486,Louisiana Monroe,punting,NO,2015
+1743,3918246,Chris Qualls,288,400787486,Louisiana Monroe,punting,YDS,2015
+1744,3918246,Chris Qualls,36.0,400787486,Louisiana Monroe,punting,AVG,2015
+1745,3918246,Chris Qualls,0,400787486,Louisiana Monroe,punting,TB,2015
+1746,3918246,Chris Qualls,0,400787486,Louisiana Monroe,punting,In 20,2015
+1747,3918246,Chris Qualls,43,400787486,Louisiana Monroe,punting,LONG,2015
+1748,3124972,Andrew Allen,23/36,400787486,New Mexico State,passing,C/ATT,2015
+1749,3124972,Andrew Allen,308,400787486,New Mexico State,passing,YDS,2015
+1750,3124972,Andrew Allen,8.6,400787486,New Mexico State,passing,AVG,2015
+1751,3124972,Andrew Allen,2,400787486,New Mexico State,passing,TD,2015
+1752,3124972,Andrew Allen,2,400787486,New Mexico State,passing,INT,2015
+1753,3124972,Andrew Allen,31.1,400787486,New Mexico State,passing,QBR,2015
+1754,3124979,Larry Rose III,27,400787486,New Mexico State,rushing,CAR,2015
+1755,551162,Jermichael Selders,3,400787486,New Mexico State,rushing,CAR,2015
+1756,3124972,Andrew Allen,21,400787486,New Mexico State,rushing,CAR,2015
+1757,3922135,Anthony Torres,1,400787486,New Mexico State,rushing,CAR,2015
+1758,3124979,Larry Rose III,64,400787486,New Mexico State,rushing,YDS,2015
+1759,551162,Jermichael Selders,24,400787486,New Mexico State,rushing,YDS,2015
+1760,3124972,Andrew Allen,13,400787486,New Mexico State,rushing,YDS,2015
+1761,3922135,Anthony Torres,-12,400787486,New Mexico State,rushing,YDS,2015
+1762,3124979,Larry Rose III,2.4,400787486,New Mexico State,rushing,AVG,2015
+1763,551162,Jermichael Selders,8.0,400787486,New Mexico State,rushing,AVG,2015
+1764,3124972,Andrew Allen,0.6,400787486,New Mexico State,rushing,AVG,2015
+1765,3922135,Anthony Torres,-12.0,400787486,New Mexico State,rushing,AVG,2015
+1766,3124979,Larry Rose III,2,400787486,New Mexico State,rushing,TD,2015
+1767,551162,Jermichael Selders,0,400787486,New Mexico State,rushing,TD,2015
+1768,3124972,Andrew Allen,0,400787486,New Mexico State,rushing,TD,2015
+1769,3922135,Anthony Torres,0,400787486,New Mexico State,rushing,TD,2015
+1770,3124979,Larry Rose III,12,400787486,New Mexico State,rushing,LONG,2015
+1771,551162,Jermichael Selders,15,400787486,New Mexico State,rushing,LONG,2015
+1772,3124972,Andrew Allen,8,400787486,New Mexico State,rushing,LONG,2015
+1773,3922135,Anthony Torres,0,400787486,New Mexico State,rushing,LONG,2015
+1774,546203,Teldrick Morgan,8,400787486,New Mexico State,receiving,REC,2015
+1775,546202,Jordan Bergstrom,3,400787486,New Mexico State,receiving,REC,2015
+1776,3918447,Tyrain Taylor,3,400787486,New Mexico State,receiving,REC,2015
+1777,3918450,Royce Caldwell,2,400787486,New Mexico State,receiving,REC,2015
+1778,522923,Joshua Bowen,3,400787486,New Mexico State,receiving,REC,2015
+1779,551153,Gregory Hogan,2,400787486,New Mexico State,receiving,REC,2015
+1780,3124979,Larry Rose III,2,400787486,New Mexico State,receiving,REC,2015
+1781,546203,Teldrick Morgan,101,400787486,New Mexico State,receiving,YDS,2015
+1782,546202,Jordan Bergstrom,96,400787486,New Mexico State,receiving,YDS,2015
+1783,3918447,Tyrain Taylor,33,400787486,New Mexico State,receiving,YDS,2015
+1784,3918450,Royce Caldwell,30,400787486,New Mexico State,receiving,YDS,2015
+1785,522923,Joshua Bowen,29,400787486,New Mexico State,receiving,YDS,2015
+1786,551153,Gregory Hogan,18,400787486,New Mexico State,receiving,YDS,2015
+1787,3124979,Larry Rose III,1,400787486,New Mexico State,receiving,YDS,2015
+1788,546203,Teldrick Morgan,12.6,400787486,New Mexico State,receiving,AVG,2015
+1789,546202,Jordan Bergstrom,32.0,400787486,New Mexico State,receiving,AVG,2015
+1790,3918447,Tyrain Taylor,11.0,400787486,New Mexico State,receiving,AVG,2015
+1791,3918450,Royce Caldwell,15.0,400787486,New Mexico State,receiving,AVG,2015
+1792,522923,Joshua Bowen,9.7,400787486,New Mexico State,receiving,AVG,2015
+1793,551153,Gregory Hogan,9.0,400787486,New Mexico State,receiving,AVG,2015
+1794,3124979,Larry Rose III,0.5,400787486,New Mexico State,receiving,AVG,2015
+1795,546203,Teldrick Morgan,0,400787486,New Mexico State,receiving,TD,2015
+1796,546202,Jordan Bergstrom,2,400787486,New Mexico State,receiving,TD,2015
+1797,3918447,Tyrain Taylor,0,400787486,New Mexico State,receiving,TD,2015
+1798,3918450,Royce Caldwell,0,400787486,New Mexico State,receiving,TD,2015
+1799,522923,Joshua Bowen,0,400787486,New Mexico State,receiving,TD,2015
+1800,551153,Gregory Hogan,0,400787486,New Mexico State,receiving,TD,2015
+1801,3124979,Larry Rose III,0,400787486,New Mexico State,receiving,TD,2015
+1802,546203,Teldrick Morgan,47,400787486,New Mexico State,receiving,LONG,2015
+1803,546202,Jordan Bergstrom,76,400787486,New Mexico State,receiving,LONG,2015
+1804,3918447,Tyrain Taylor,15,400787486,New Mexico State,receiving,LONG,2015
+1805,3918450,Royce Caldwell,18,400787486,New Mexico State,receiving,LONG,2015
+1806,522923,Joshua Bowen,19,400787486,New Mexico State,receiving,LONG,2015
+1807,551153,Gregory Hogan,9,400787486,New Mexico State,receiving,LONG,2015
+1808,3124979,Larry Rose III,2,400787486,New Mexico State,receiving,LONG,2015
+1809,3918451,DeMarcus Owens,1,400787486,New Mexico State,interceptions,INT,2015
+1810,3922122,Jacob Banegas,1,400787486,New Mexico State,interceptions,INT,2015
+1811,3918451,DeMarcus Owens,24,400787486,New Mexico State,interceptions,YDS,2015
+1812,3922122,Jacob Banegas,3,400787486,New Mexico State,interceptions,YDS,2015
+1813,3918451,DeMarcus Owens,0,400787486,New Mexico State,interceptions,TD,2015
+1814,3922122,Jacob Banegas,0,400787486,New Mexico State,interceptions,TD,2015
+1815,3918447,Tyrain Taylor,5,400787486,New Mexico State,kickReturns,NO,2015
+1816,546203,Teldrick Morgan,1,400787486,New Mexico State,kickReturns,NO,2015
+1817,3918447,Tyrain Taylor,105,400787486,New Mexico State,kickReturns,YDS,2015
+1818,546203,Teldrick Morgan,12,400787486,New Mexico State,kickReturns,YDS,2015
+1819,3918447,Tyrain Taylor,21.0,400787486,New Mexico State,kickReturns,AVG,2015
+1820,546203,Teldrick Morgan,12.0,400787486,New Mexico State,kickReturns,AVG,2015
+1821,3918447,Tyrain Taylor,36,400787486,New Mexico State,kickReturns,LONG,2015
+1822,546203,Teldrick Morgan,12,400787486,New Mexico State,kickReturns,LONG,2015
+1823,3918447,Tyrain Taylor,0,400787486,New Mexico State,kickReturns,TD,2015
+1824,546203,Teldrick Morgan,0,400787486,New Mexico State,kickReturns,TD,2015
+1825,3918447,Tyrain Taylor,1,400787486,New Mexico State,puntReturns,NO,2015
+1826,3918447,Tyrain Taylor,27,400787486,New Mexico State,puntReturns,YDS,2015
+1827,3918447,Tyrain Taylor,27.0,400787486,New Mexico State,puntReturns,AVG,2015
+1828,3918447,Tyrain Taylor,27,400787486,New Mexico State,puntReturns,LONG,2015
+1829,3918447,Tyrain Taylor,0,400787486,New Mexico State,puntReturns,TD,2015
+1830,3918455,Parker Davidson,0/1,400787486,New Mexico State,kicking,FG,2015
+1831,3918455,Parker Davidson,0.0,400787486,New Mexico State,kicking,PCT,2015
+1832,3918455,Parker Davidson,0,400787486,New Mexico State,kicking,LONG,2015
+1833,3918455,Parker Davidson,5/5,400787486,New Mexico State,kicking,XP,2015
+1834,3918455,Parker Davidson,5,400787486,New Mexico State,kicking,PTS,2015
+1835,3922135,Anthony Torres,7,400787486,New Mexico State,punting,NO,2015
+1836,3922135,Anthony Torres,265,400787486,New Mexico State,punting,YDS,2015
+1837,3922135,Anthony Torres,37.9,400787486,New Mexico State,punting,AVG,2015
+1838,3922135,Anthony Torres,0,400787486,New Mexico State,punting,TB,2015
+1839,3922135,Anthony Torres,0,400787486,New Mexico State,punting,In 20,2015
+1840,3922135,Anthony Torres,45,400787486,New Mexico State,punting,LONG,2015
+1841,3124848,Nick Arbuckle,20/32,400787484,Georgia State,passing,C/ATT,2015
+1842,3124848,Nick Arbuckle,346,400787484,Georgia State,passing,YDS,2015
+1843,3124848,Nick Arbuckle,10.8,400787484,Georgia State,passing,AVG,2015
+1844,3124848,Nick Arbuckle,3,400787484,Georgia State,passing,TD,2015
+1845,3124848,Nick Arbuckle,1,400787484,Georgia State,passing,INT,2015
+1846,3124848,Nick Arbuckle,75.6,400787484,Georgia State,passing,QBR,2015
+1847,3124853,Glenn Smith,13,400787484,Georgia State,rushing,CAR,2015
+1848,545840,Kyler Neal,6,400787484,Georgia State,rushing,CAR,2015
+1849,3917542,Taz Bateman,8,400787484,Georgia State,rushing,CAR,2015
+1850,3124848,Nick Arbuckle,5,400787484,Georgia State,rushing,CAR,2015
+1851,514978,Donovan Harden,1,400787484,Georgia State,rushing,CAR,2015
+1852,3124853,Glenn Smith,83,400787484,Georgia State,rushing,YDS,2015
+1853,545840,Kyler Neal,37,400787484,Georgia State,rushing,YDS,2015
+1854,3917542,Taz Bateman,24,400787484,Georgia State,rushing,YDS,2015
+1855,3124848,Nick Arbuckle,5,400787484,Georgia State,rushing,YDS,2015
+1856,514978,Donovan Harden,-2,400787484,Georgia State,rushing,YDS,2015
+1857,3124853,Glenn Smith,6.4,400787484,Georgia State,rushing,AVG,2015
+1858,545840,Kyler Neal,6.2,400787484,Georgia State,rushing,AVG,2015
+1859,3917542,Taz Bateman,3.0,400787484,Georgia State,rushing,AVG,2015
+1860,3124848,Nick Arbuckle,1.0,400787484,Georgia State,rushing,AVG,2015
+1861,514978,Donovan Harden,-2.0,400787484,Georgia State,rushing,AVG,2015
+1862,3124853,Glenn Smith,0,400787484,Georgia State,rushing,TD,2015
+1863,545840,Kyler Neal,2,400787484,Georgia State,rushing,TD,2015
+1864,3917542,Taz Bateman,0,400787484,Georgia State,rushing,TD,2015
+1865,3124848,Nick Arbuckle,0,400787484,Georgia State,rushing,TD,2015
+1866,514978,Donovan Harden,0,400787484,Georgia State,rushing,TD,2015
+1867,3124853,Glenn Smith,22,400787484,Georgia State,rushing,LONG,2015
+1868,545840,Kyler Neal,28,400787484,Georgia State,rushing,LONG,2015
+1869,3917542,Taz Bateman,10,400787484,Georgia State,rushing,LONG,2015
+1870,3124848,Nick Arbuckle,12,400787484,Georgia State,rushing,LONG,2015
+1871,514978,Donovan Harden,0,400787484,Georgia State,rushing,LONG,2015
+1872,3917546,Penny Hart,7,400787484,Georgia State,receiving,REC,2015
+1873,514978,Donovan Harden,3,400787484,Georgia State,receiving,REC,2015
+1874,3917542,Taz Bateman,2,400787484,Georgia State,receiving,REC,2015
+1875,545846,Keith Rucker,3,400787484,Georgia State,receiving,REC,2015
+1876,545837,Robert Davis,3,400787484,Georgia State,receiving,REC,2015
+1877,545840,Kyler Neal,1,400787484,Georgia State,receiving,REC,2015
+1878,3124853,Glenn Smith,1,400787484,Georgia State,receiving,REC,2015
+1879,3917546,Penny Hart,129,400787484,Georgia State,receiving,YDS,2015
+1880,514978,Donovan Harden,60,400787484,Georgia State,receiving,YDS,2015
+1881,3917542,Taz Bateman,52,400787484,Georgia State,receiving,YDS,2015
+1882,545846,Keith Rucker,48,400787484,Georgia State,receiving,YDS,2015
+1883,545837,Robert Davis,47,400787484,Georgia State,receiving,YDS,2015
+1884,545840,Kyler Neal,7,400787484,Georgia State,receiving,YDS,2015
+1885,3124853,Glenn Smith,3,400787484,Georgia State,receiving,YDS,2015
+1886,3917546,Penny Hart,18.4,400787484,Georgia State,receiving,AVG,2015
+1887,514978,Donovan Harden,20.0,400787484,Georgia State,receiving,AVG,2015
+1888,3917542,Taz Bateman,26.0,400787484,Georgia State,receiving,AVG,2015
+1889,545846,Keith Rucker,16.0,400787484,Georgia State,receiving,AVG,2015
+1890,545837,Robert Davis,15.7,400787484,Georgia State,receiving,AVG,2015
+1891,545840,Kyler Neal,7.0,400787484,Georgia State,receiving,AVG,2015
+1892,3124853,Glenn Smith,3.0,400787484,Georgia State,receiving,AVG,2015
+1893,3917546,Penny Hart,1,400787484,Georgia State,receiving,TD,2015
+1894,514978,Donovan Harden,0,400787484,Georgia State,receiving,TD,2015
+1895,3917542,Taz Bateman,0,400787484,Georgia State,receiving,TD,2015
+1896,545846,Keith Rucker,1,400787484,Georgia State,receiving,TD,2015
+1897,545837,Robert Davis,1,400787484,Georgia State,receiving,TD,2015
+1898,545840,Kyler Neal,0,400787484,Georgia State,receiving,TD,2015
+1899,3124853,Glenn Smith,0,400787484,Georgia State,receiving,TD,2015
+1900,3917546,Penny Hart,63,400787484,Georgia State,receiving,LONG,2015
+1901,514978,Donovan Harden,27,400787484,Georgia State,receiving,LONG,2015
+1902,3917542,Taz Bateman,45,400787484,Georgia State,receiving,LONG,2015
+1903,545846,Keith Rucker,29,400787484,Georgia State,receiving,LONG,2015
+1904,545837,Robert Davis,21,400787484,Georgia State,receiving,LONG,2015
+1905,545840,Kyler Neal,7,400787484,Georgia State,receiving,LONG,2015
+1906,3124853,Glenn Smith,3,400787484,Georgia State,receiving,LONG,2015
+1907,517050,Tarris Batiste,2,400787484,Georgia State,interceptions,INT,2015
+1908,517050,Tarris Batiste,34,400787484,Georgia State,interceptions,YDS,2015
+1909,517050,Tarris Batiste,0,400787484,Georgia State,interceptions,TD,2015
+1910,537870,Avery Sweeting,1,400787484,Georgia State,kickReturns,NO,2015
+1911,537870,Avery Sweeting,10,400787484,Georgia State,kickReturns,YDS,2015
+1912,537870,Avery Sweeting,10.0,400787484,Georgia State,kickReturns,AVG,2015
+1913,537870,Avery Sweeting,10,400787484,Georgia State,kickReturns,LONG,2015
+1914,537870,Avery Sweeting,0,400787484,Georgia State,kickReturns,TD,2015
+1915,537855,Wil Lutz,0/0,400787484,Georgia State,kicking,FG,2015
+1916,537855,Wil Lutz,0.0,400787484,Georgia State,kicking,PCT,2015
+1917,537855,Wil Lutz,0,400787484,Georgia State,kicking,LONG,2015
+1918,537855,Wil Lutz,4/4,400787484,Georgia State,kicking,XP,2015
+1919,537855,Wil Lutz,4,400787484,Georgia State,kicking,PTS,2015
+1920,537855,Wil Lutz,5,400787484,Georgia State,punting,NO,2015
+1921,537855,Wil Lutz,203,400787484,Georgia State,punting,YDS,2015
+1922,537855,Wil Lutz,40.6,400787484,Georgia State,punting,AVG,2015
+1923,537855,Wil Lutz,0,400787484,Georgia State,punting,TB,2015
+1924,537855,Wil Lutz,0,400787484,Georgia State,punting,In 20,2015
+1925,537855,Wil Lutz,56,400787484,Georgia State,punting,LONG,2015
+1926,532925,Kevin Ellison,4/13,400787484,Georgia Southern,passing,C/ATT,2015
+1927,549301,Favian Upshaw,2/6,400787484,Georgia Southern,passing,C/ATT,2015
+1928,532925,Kevin Ellison,53,400787484,Georgia Southern,passing,YDS,2015
+1929,549301,Favian Upshaw,15,400787484,Georgia Southern,passing,YDS,2015
+1930,532925,Kevin Ellison,4.1,400787484,Georgia Southern,passing,AVG,2015
+1931,549301,Favian Upshaw,2.5,400787484,Georgia Southern,passing,AVG,2015
+1932,532925,Kevin Ellison,0,400787484,Georgia Southern,passing,TD,2015
+1933,549301,Favian Upshaw,0,400787484,Georgia Southern,passing,TD,2015
+1934,532925,Kevin Ellison,2,400787484,Georgia Southern,passing,INT,2015
+1935,549301,Favian Upshaw,0,400787484,Georgia Southern,passing,INT,2015
+1936,532925,Kevin Ellison,6.1,400787484,Georgia Southern,passing,QBR,2015
+1937,549301,Favian Upshaw,5.8,400787484,Georgia Southern,passing,QBR,2015
+1938,549314,Matt Breida,8,400787484,Georgia Southern,rushing,CAR,2015
+1939,549301,Favian Upshaw,5,400787484,Georgia Southern,rushing,CAR,2015
+1940,532925,Kevin Ellison,11,400787484,Georgia Southern,rushing,CAR,2015
+1941,3917202,Wesley Fields,4,400787484,Georgia Southern,rushing,CAR,2015
+1942,3123751,Ryan Longoria,1,400787484,Georgia Southern,rushing,CAR,2015
+1943,549314,Matt Breida,45,400787484,Georgia Southern,rushing,YDS,2015
+1944,549301,Favian Upshaw,20,400787484,Georgia Southern,rushing,YDS,2015
+1945,532925,Kevin Ellison,5,400787484,Georgia Southern,rushing,YDS,2015
+1946,3917202,Wesley Fields,3,400787484,Georgia Southern,rushing,YDS,2015
+1947,3123751,Ryan Longoria,-3,400787484,Georgia Southern,rushing,YDS,2015
+1948,549314,Matt Breida,5.6,400787484,Georgia Southern,rushing,AVG,2015
+1949,549301,Favian Upshaw,4.0,400787484,Georgia Southern,rushing,AVG,2015
+1950,532925,Kevin Ellison,0.5,400787484,Georgia Southern,rushing,AVG,2015
+1951,3917202,Wesley Fields,0.8,400787484,Georgia Southern,rushing,AVG,2015
+1952,3123751,Ryan Longoria,-3.0,400787484,Georgia Southern,rushing,AVG,2015
+1953,549314,Matt Breida,0,400787484,Georgia Southern,rushing,TD,2015
+1954,549301,Favian Upshaw,0,400787484,Georgia Southern,rushing,TD,2015
+1955,532925,Kevin Ellison,0,400787484,Georgia Southern,rushing,TD,2015
+1956,3917202,Wesley Fields,0,400787484,Georgia Southern,rushing,TD,2015
+1957,3123751,Ryan Longoria,0,400787484,Georgia Southern,rushing,TD,2015
+1958,549314,Matt Breida,14,400787484,Georgia Southern,rushing,LONG,2015
+1959,549301,Favian Upshaw,21,400787484,Georgia Southern,rushing,LONG,2015
+1960,532925,Kevin Ellison,6,400787484,Georgia Southern,rushing,LONG,2015
+1961,3917202,Wesley Fields,3,400787484,Georgia Southern,rushing,LONG,2015
+1962,3123751,Ryan Longoria,0,400787484,Georgia Southern,rushing,LONG,2015
+1963,516910,BJ Johnson III,4,400787484,Georgia Southern,receiving,REC,2015
+1964,3123751,Ryan Longoria,1,400787484,Georgia Southern,receiving,REC,2015
+1965,516910,BJ Johnson III,57,400787484,Georgia Southern,receiving,YDS,2015
+1966,3123751,Ryan Longoria,8,400787484,Georgia Southern,receiving,YDS,2015
+1967,516910,BJ Johnson III,14.3,400787484,Georgia Southern,receiving,AVG,2015
+1968,3123751,Ryan Longoria,8.0,400787484,Georgia Southern,receiving,AVG,2015
+1969,516910,BJ Johnson III,0,400787484,Georgia Southern,receiving,TD,2015
+1970,3123751,Ryan Longoria,0,400787484,Georgia Southern,receiving,TD,2015
+1971,516910,BJ Johnson III,20,400787484,Georgia Southern,receiving,LONG,2015
+1972,3123751,Ryan Longoria,8,400787484,Georgia Southern,receiving,LONG,2015
+1973,532923,Matt Dobson,1,400787484,Georgia Southern,interceptions,INT,2015
+1974,532923,Matt Dobson,34,400787484,Georgia Southern,interceptions,YDS,2015
+1975,532923,Matt Dobson,0,400787484,Georgia Southern,interceptions,TD,2015
+1976,538155,Derek Keaton,6,400787484,Georgia Southern,kickReturns,NO,2015
+1977,538155,Derek Keaton,195,400787484,Georgia Southern,kickReturns,YDS,2015
+1978,538155,Derek Keaton,32.5,400787484,Georgia Southern,kickReturns,AVG,2015
+1979,538155,Derek Keaton,48,400787484,Georgia Southern,kickReturns,LONG,2015
+1980,538155,Derek Keaton,0,400787484,Georgia Southern,kickReturns,TD,2015
+1981,538155,Derek Keaton,2,400787484,Georgia Southern,puntReturns,NO,2015
+1982,538155,Derek Keaton,6,400787484,Georgia Southern,puntReturns,YDS,2015
+1983,538155,Derek Keaton,3.0,400787484,Georgia Southern,puntReturns,AVG,2015
+1984,538155,Derek Keaton,6,400787484,Georgia Southern,puntReturns,LONG,2015
+1985,538155,Derek Keaton,0,400787484,Georgia Southern,puntReturns,TD,2015
+1986,549297,Younghoe Koo,0/1,400787484,Georgia Southern,kicking,FG,2015
+1987,549297,Younghoe Koo,0.0,400787484,Georgia Southern,kicking,PCT,2015
+1988,549297,Younghoe Koo,0,400787484,Georgia Southern,kicking,LONG,2015
+1989,549297,Younghoe Koo,1/1,400787484,Georgia Southern,kicking,XP,2015
+1990,549297,Younghoe Koo,1,400787484,Georgia Southern,kicking,PTS,2015
+1991,538522,Ryan Nowicki,7,400787484,Georgia Southern,punting,NO,2015
+1992,538522,Ryan Nowicki,270,400787484,Georgia Southern,punting,YDS,2015
+1993,538522,Ryan Nowicki,38.6,400787484,Georgia Southern,punting,AVG,2015
+1994,538522,Ryan Nowicki,0,400787484,Georgia Southern,punting,TB,2015
+1995,538522,Ryan Nowicki,0,400787484,Georgia Southern,punting,In 20,2015
+1996,538522,Ryan Nowicki,45,400787484,Georgia Southern,punting,LONG,2015
+1997,547338,Tyrone Swoopes,12/19,400763468,Texas,passing,C/ATT,2015
+1998,3125121,Jerrod Heard,0/2,400763468,Texas,passing,C/ATT,2015
+1999,547338,Tyrone Swoopes,151,400763468,Texas,passing,YDS,2015
+2000,3125121,Jerrod Heard,0,400763468,Texas,passing,YDS,2015
+2001,547338,Tyrone Swoopes,7.9,400763468,Texas,passing,AVG,2015
+2002,3125121,Jerrod Heard,0.0,400763468,Texas,passing,AVG,2015
+2003,547338,Tyrone Swoopes,1,400763468,Texas,passing,TD,2015
+2004,3125121,Jerrod Heard,0,400763468,Texas,passing,TD,2015
+2005,547338,Tyrone Swoopes,0,400763468,Texas,passing,INT,2015
+2006,3125121,Jerrod Heard,0,400763468,Texas,passing,INT,2015
+2007,547338,Tyrone Swoopes,62.6,400763468,Texas,passing,QBR,2015
+2008,3125121,Jerrod Heard,0.5,400763468,Texas,passing,QBR,2015
+2009,3929855,Chris Warren III,28,400763468,Texas,rushing,CAR,2015
+2010,547338,Tyrone Swoopes,10,400763468,Texas,rushing,CAR,2015
+2011,3125121,Jerrod Heard,3,400763468,Texas,rushing,CAR,2015
+2012,3929855,Chris Warren III,106,400763468,Texas,rushing,YDS,2015
+2013,547338,Tyrone Swoopes,52,400763468,Texas,rushing,YDS,2015
+2014,3125121,Jerrod Heard,0,400763468,Texas,rushing,YDS,2015
+2015,3929855,Chris Warren III,3.8,400763468,Texas,rushing,AVG,2015
+2016,547338,Tyrone Swoopes,5.2,400763468,Texas,rushing,AVG,2015
+2017,3125121,Jerrod Heard,0.0,400763468,Texas,rushing,AVG,2015
+2018,3929855,Chris Warren III,0,400763468,Texas,rushing,TD,2015
+2019,547338,Tyrone Swoopes,1,400763468,Texas,rushing,TD,2015
+2020,3125121,Jerrod Heard,0,400763468,Texas,rushing,TD,2015
+2021,3929855,Chris Warren III,26,400763468,Texas,rushing,LONG,2015
+2022,547338,Tyrone Swoopes,18,400763468,Texas,rushing,LONG,2015
+2023,3125121,Jerrod Heard,7,400763468,Texas,rushing,LONG,2015
+2024,531054,Caleb Bluiett,1,400763468,Texas,receiving,REC,2015
+2025,531076,Daje Johnson,3,400763468,Texas,receiving,REC,2015
+2026,3929844,John Burt,4,400763468,Texas,receiving,REC,2015
+2027,3125107,Andrew Beck,2,400763468,Texas,receiving,REC,2015
+2028,3929855,Chris Warren III,1,400763468,Texas,receiving,REC,2015
+2029,3929853,Ryan Newsome,1,400763468,Texas,receiving,REC,2015
+2030,531054,Caleb Bluiett,57,400763468,Texas,receiving,YDS,2015
+2031,531076,Daje Johnson,51,400763468,Texas,receiving,YDS,2015
+2032,3929844,John Burt,21,400763468,Texas,receiving,YDS,2015
+2033,3125107,Andrew Beck,16,400763468,Texas,receiving,YDS,2015
+2034,3929855,Chris Warren III,4,400763468,Texas,receiving,YDS,2015
+2035,3929853,Ryan Newsome,2,400763468,Texas,receiving,YDS,2015
+2036,531054,Caleb Bluiett,57.0,400763468,Texas,receiving,AVG,2015
+2037,531076,Daje Johnson,17.0,400763468,Texas,receiving,AVG,2015
+2038,3929844,John Burt,5.3,400763468,Texas,receiving,AVG,2015
+2039,3125107,Andrew Beck,8.0,400763468,Texas,receiving,AVG,2015
+2040,3929855,Chris Warren III,4.0,400763468,Texas,receiving,AVG,2015
+2041,3929853,Ryan Newsome,2.0,400763468,Texas,receiving,AVG,2015
+2042,531054,Caleb Bluiett,1,400763468,Texas,receiving,TD,2015
+2043,531076,Daje Johnson,0,400763468,Texas,receiving,TD,2015
+2044,3929844,John Burt,0,400763468,Texas,receiving,TD,2015
+2045,3125107,Andrew Beck,0,400763468,Texas,receiving,TD,2015
+2046,3929855,Chris Warren III,0,400763468,Texas,receiving,TD,2015
+2047,3929853,Ryan Newsome,0,400763468,Texas,receiving,TD,2015
+2048,531054,Caleb Bluiett,57,400763468,Texas,receiving,LONG,2015
+2049,531076,Daje Johnson,24,400763468,Texas,receiving,LONG,2015
+2050,3929844,John Burt,8,400763468,Texas,receiving,LONG,2015
+2051,3125107,Andrew Beck,10,400763468,Texas,receiving,LONG,2015
+2052,3929855,Chris Warren III,4,400763468,Texas,receiving,LONG,2015
+2053,3929853,Ryan Newsome,2,400763468,Texas,receiving,LONG,2015
+2054,531093,Duke Thomas,1,400763468,Texas,interceptions,INT,2015
+2055,3125119,Jason Hall,1,400763468,Texas,interceptions,INT,2015
+2056,531093,Duke Thomas,29,400763468,Texas,interceptions,YDS,2015
+2057,3125119,Jason Hall,17,400763468,Texas,interceptions,YDS,2015
+2058,531093,Duke Thomas,0,400763468,Texas,interceptions,TD,2015
+2059,3125119,Jason Hall,0,400763468,Texas,interceptions,TD,2015
+2060,531076,Daje Johnson,1,400763468,Texas,kickReturns,NO,2015
+2061,3929853,Ryan Newsome,2,400763468,Texas,kickReturns,NO,2015
+2062,531076,Daje Johnson,52,400763468,Texas,kickReturns,YDS,2015
+2063,3929853,Ryan Newsome,40,400763468,Texas,kickReturns,YDS,2015
+2064,531076,Daje Johnson,52.0,400763468,Texas,kickReturns,AVG,2015
+2065,3929853,Ryan Newsome,20.0,400763468,Texas,kickReturns,AVG,2015
+2066,531076,Daje Johnson,52,400763468,Texas,kickReturns,LONG,2015
+2067,3929853,Ryan Newsome,23,400763468,Texas,kickReturns,LONG,2015
+2068,531076,Daje Johnson,0,400763468,Texas,kickReturns,TD,2015
+2069,3929853,Ryan Newsome,0,400763468,Texas,kickReturns,TD,2015
+2070,531076,Daje Johnson,1,400763468,Texas,puntReturns,NO,2015
+2071,531076,Daje Johnson,2,400763468,Texas,puntReturns,YDS,2015
+2072,531076,Daje Johnson,2.0,400763468,Texas,puntReturns,AVG,2015
+2073,531076,Daje Johnson,2,400763468,Texas,puntReturns,LONG,2015
+2074,531076,Daje Johnson,0,400763468,Texas,puntReturns,TD,2015
+2075,531087,Nick Rose,3/4,400763468,Texas,kicking,FG,2015
+2076,531087,Nick Rose,75.0,400763468,Texas,kicking,PCT,2015
+2077,531087,Nick Rose,53,400763468,Texas,kicking,LONG,2015
+2078,531087,Nick Rose,2/2,400763468,Texas,kicking,XP,2015
+2079,531087,Nick Rose,11,400763468,Texas,kicking,PTS,2015
+2080,3929851,Michael Dickson,6,400763468,Texas,punting,NO,2015
+2081,3929851,Michael Dickson,243,400763468,Texas,punting,YDS,2015
+2082,3929851,Michael Dickson,40.5,400763468,Texas,punting,AVG,2015
+2083,3929851,Michael Dickson,0,400763468,Texas,punting,TB,2015
+2084,3929851,Michael Dickson,0,400763468,Texas,punting,In 20,2015
+2085,3929851,Michael Dickson,48,400763468,Texas,punting,LONG,2015
+2086,530349,Lynx Hawthorne,10/22,400763468,Baylor,passing,C/ATT,2015
+2087,550004,Chris Johnson,3/4,400763468,Baylor,passing,C/ATT,2015
+2088,550003,Johnny Jefferson,0/1,400763468,Baylor,passing,C/ATT,2015
+2089,530349,Lynx Hawthorne,64,400763468,Baylor,passing,YDS,2015
+2090,550004,Chris Johnson,20,400763468,Baylor,passing,YDS,2015
+2091,550003,Johnny Jefferson,0,400763468,Baylor,passing,YDS,2015
+2092,530349,Lynx Hawthorne,2.9,400763468,Baylor,passing,AVG,2015
+2093,550004,Chris Johnson,5.0,400763468,Baylor,passing,AVG,2015
+2094,550003,Johnny Jefferson,0.0,400763468,Baylor,passing,AVG,2015
+2095,530349,Lynx Hawthorne,0,400763468,Baylor,passing,TD,2015
+2096,550004,Chris Johnson,0,400763468,Baylor,passing,TD,2015
+2097,550003,Johnny Jefferson,0,400763468,Baylor,passing,TD,2015
+2098,530349,Lynx Hawthorne,2,400763468,Baylor,passing,INT,2015
+2099,550004,Chris Johnson,0,400763468,Baylor,passing,INT,2015
+2100,550003,Johnny Jefferson,0,400763468,Baylor,passing,INT,2015
+2101,530349,Lynx Hawthorne,22.9,400763468,Baylor,passing,QBR,2015
+2102,550004,Chris Johnson,61.9,400763468,Baylor,passing,QBR,2015
+2103,550003,Johnny Jefferson,0.2,400763468,Baylor,passing,QBR,2015
+2104,550003,Johnny Jefferson,23,400763468,Baylor,rushing,CAR,2015
+2105,530349,Lynx Hawthorne,10,400763468,Baylor,rushing,CAR,2015
+2106,3124828,Terence Williams,11,400763468,Baylor,rushing,CAR,2015
+2107,535495,Devin Chafin,6,400763468,Baylor,rushing,CAR,2015
+2108,535497,Corey Coleman,3,400763468,Baylor,rushing,CAR,2015
+2109,550009,Shock Linwood,7,400763468,Baylor,rushing,CAR,2015
+2110,550004,Chris Johnson,4,400763468,Baylor,rushing,CAR,2015
+2111,517293,LaQuan McGowan,1,400763468,Baylor,rushing,CAR,2015
+2112,517290,Jay Lee,1,400763468,Baylor,rushing,CAR,2015
+2113,550003,Johnny Jefferson,158,400763468,Baylor,rushing,YDS,2015
+2114,530349,Lynx Hawthorne,66,400763468,Baylor,rushing,YDS,2015
+2115,3124828,Terence Williams,42,400763468,Baylor,rushing,YDS,2015
+2116,535495,Devin Chafin,38,400763468,Baylor,rushing,YDS,2015
+2117,535497,Corey Coleman,34,400763468,Baylor,rushing,YDS,2015
+2118,550009,Shock Linwood,31,400763468,Baylor,rushing,YDS,2015
+2119,550004,Chris Johnson,25,400763468,Baylor,rushing,YDS,2015
+2120,517293,LaQuan McGowan,2,400763468,Baylor,rushing,YDS,2015
+2121,517290,Jay Lee,-1,400763468,Baylor,rushing,YDS,2015
+2122,550003,Johnny Jefferson,6.9,400763468,Baylor,rushing,AVG,2015
+2123,530349,Lynx Hawthorne,6.6,400763468,Baylor,rushing,AVG,2015
+2124,3124828,Terence Williams,3.8,400763468,Baylor,rushing,AVG,2015
+2125,535495,Devin Chafin,6.3,400763468,Baylor,rushing,AVG,2015
+2126,535497,Corey Coleman,11.3,400763468,Baylor,rushing,AVG,2015
+2127,550009,Shock Linwood,4.4,400763468,Baylor,rushing,AVG,2015
+2128,550004,Chris Johnson,6.3,400763468,Baylor,rushing,AVG,2015
+2129,517293,LaQuan McGowan,2.0,400763468,Baylor,rushing,AVG,2015
+2130,517290,Jay Lee,-1.0,400763468,Baylor,rushing,AVG,2015
+2131,550003,Johnny Jefferson,1,400763468,Baylor,rushing,TD,2015
+2132,530349,Lynx Hawthorne,1,400763468,Baylor,rushing,TD,2015
+2133,3124828,Terence Williams,0,400763468,Baylor,rushing,TD,2015
+2134,535495,Devin Chafin,0,400763468,Baylor,rushing,TD,2015
+2135,535497,Corey Coleman,0,400763468,Baylor,rushing,TD,2015
+2136,550009,Shock Linwood,0,400763468,Baylor,rushing,TD,2015
+2137,550004,Chris Johnson,0,400763468,Baylor,rushing,TD,2015
+2138,517293,LaQuan McGowan,0,400763468,Baylor,rushing,TD,2015
+2139,517290,Jay Lee,0,400763468,Baylor,rushing,TD,2015
+2140,550003,Johnny Jefferson,20,400763468,Baylor,rushing,LONG,2015
+2141,530349,Lynx Hawthorne,30,400763468,Baylor,rushing,LONG,2015
+2142,3124828,Terence Williams,9,400763468,Baylor,rushing,LONG,2015
+2143,535495,Devin Chafin,11,400763468,Baylor,rushing,LONG,2015
+2144,535497,Corey Coleman,24,400763468,Baylor,rushing,LONG,2015
+2145,550009,Shock Linwood,16,400763468,Baylor,rushing,LONG,2015
+2146,550004,Chris Johnson,17,400763468,Baylor,rushing,LONG,2015
+2147,517293,LaQuan McGowan,2,400763468,Baylor,rushing,LONG,2015
+2148,517290,Jay Lee,0,400763468,Baylor,rushing,LONG,2015
+2149,535497,Corey Coleman,7,400763468,Baylor,receiving,REC,2015
+2150,3128348,KD Cannon,4,400763468,Baylor,receiving,REC,2015
+2151,517290,Jay Lee,1,400763468,Baylor,receiving,REC,2015
+2152,550003,Johnny Jefferson,1,400763468,Baylor,receiving,REC,2015
+2153,535497,Corey Coleman,49,400763468,Baylor,receiving,YDS,2015
+2154,3128348,KD Cannon,26,400763468,Baylor,receiving,YDS,2015
+2155,517290,Jay Lee,5,400763468,Baylor,receiving,YDS,2015
+2156,550003,Johnny Jefferson,4,400763468,Baylor,receiving,YDS,2015
+2157,535497,Corey Coleman,7.0,400763468,Baylor,receiving,AVG,2015
+2158,3128348,KD Cannon,6.5,400763468,Baylor,receiving,AVG,2015
+2159,517290,Jay Lee,5.0,400763468,Baylor,receiving,AVG,2015
+2160,550003,Johnny Jefferson,4.0,400763468,Baylor,receiving,AVG,2015
+2161,535497,Corey Coleman,0,400763468,Baylor,receiving,TD,2015
+2162,3128348,KD Cannon,0,400763468,Baylor,receiving,TD,2015
+2163,517290,Jay Lee,0,400763468,Baylor,receiving,TD,2015
+2164,550003,Johnny Jefferson,0,400763468,Baylor,receiving,TD,2015
+2165,535497,Corey Coleman,15,400763468,Baylor,receiving,LONG,2015
+2166,3128348,KD Cannon,10,400763468,Baylor,receiving,LONG,2015
+2167,517290,Jay Lee,5,400763468,Baylor,receiving,LONG,2015
+2168,550003,Johnny Jefferson,4,400763468,Baylor,receiving,LONG,2015
+2169,553452,Chris Callahan,1/2,400763468,Baylor,kicking,FG,2015
+2170,3139103,Spencer Evans,0/1,400763468,Baylor,kicking,FG,2015
+2171,553452,Chris Callahan,50.0,400763468,Baylor,kicking,PCT,2015
+2172,3139103,Spencer Evans,0.0,400763468,Baylor,kicking,PCT,2015
+2173,553452,Chris Callahan,24,400763468,Baylor,kicking,LONG,2015
+2174,3139103,Spencer Evans,0,400763468,Baylor,kicking,LONG,2015
+2175,553452,Chris Callahan,2/2,400763468,Baylor,kicking,XP,2015
+2176,3139103,Spencer Evans,0/0,400763468,Baylor,kicking,XP,2015
+2177,553452,Chris Callahan,5,400763468,Baylor,kicking,PTS,2015
+2178,3139103,Spencer Evans,0,400763468,Baylor,kicking,PTS,2015
+2179,3928923,Drew Galitz,3,400763468,Baylor,punting,NO,2015
+2180,3928923,Drew Galitz,113,400763468,Baylor,punting,YDS,2015
+2181,3928923,Drew Galitz,37.7,400763468,Baylor,punting,AVG,2015
+2182,3928923,Drew Galitz,0,400763468,Baylor,punting,TB,2015
+2183,3928923,Drew Galitz,0,400763468,Baylor,punting,In 20,2015
+2184,3928923,Drew Galitz,42,400763468,Baylor,punting,LONG,2015
+2185,545552,Greg Ward Jr.,11/21,400852678,Houston,passing,C/ATT,2015
+2186,553536,Linell Bonner,1/1,400852678,Houston,passing,C/ATT,2015
+2187,545552,Greg Ward Jr.,88,400852678,Houston,passing,YDS,2015
+2188,553536,Linell Bonner,18,400852678,Houston,passing,YDS,2015
+2189,545552,Greg Ward Jr.,4.2,400852678,Houston,passing,AVG,2015
+2190,553536,Linell Bonner,18.0,400852678,Houston,passing,AVG,2015
+2191,545552,Greg Ward Jr.,0,400852678,Houston,passing,TD,2015
+2192,553536,Linell Bonner,0,400852678,Houston,passing,TD,2015
+2193,545552,Greg Ward Jr.,0,400852678,Houston,passing,INT,2015
+2194,553536,Linell Bonner,0,400852678,Houston,passing,INT,2015
+2195,545552,Greg Ward Jr.,84.8,400852678,Houston,passing,QBR,2015
+2196,553536,Linell Bonner,99.1,400852678,Houston,passing,QBR,2015
+2197,545552,Greg Ward Jr.,17,400852678,Houston,rushing,CAR,2015
+2198,536828,Brandon Wilson,11,400852678,Houston,rushing,CAR,2015
+2199,545546,Javin Webb,10,400852678,Houston,rushing,CAR,2015
+2200,545552,Greg Ward Jr.,148,400852678,Houston,rushing,YDS,2015
+2201,536828,Brandon Wilson,70,400852678,Houston,rushing,YDS,2015
+2202,545546,Javin Webb,21,400852678,Houston,rushing,YDS,2015
+2203,545552,Greg Ward Jr.,8.7,400852678,Houston,rushing,AVG,2015
+2204,536828,Brandon Wilson,6.4,400852678,Houston,rushing,AVG,2015
+2205,545546,Javin Webb,2.1,400852678,Houston,rushing,AVG,2015
+2206,545552,Greg Ward Jr.,2,400852678,Houston,rushing,TD,2015
+2207,536828,Brandon Wilson,0,400852678,Houston,rushing,TD,2015
+2208,545546,Javin Webb,1,400852678,Houston,rushing,TD,2015
+2209,545552,Greg Ward Jr.,47,400852678,Houston,rushing,LONG,2015
+2210,536828,Brandon Wilson,13,400852678,Houston,rushing,LONG,2015
+2211,545546,Javin Webb,4,400852678,Houston,rushing,LONG,2015
+2212,530860,Chance Allen,3,400852678,Houston,receiving,REC,2015
+2213,545553,Tyler McCloskey,2,400852678,Houston,receiving,REC,2015
+2214,536828,Brandon Wilson,3,400852678,Houston,receiving,REC,2015
+2215,548071,John Leday,2,400852678,Houston,receiving,REC,2015
+2216,3126197,Steven Dunbar,1,400852678,Houston,receiving,REC,2015
+2217,545546,Javin Webb,1,400852678,Houston,receiving,REC,2015
+2218,530860,Chance Allen,35,400852678,Houston,receiving,YDS,2015
+2219,545553,Tyler McCloskey,25,400852678,Houston,receiving,YDS,2015
+2220,536828,Brandon Wilson,22,400852678,Houston,receiving,YDS,2015
+2221,548071,John Leday,13,400852678,Houston,receiving,YDS,2015
+2222,3126197,Steven Dunbar,12,400852678,Houston,receiving,YDS,2015
+2223,545546,Javin Webb,-1,400852678,Houston,receiving,YDS,2015
+2224,530860,Chance Allen,11.7,400852678,Houston,receiving,AVG,2015
+2225,545553,Tyler McCloskey,12.5,400852678,Houston,receiving,AVG,2015
+2226,536828,Brandon Wilson,7.3,400852678,Houston,receiving,AVG,2015
+2227,548071,John Leday,6.5,400852678,Houston,receiving,AVG,2015
+2228,3126197,Steven Dunbar,12.0,400852678,Houston,receiving,AVG,2015
+2229,545546,Javin Webb,-1.0,400852678,Houston,receiving,AVG,2015
+2230,530860,Chance Allen,0,400852678,Houston,receiving,TD,2015
+2231,545553,Tyler McCloskey,0,400852678,Houston,receiving,TD,2015
+2232,536828,Brandon Wilson,0,400852678,Houston,receiving,TD,2015
+2233,548071,John Leday,0,400852678,Houston,receiving,TD,2015
+2234,3126197,Steven Dunbar,0,400852678,Houston,receiving,TD,2015
+2235,545546,Javin Webb,0,400852678,Houston,receiving,TD,2015
+2236,530860,Chance Allen,27,400852678,Houston,receiving,LONG,2015
+2237,545553,Tyler McCloskey,18,400852678,Houston,receiving,LONG,2015
+2238,536828,Brandon Wilson,8,400852678,Houston,receiving,LONG,2015
+2239,548071,John Leday,7,400852678,Houston,receiving,LONG,2015
+2240,3126197,Steven Dunbar,12,400852678,Houston,receiving,LONG,2015
+2241,545546,Javin Webb,0,400852678,Houston,receiving,LONG,2015
+2242,545554,Tyus Bowser,1,400852678,Houston,interceptions,INT,2015
+2243,545554,Tyus Bowser,8,400852678,Houston,interceptions,YDS,2015
+2244,545554,Tyus Bowser,0,400852678,Houston,interceptions,TD,2015
+2245,545546,Javin Webb,2,400852678,Houston,kickReturns,NO,2015
+2246,536828,Brandon Wilson,2,400852678,Houston,kickReturns,NO,2015
+2247,545546,Javin Webb,33,400852678,Houston,kickReturns,YDS,2015
+2248,536828,Brandon Wilson,26,400852678,Houston,kickReturns,YDS,2015
+2249,545546,Javin Webb,16.5,400852678,Houston,kickReturns,AVG,2015
+2250,536828,Brandon Wilson,13.0,400852678,Houston,kickReturns,AVG,2015
+2251,545546,Javin Webb,23,400852678,Houston,kickReturns,LONG,2015
+2252,536828,Brandon Wilson,15,400852678,Houston,kickReturns,LONG,2015
+2253,545546,Javin Webb,0,400852678,Houston,kickReturns,TD,2015
+2254,536828,Brandon Wilson,0,400852678,Houston,kickReturns,TD,2015
+2255,545543,Demarcus Ayers,2,400852678,Houston,puntReturns,NO,2015
+2256,545543,Demarcus Ayers,5,400852678,Houston,puntReturns,YDS,2015
+2257,545543,Demarcus Ayers,2.5,400852678,Houston,puntReturns,AVG,2015
+2258,545543,Demarcus Ayers,5,400852678,Houston,puntReturns,LONG,2015
+2259,545543,Demarcus Ayers,0,400852678,Houston,puntReturns,TD,2015
+2260,545544,Ty Cummings,1/1,400852678,Houston,kicking,FG,2015
+2261,545544,Ty Cummings,100.0,400852678,Houston,kicking,PCT,2015
+2262,545544,Ty Cummings,24,400852678,Houston,kicking,LONG,2015
+2263,545544,Ty Cummings,3/3,400852678,Houston,kicking,XP,2015
+2264,545544,Ty Cummings,6,400852678,Houston,kicking,PTS,2015
+2265,556627,Logan Piper,6,400852678,Houston,punting,NO,2015
+2266,556627,Logan Piper,219,400852678,Houston,punting,YDS,2015
+2267,556627,Logan Piper,36.5,400852678,Houston,punting,AVG,2015
+2268,556627,Logan Piper,0,400852678,Houston,punting,TB,2015
+2269,556627,Logan Piper,0,400852678,Houston,punting,In 20,2015
+2270,556627,Logan Piper,46,400852678,Houston,punting,LONG,2015
+2271,549759,Phillip Walker,26/44,400852678,Temple,passing,C/ATT,2015
+2272,549759,Phillip Walker,287,400852678,Temple,passing,YDS,2015
+2273,549759,Phillip Walker,6.5,400852678,Temple,passing,AVG,2015
+2274,549759,Phillip Walker,1,400852678,Temple,passing,TD,2015
+2275,549759,Phillip Walker,1,400852678,Temple,passing,INT,2015
+2276,549759,Phillip Walker,48.8,400852678,Temple,passing,QBR,2015
+2277,549766,Jahad Thomas,19,400852678,Temple,rushing,CAR,2015
+2278,549759,Phillip Walker,5,400852678,Temple,rushing,CAR,2015
+2279,3138737,David Hood,2,400852678,Temple,rushing,CAR,2015
+2280,549766,Jahad Thomas,69,400852678,Temple,rushing,YDS,2015
+2281,549759,Phillip Walker,26,400852678,Temple,rushing,YDS,2015
+2282,3138737,David Hood,6,400852678,Temple,rushing,YDS,2015
+2283,549766,Jahad Thomas,3.6,400852678,Temple,rushing,AVG,2015
+2284,549759,Phillip Walker,5.2,400852678,Temple,rushing,AVG,2015
+2285,3138737,David Hood,3.0,400852678,Temple,rushing,AVG,2015
+2286,549766,Jahad Thomas,0,400852678,Temple,rushing,TD,2015
+2287,549759,Phillip Walker,0,400852678,Temple,rushing,TD,2015
+2288,3138737,David Hood,0,400852678,Temple,rushing,TD,2015
+2289,549766,Jahad Thomas,19,400852678,Temple,rushing,LONG,2015
+2290,549759,Phillip Walker,10,400852678,Temple,rushing,LONG,2015
+2291,3138737,David Hood,3,400852678,Temple,rushing,LONG,2015
+2292,513399,Robby Anderson,12,400852678,Temple,receiving,REC,2015
+2293,534276,Romond Deloatch,4,400852678,Temple,receiving,REC,2015
+2294,552276,Saledeem Major,2,400852678,Temple,receiving,REC,2015
+2295,534342,Brandon Shippen,2,400852678,Temple,receiving,REC,2015
+2296,3123935,Adonis Jennings,2,400852678,Temple,receiving,REC,2015
+2297,3138760,Ventell Bryant,1,400852678,Temple,receiving,REC,2015
+2298,549766,Jahad Thomas,1,400852678,Temple,receiving,REC,2015
+2299,3138737,David Hood,1,400852678,Temple,receiving,REC,2015
+2300,3138761,Kip Patton,1,400852678,Temple,receiving,REC,2015
+2301,513399,Robby Anderson,150,400852678,Temple,receiving,YDS,2015
+2302,534276,Romond Deloatch,36,400852678,Temple,receiving,YDS,2015
+2303,552276,Saledeem Major,31,400852678,Temple,receiving,YDS,2015
+2304,534342,Brandon Shippen,28,400852678,Temple,receiving,YDS,2015
+2305,3123935,Adonis Jennings,15,400852678,Temple,receiving,YDS,2015
+2306,3138760,Ventell Bryant,14,400852678,Temple,receiving,YDS,2015
+2307,549766,Jahad Thomas,6,400852678,Temple,receiving,YDS,2015
+2308,3138737,David Hood,5,400852678,Temple,receiving,YDS,2015
+2309,3138761,Kip Patton,2,400852678,Temple,receiving,YDS,2015
+2310,513399,Robby Anderson,12.5,400852678,Temple,receiving,AVG,2015
+2311,534276,Romond Deloatch,9.0,400852678,Temple,receiving,AVG,2015
+2312,552276,Saledeem Major,15.5,400852678,Temple,receiving,AVG,2015
+2313,534342,Brandon Shippen,14.0,400852678,Temple,receiving,AVG,2015
+2314,3123935,Adonis Jennings,7.5,400852678,Temple,receiving,AVG,2015
+2315,3138760,Ventell Bryant,14.0,400852678,Temple,receiving,AVG,2015
+2316,549766,Jahad Thomas,6.0,400852678,Temple,receiving,AVG,2015
+2317,3138737,David Hood,5.0,400852678,Temple,receiving,AVG,2015
+2318,3138761,Kip Patton,2.0,400852678,Temple,receiving,AVG,2015
+2319,513399,Robby Anderson,1,400852678,Temple,receiving,TD,2015
+2320,534276,Romond Deloatch,0,400852678,Temple,receiving,TD,2015
+2321,552276,Saledeem Major,0,400852678,Temple,receiving,TD,2015
+2322,534342,Brandon Shippen,0,400852678,Temple,receiving,TD,2015
+2323,3123935,Adonis Jennings,0,400852678,Temple,receiving,TD,2015
+2324,3138760,Ventell Bryant,0,400852678,Temple,receiving,TD,2015
+2325,549766,Jahad Thomas,0,400852678,Temple,receiving,TD,2015
+2326,3138737,David Hood,0,400852678,Temple,receiving,TD,2015
+2327,3138761,Kip Patton,0,400852678,Temple,receiving,TD,2015
+2328,513399,Robby Anderson,41,400852678,Temple,receiving,LONG,2015
+2329,534276,Romond Deloatch,22,400852678,Temple,receiving,LONG,2015
+2330,552276,Saledeem Major,18,400852678,Temple,receiving,LONG,2015
+2331,534342,Brandon Shippen,21,400852678,Temple,receiving,LONG,2015
+2332,3123935,Adonis Jennings,12,400852678,Temple,receiving,LONG,2015
+2333,3138760,Ventell Bryant,14,400852678,Temple,receiving,LONG,2015
+2334,549766,Jahad Thomas,6,400852678,Temple,receiving,LONG,2015
+2335,3138737,David Hood,5,400852678,Temple,receiving,LONG,2015
+2336,3138761,Kip Patton,2,400852678,Temple,receiving,LONG,2015
+2337,3923405,Jager Gardner,4,400852678,Temple,kickReturns,NO,2015
+2338,3923405,Jager Gardner,80,400852678,Temple,kickReturns,YDS,2015
+2339,3923405,Jager Gardner,20.0,400852678,Temple,kickReturns,AVG,2015
+2340,3923405,Jager Gardner,24,400852678,Temple,kickReturns,LONG,2015
+2341,3923405,Jager Gardner,0,400852678,Temple,kickReturns,TD,2015
+2342,3138733,Sean Chandler,2,400852678,Temple,puntReturns,NO,2015
+2343,3138733,Sean Chandler,4,400852678,Temple,puntReturns,YDS,2015
+2344,3138733,Sean Chandler,2.0,400852678,Temple,puntReturns,AVG,2015
+2345,3138733,Sean Chandler,3,400852678,Temple,puntReturns,LONG,2015
+2346,3138733,Sean Chandler,0,400852678,Temple,puntReturns,TD,2015
+2347,3138739,Austin Jones,2/2,400852678,Temple,kicking,FG,2015
+2348,3138739,Austin Jones,100.0,400852678,Temple,kicking,PCT,2015
+2349,3138739,Austin Jones,40,400852678,Temple,kicking,LONG,2015
+2350,3138739,Austin Jones,1/1,400852678,Temple,kicking,XP,2015
+2351,3138739,Austin Jones,7,400852678,Temple,kicking,PTS,2015
+2352,3138742,Alex Starzyk,3,400852678,Temple,punting,NO,2015
+2353,3138742,Alex Starzyk,99,400852678,Temple,punting,YDS,2015
+2354,3138742,Alex Starzyk,33.0,400852678,Temple,punting,AVG,2015
+2355,3138742,Alex Starzyk,0,400852678,Temple,punting,TB,2015
+2356,3138742,Alex Starzyk,0,400852678,Temple,punting,In 20,2015
+2357,3138742,Alex Starzyk,38,400852678,Temple,punting,LONG,2015
+2358,504866,Brandon Doughty,34/52,400852672,Western Kentucky,passing,C/ATT,2015
+2359,504866,Brandon Doughty,410,400852672,Western Kentucky,passing,YDS,2015
+2360,504866,Brandon Doughty,7.9,400852672,Western Kentucky,passing,AVG,2015
+2361,504866,Brandon Doughty,3,400852672,Western Kentucky,passing,TD,2015
+2362,504866,Brandon Doughty,1,400852672,Western Kentucky,passing,INT,2015
+2363,504866,Brandon Doughty,77.3,400852672,Western Kentucky,passing,QBR,2015
+2364,3124795,D'Andre Ferby,21,400852672,Western Kentucky,rushing,CAR,2015
+2365,536440,Anthony Wales,12,400852672,Western Kentucky,rushing,CAR,2015
+2366,504866,Brandon Doughty,2,400852672,Western Kentucky,rushing,CAR,2015
+2367,552775,Taywan Taylor,1,400852672,Western Kentucky,rushing,CAR,2015
+2368,3124795,D'Andre Ferby,57,400852672,Western Kentucky,rushing,YDS,2015
+2369,536440,Anthony Wales,53,400852672,Western Kentucky,rushing,YDS,2015
+2370,504866,Brandon Doughty,4,400852672,Western Kentucky,rushing,YDS,2015
+2371,552775,Taywan Taylor,-3,400852672,Western Kentucky,rushing,YDS,2015
+2372,3124795,D'Andre Ferby,2.7,400852672,Western Kentucky,rushing,AVG,2015
+2373,536440,Anthony Wales,4.4,400852672,Western Kentucky,rushing,AVG,2015
+2374,504866,Brandon Doughty,2.0,400852672,Western Kentucky,rushing,AVG,2015
+2375,552775,Taywan Taylor,-3.0,400852672,Western Kentucky,rushing,AVG,2015
+2376,3124795,D'Andre Ferby,2,400852672,Western Kentucky,rushing,TD,2015
+2377,536440,Anthony Wales,0,400852672,Western Kentucky,rushing,TD,2015
+2378,504866,Brandon Doughty,1,400852672,Western Kentucky,rushing,TD,2015
+2379,552775,Taywan Taylor,0,400852672,Western Kentucky,rushing,TD,2015
+2380,3124795,D'Andre Ferby,14,400852672,Western Kentucky,rushing,LONG,2015
+2381,536440,Anthony Wales,21,400852672,Western Kentucky,rushing,LONG,2015
+2382,504866,Brandon Doughty,3,400852672,Western Kentucky,rushing,LONG,2015
+2383,552775,Taywan Taylor,0,400852672,Western Kentucky,rushing,LONG,2015
+2384,552775,Taywan Taylor,8,400852672,Western Kentucky,receiving,REC,2015
+2385,3124785,Antwane Grant,6,400852672,Western Kentucky,receiving,REC,2015
+2386,3124788,Jared Dangerfield,9,400852672,Western Kentucky,receiving,REC,2015
+2387,536440,Anthony Wales,5,400852672,Western Kentucky,receiving,REC,2015
+2388,552967,Nicholas Norris,5,400852672,Western Kentucky,receiving,REC,2015
+2389,515708,Tyler Higbee,1,400852672,Western Kentucky,receiving,REC,2015
+2390,552775,Taywan Taylor,165,400852672,Western Kentucky,receiving,YDS,2015
+2391,3124785,Antwane Grant,73,400852672,Western Kentucky,receiving,YDS,2015
+2392,3124788,Jared Dangerfield,64,400852672,Western Kentucky,receiving,YDS,2015
+2393,536440,Anthony Wales,53,400852672,Western Kentucky,receiving,YDS,2015
+2394,552967,Nicholas Norris,47,400852672,Western Kentucky,receiving,YDS,2015
+2395,515708,Tyler Higbee,8,400852672,Western Kentucky,receiving,YDS,2015
+2396,552775,Taywan Taylor,20.6,400852672,Western Kentucky,receiving,AVG,2015
+2397,3124785,Antwane Grant,12.2,400852672,Western Kentucky,receiving,AVG,2015
+2398,3124788,Jared Dangerfield,7.1,400852672,Western Kentucky,receiving,AVG,2015
+2399,536440,Anthony Wales,10.6,400852672,Western Kentucky,receiving,AVG,2015
+2400,552967,Nicholas Norris,9.4,400852672,Western Kentucky,receiving,AVG,2015
+2401,515708,Tyler Higbee,8.0,400852672,Western Kentucky,receiving,AVG,2015
+2402,552775,Taywan Taylor,2,400852672,Western Kentucky,receiving,TD,2015
+2403,3124785,Antwane Grant,1,400852672,Western Kentucky,receiving,TD,2015
+2404,3124788,Jared Dangerfield,0,400852672,Western Kentucky,receiving,TD,2015
+2405,536440,Anthony Wales,0,400852672,Western Kentucky,receiving,TD,2015
+2406,552967,Nicholas Norris,0,400852672,Western Kentucky,receiving,TD,2015
+2407,515708,Tyler Higbee,0,400852672,Western Kentucky,receiving,TD,2015
+2408,552775,Taywan Taylor,54,400852672,Western Kentucky,receiving,LONG,2015
+2409,3124785,Antwane Grant,22,400852672,Western Kentucky,receiving,LONG,2015
+2410,3124788,Jared Dangerfield,15,400852672,Western Kentucky,receiving,LONG,2015
+2411,536440,Anthony Wales,24,400852672,Western Kentucky,receiving,LONG,2015
+2412,552967,Nicholas Norris,19,400852672,Western Kentucky,receiving,LONG,2015
+2413,515708,Tyler Higbee,8,400852672,Western Kentucky,receiving,LONG,2015
+2414,533576,Branden Leston,1,400852672,Western Kentucky,interceptions,INT,2015
+2415,540670,Prince Charles Iworah,1,400852672,Western Kentucky,interceptions,INT,2015
+2416,552912,T.J. McCollum,1,400852672,Western Kentucky,interceptions,INT,2015
+2417,533576,Branden Leston,16,400852672,Western Kentucky,interceptions,YDS,2015
+2418,540670,Prince Charles Iworah,0,400852672,Western Kentucky,interceptions,YDS,2015
+2419,552912,T.J. McCollum,0,400852672,Western Kentucky,interceptions,YDS,2015
+2420,533576,Branden Leston,0,400852672,Western Kentucky,interceptions,TD,2015
+2421,540670,Prince Charles Iworah,0,400852672,Western Kentucky,interceptions,TD,2015
+2422,552912,T.J. McCollum,0,400852672,Western Kentucky,interceptions,TD,2015
+2423,552777,Kylen Towner,3,400852672,Western Kentucky,kickReturns,NO,2015
+2424,552777,Kylen Towner,85,400852672,Western Kentucky,kickReturns,YDS,2015
+2425,552777,Kylen Towner,28.3,400852672,Western Kentucky,kickReturns,AVG,2015
+2426,552777,Kylen Towner,61,400852672,Western Kentucky,kickReturns,LONG,2015
+2427,552777,Kylen Towner,0,400852672,Western Kentucky,kickReturns,TD,2015
+2428,3124776,Nacarius Fant,1,400852672,Western Kentucky,puntReturns,NO,2015
+2429,3124776,Nacarius Fant,-2,400852672,Western Kentucky,puntReturns,YDS,2015
+2430,3124776,Nacarius Fant,-2.0,400852672,Western Kentucky,puntReturns,AVG,2015
+2431,3124776,Nacarius Fant,-2,400852672,Western Kentucky,puntReturns,LONG,2015
+2432,3124776,Nacarius Fant,0,400852672,Western Kentucky,puntReturns,TD,2015
+2433,536451,Garrett Schwettman,1/1,400852672,Western Kentucky,kicking,FG,2015
+2434,536451,Garrett Schwettman,100.0,400852672,Western Kentucky,kicking,PCT,2015
+2435,536451,Garrett Schwettman,37,400852672,Western Kentucky,kicking,LONG,2015
+2436,536451,Garrett Schwettman,6/6,400852672,Western Kentucky,kicking,XP,2015
+2437,536451,Garrett Schwettman,9,400852672,Western Kentucky,kicking,PTS,2015
+2438,3915790,Jake Collins,3,400852672,Western Kentucky,punting,NO,2015
+2439,3915790,Jake Collins,109,400852672,Western Kentucky,punting,YDS,2015
+2440,3915790,Jake Collins,36.3,400852672,Western Kentucky,punting,AVG,2015
+2441,3915790,Jake Collins,0,400852672,Western Kentucky,punting,TB,2015
+2442,3915790,Jake Collins,0,400852672,Western Kentucky,punting,In 20,2015
+2443,3915790,Jake Collins,44,400852672,Western Kentucky,punting,LONG,2015
+2444,552880,Nick Mullens,15/30,400852672,Southern Mississippi,passing,C/ATT,2015
+2445,552880,Nick Mullens,181,400852672,Southern Mississippi,passing,YDS,2015
+2446,552880,Nick Mullens,6.0,400852672,Southern Mississippi,passing,AVG,2015
+2447,552880,Nick Mullens,1,400852672,Southern Mississippi,passing,TD,2015
+2448,552880,Nick Mullens,3,400852672,Southern Mississippi,passing,INT,2015
+2449,552880,Nick Mullens,45.3,400852672,Southern Mississippi,passing,QBR,2015
+2450,3123969,Ito Smith,15,400852672,Southern Mississippi,rushing,CAR,2015
+2451,531791,Jalen Richard,8,400852672,Southern Mississippi,rushing,CAR,2015
+2452,552880,Nick Mullens,9,400852672,Southern Mississippi,rushing,CAR,2015
+2453,3123969,Ito Smith,105,400852672,Southern Mississippi,rushing,YDS,2015
+2454,531791,Jalen Richard,33,400852672,Southern Mississippi,rushing,YDS,2015
+2455,552880,Nick Mullens,21,400852672,Southern Mississippi,rushing,YDS,2015
+2456,3123969,Ito Smith,7.0,400852672,Southern Mississippi,rushing,AVG,2015
+2457,531791,Jalen Richard,4.1,400852672,Southern Mississippi,rushing,AVG,2015
+2458,552880,Nick Mullens,2.3,400852672,Southern Mississippi,rushing,AVG,2015
+2459,3123969,Ito Smith,1,400852672,Southern Mississippi,rushing,TD,2015
+2460,531791,Jalen Richard,1,400852672,Southern Mississippi,rushing,TD,2015
+2461,552880,Nick Mullens,0,400852672,Southern Mississippi,rushing,TD,2015
+2462,3123969,Ito Smith,37,400852672,Southern Mississippi,rushing,LONG,2015
+2463,531791,Jalen Richard,20,400852672,Southern Mississippi,rushing,LONG,2015
+2464,552880,Nick Mullens,17,400852672,Southern Mississippi,rushing,LONG,2015
+2465,3123986,Michael Thomas,6,400852672,Southern Mississippi,receiving,REC,2015
+2466,512500,Casey Martin,2,400852672,Southern Mississippi,receiving,REC,2015
+2467,3123969,Ito Smith,3,400852672,Southern Mississippi,receiving,REC,2015
+2468,531796,D.J. Thompson,1,400852672,Southern Mississippi,receiving,REC,2015
+2469,531791,Jalen Richard,3,400852672,Southern Mississippi,receiving,REC,2015
+2470,3123986,Michael Thomas,90,400852672,Southern Mississippi,receiving,YDS,2015
+2471,512500,Casey Martin,36,400852672,Southern Mississippi,receiving,YDS,2015
+2472,3123969,Ito Smith,27,400852672,Southern Mississippi,receiving,YDS,2015
+2473,531796,D.J. Thompson,14,400852672,Southern Mississippi,receiving,YDS,2015
+2474,531791,Jalen Richard,14,400852672,Southern Mississippi,receiving,YDS,2015
+2475,3123986,Michael Thomas,15.0,400852672,Southern Mississippi,receiving,AVG,2015
+2476,512500,Casey Martin,18.0,400852672,Southern Mississippi,receiving,AVG,2015
+2477,3123969,Ito Smith,9.0,400852672,Southern Mississippi,receiving,AVG,2015
+2478,531796,D.J. Thompson,14.0,400852672,Southern Mississippi,receiving,AVG,2015
+2479,531791,Jalen Richard,4.7,400852672,Southern Mississippi,receiving,AVG,2015
+2480,3123986,Michael Thomas,1,400852672,Southern Mississippi,receiving,TD,2015
+2481,512500,Casey Martin,0,400852672,Southern Mississippi,receiving,TD,2015
+2482,3123969,Ito Smith,0,400852672,Southern Mississippi,receiving,TD,2015
+2483,531796,D.J. Thompson,0,400852672,Southern Mississippi,receiving,TD,2015
+2484,531791,Jalen Richard,0,400852672,Southern Mississippi,receiving,TD,2015
+2485,3123986,Michael Thomas,28,400852672,Southern Mississippi,receiving,LONG,2015
+2486,512500,Casey Martin,31,400852672,Southern Mississippi,receiving,LONG,2015
+2487,3123969,Ito Smith,14,400852672,Southern Mississippi,receiving,LONG,2015
+2488,531796,D.J. Thompson,14,400852672,Southern Mississippi,receiving,LONG,2015
+2489,531791,Jalen Richard,11,400852672,Southern Mississippi,receiving,LONG,2015
+2490,531790,Kalan Reed,1,400852672,Southern Mississippi,interceptions,INT,2015
+2491,531790,Kalan Reed,40,400852672,Southern Mississippi,interceptions,YDS,2015
+2492,531790,Kalan Reed,1,400852672,Southern Mississippi,interceptions,TD,2015
+2493,3123986,Michael Thomas,7,400852672,Southern Mississippi,kickReturns,NO,2015
+2494,3916344,LaDarius Harris,1,400852672,Southern Mississippi,kickReturns,NO,2015
+2495,3123986,Michael Thomas,136,400852672,Southern Mississippi,kickReturns,YDS,2015
+2496,3916344,LaDarius Harris,23,400852672,Southern Mississippi,kickReturns,YDS,2015
+2497,3123986,Michael Thomas,19.4,400852672,Southern Mississippi,kickReturns,AVG,2015
+2498,3916344,LaDarius Harris,23.0,400852672,Southern Mississippi,kickReturns,AVG,2015
+2499,3123986,Michael Thomas,29,400852672,Southern Mississippi,kickReturns,LONG,2015
+2500,3916344,LaDarius Harris,23,400852672,Southern Mississippi,kickReturns,LONG,2015
+2501,3123986,Michael Thomas,0,400852672,Southern Mississippi,kickReturns,TD,2015
+2502,3916344,LaDarius Harris,0,400852672,Southern Mississippi,kickReturns,TD,2015
+2503,531791,Jalen Richard,1,400852672,Southern Mississippi,puntReturns,NO,2015
+2504,531791,Jalen Richard,0,400852672,Southern Mississippi,puntReturns,YDS,2015
+2505,531791,Jalen Richard,0.0,400852672,Southern Mississippi,puntReturns,AVG,2015
+2506,531791,Jalen Richard,0,400852672,Southern Mississippi,puntReturns,LONG,2015
+2507,531791,Jalen Richard,0,400852672,Southern Mississippi,puntReturns,TD,2015
+2508,546094,Stephen Brauchle,0/0,400852672,Southern Mississippi,kicking,FG,2015
+2509,546094,Stephen Brauchle,0.0,400852672,Southern Mississippi,kicking,PCT,2015
+2510,546094,Stephen Brauchle,0,400852672,Southern Mississippi,kicking,LONG,2015
+2511,546094,Stephen Brauchle,4/4,400852672,Southern Mississippi,kicking,XP,2015
+2512,546094,Stephen Brauchle,4,400852672,Southern Mississippi,kicking,PTS,2015
+2513,552888,Tyler Sarrazin,4,400852672,Southern Mississippi,punting,NO,2015
+2514,552888,Tyler Sarrazin,151,400852672,Southern Mississippi,punting,YDS,2015
+2515,552888,Tyler Sarrazin,37.8,400852672,Southern Mississippi,punting,AVG,2015
+2516,552888,Tyler Sarrazin,0,400852672,Southern Mississippi,punting,TB,2015
+2517,552888,Tyler Sarrazin,0,400852672,Southern Mississippi,punting,In 20,2015
+2518,552888,Tyler Sarrazin,45,400852672,Southern Mississippi,punting,LONG,2015
+2519,3921966,Tommy Fiedler,12/28,400852680,Northern Illinois,passing,C/ATT,2015
+2520,3921966,Tommy Fiedler,152,400852680,Northern Illinois,passing,YDS,2015
+2521,3921966,Tommy Fiedler,5.4,400852680,Northern Illinois,passing,AVG,2015
+2522,3921966,Tommy Fiedler,1,400852680,Northern Illinois,passing,TD,2015
+2523,3921966,Tommy Fiedler,3,400852680,Northern Illinois,passing,INT,2015
+2524,3921966,Tommy Fiedler,14.8,400852680,Northern Illinois,passing,QBR,2015
+2525,547843,Joel Bouagnon,14,400852680,Northern Illinois,rushing,CAR,2015
+2526,547854,Jordan Huff,5,400852680,Northern Illinois,rushing,CAR,2015
+2527,3921966,Tommy Fiedler,14,400852680,Northern Illinois,rushing,CAR,2015
+2528,547867,Aregeros Turner,4,400852680,Northern Illinois,rushing,CAR,2015
+2529,547842,Chad Beebe,1,400852680,Northern Illinois,rushing,CAR,2015
+2530,547843,Joel Bouagnon,57,400852680,Northern Illinois,rushing,YDS,2015
+2531,547854,Jordan Huff,23,400852680,Northern Illinois,rushing,YDS,2015
+2532,3921966,Tommy Fiedler,22,400852680,Northern Illinois,rushing,YDS,2015
+2533,547867,Aregeros Turner,7,400852680,Northern Illinois,rushing,YDS,2015
+2534,547842,Chad Beebe,-2,400852680,Northern Illinois,rushing,YDS,2015
+2535,547843,Joel Bouagnon,4.1,400852680,Northern Illinois,rushing,AVG,2015
+2536,547854,Jordan Huff,4.6,400852680,Northern Illinois,rushing,AVG,2015
+2537,3921966,Tommy Fiedler,1.6,400852680,Northern Illinois,rushing,AVG,2015
+2538,547867,Aregeros Turner,1.8,400852680,Northern Illinois,rushing,AVG,2015
+2539,547842,Chad Beebe,-2.0,400852680,Northern Illinois,rushing,AVG,2015
+2540,547843,Joel Bouagnon,0,400852680,Northern Illinois,rushing,TD,2015
+2541,547854,Jordan Huff,0,400852680,Northern Illinois,rushing,TD,2015
+2542,3921966,Tommy Fiedler,0,400852680,Northern Illinois,rushing,TD,2015
+2543,547867,Aregeros Turner,0,400852680,Northern Illinois,rushing,TD,2015
+2544,547842,Chad Beebe,0,400852680,Northern Illinois,rushing,TD,2015
+2545,547843,Joel Bouagnon,21,400852680,Northern Illinois,rushing,LONG,2015
+2546,547854,Jordan Huff,12,400852680,Northern Illinois,rushing,LONG,2015
+2547,3921966,Tommy Fiedler,15,400852680,Northern Illinois,rushing,LONG,2015
+2548,547867,Aregeros Turner,13,400852680,Northern Illinois,rushing,LONG,2015
+2549,547842,Chad Beebe,0,400852680,Northern Illinois,rushing,LONG,2015
+2550,532488,Desroy Maxwell,3,400852680,Northern Illinois,receiving,REC,2015
+2551,547843,Joel Bouagnon,3,400852680,Northern Illinois,receiving,REC,2015
+2552,547842,Chad Beebe,1,400852680,Northern Illinois,receiving,REC,2015
+2553,533961,Kenny Golladay,1,400852680,Northern Illinois,receiving,REC,2015
+2554,511594,Juwan Brescacin,2,400852680,Northern Illinois,receiving,REC,2015
+2555,547867,Aregeros Turner,2,400852680,Northern Illinois,receiving,REC,2015
+2556,532488,Desroy Maxwell,68,400852680,Northern Illinois,receiving,YDS,2015
+2557,547843,Joel Bouagnon,31,400852680,Northern Illinois,receiving,YDS,2015
+2558,547842,Chad Beebe,17,400852680,Northern Illinois,receiving,YDS,2015
+2559,533961,Kenny Golladay,15,400852680,Northern Illinois,receiving,YDS,2015
+2560,511594,Juwan Brescacin,13,400852680,Northern Illinois,receiving,YDS,2015
+2561,547867,Aregeros Turner,8,400852680,Northern Illinois,receiving,YDS,2015
+2562,532488,Desroy Maxwell,22.7,400852680,Northern Illinois,receiving,AVG,2015
+2563,547843,Joel Bouagnon,10.3,400852680,Northern Illinois,receiving,AVG,2015
+2564,547842,Chad Beebe,17.0,400852680,Northern Illinois,receiving,AVG,2015
+2565,533961,Kenny Golladay,15.0,400852680,Northern Illinois,receiving,AVG,2015
+2566,511594,Juwan Brescacin,6.5,400852680,Northern Illinois,receiving,AVG,2015
+2567,547867,Aregeros Turner,4.0,400852680,Northern Illinois,receiving,AVG,2015
+2568,532488,Desroy Maxwell,1,400852680,Northern Illinois,receiving,TD,2015
+2569,547843,Joel Bouagnon,0,400852680,Northern Illinois,receiving,TD,2015
+2570,547842,Chad Beebe,0,400852680,Northern Illinois,receiving,TD,2015
+2571,533961,Kenny Golladay,0,400852680,Northern Illinois,receiving,TD,2015
+2572,511594,Juwan Brescacin,0,400852680,Northern Illinois,receiving,TD,2015
+2573,547867,Aregeros Turner,0,400852680,Northern Illinois,receiving,TD,2015
+2574,532488,Desroy Maxwell,32,400852680,Northern Illinois,receiving,LONG,2015
+2575,547843,Joel Bouagnon,22,400852680,Northern Illinois,receiving,LONG,2015
+2576,547842,Chad Beebe,17,400852680,Northern Illinois,receiving,LONG,2015
+2577,533961,Kenny Golladay,15,400852680,Northern Illinois,receiving,LONG,2015
+2578,511594,Juwan Brescacin,7,400852680,Northern Illinois,receiving,LONG,2015
+2579,547867,Aregeros Turner,6,400852680,Northern Illinois,receiving,LONG,2015
+2580,3126023,Shawun Lurry,1,400852680,Northern Illinois,interceptions,INT,2015
+2581,547858,Brandon Mayes,1,400852680,Northern Illinois,interceptions,INT,2015
+2582,3126023,Shawun Lurry,64,400852680,Northern Illinois,interceptions,YDS,2015
+2583,547858,Brandon Mayes,8,400852680,Northern Illinois,interceptions,YDS,2015
+2584,3126023,Shawun Lurry,1,400852680,Northern Illinois,interceptions,TD,2015
+2585,547858,Brandon Mayes,0,400852680,Northern Illinois,interceptions,TD,2015
+2586,547867,Aregeros Turner,3,400852680,Northern Illinois,kickReturns,NO,2015
+2587,547867,Aregeros Turner,61,400852680,Northern Illinois,kickReturns,YDS,2015
+2588,547867,Aregeros Turner,20.3,400852680,Northern Illinois,kickReturns,AVG,2015
+2589,547867,Aregeros Turner,21,400852680,Northern Illinois,kickReturns,LONG,2015
+2590,547867,Aregeros Turner,0,400852680,Northern Illinois,kickReturns,TD,2015
+2591,3126033,Ezra Saffold,1,400852680,Northern Illinois,puntReturns,NO,2015
+2592,547842,Chad Beebe,1,400852680,Northern Illinois,puntReturns,NO,2015
+2593,3126033,Ezra Saffold,15,400852680,Northern Illinois,puntReturns,YDS,2015
+2594,547842,Chad Beebe,8,400852680,Northern Illinois,puntReturns,YDS,2015
+2595,3126033,Ezra Saffold,15.0,400852680,Northern Illinois,puntReturns,AVG,2015
+2596,547842,Chad Beebe,8.0,400852680,Northern Illinois,puntReturns,AVG,2015
+2597,3126033,Ezra Saffold,15,400852680,Northern Illinois,puntReturns,LONG,2015
+2598,547842,Chad Beebe,8,400852680,Northern Illinois,puntReturns,LONG,2015
+2599,3126033,Ezra Saffold,0,400852680,Northern Illinois,puntReturns,TD,2015
+2600,547842,Chad Beebe,0,400852680,Northern Illinois,puntReturns,TD,2015
+2601,3126014,Christian Hagan,0/0,400852680,Northern Illinois,kicking,FG,2015
+2602,3126014,Christian Hagan,0.0,400852680,Northern Illinois,kicking,PCT,2015
+2603,3126014,Christian Hagan,0,400852680,Northern Illinois,kicking,LONG,2015
+2604,3126014,Christian Hagan,2/2,400852680,Northern Illinois,kicking,XP,2015
+2605,3126014,Christian Hagan,2,400852680,Northern Illinois,kicking,PTS,2015
+2606,3921987,Jacob Ambrose,6,400852680,Northern Illinois,punting,NO,2015
+2607,3921987,Jacob Ambrose,257,400852680,Northern Illinois,punting,YDS,2015
+2608,3921987,Jacob Ambrose,42.8,400852680,Northern Illinois,punting,AVG,2015
+2609,3921987,Jacob Ambrose,0,400852680,Northern Illinois,punting,TB,2015
+2610,3921987,Jacob Ambrose,0,400852680,Northern Illinois,punting,In 20,2015
+2611,3921987,Jacob Ambrose,52,400852680,Northern Illinois,punting,LONG,2015
+2612,3914409,Joseph Davidson,0,400852680,Bowling Green,punting,TB,2015
+2613,3914409,Joseph Davidson,5,400852680,Bowling Green,punting,NO,2015
+2614,3914409,Joseph Davidson,230,400852680,Bowling Green,punting,YDS,2015
+2615,3914409,Joseph Davidson,46.0,400852680,Bowling Green,punting,AVG,2015
+2616,3914409,Joseph Davidson,0,400852680,Bowling Green,punting,In 20,2015
+2617,3914409,Joseph Davidson,52,400852680,Bowling Green,punting,LONG,2015
+2618,513573,Matt Quinn Johnson,25/37,400852680,Bowling Green,passing,C/ATT,2015
+2619,513573,Matt Quinn Johnson,235,400852680,Bowling Green,passing,YDS,2015
+2620,513573,Matt Quinn Johnson,6.4,400852680,Bowling Green,passing,AVG,2015
+2621,513573,Matt Quinn Johnson,2,400852680,Bowling Green,passing,TD,2015
+2622,513573,Matt Quinn Johnson,2,400852680,Bowling Green,passing,INT,2015
+2623,513573,Matt Quinn Johnson,52.7,400852680,Bowling Green,passing,QBR,2015
+2624,513574,Travis Calton Greene,29,400852680,Bowling Green,rushing,CAR,2015
+2625,547077,Fred Coppet,16,400852680,Bowling Green,rushing,CAR,2015
+2626,513573,Matt Quinn Johnson,6,400852680,Bowling Green,rushing,CAR,2015
+2627,547066,Ronnie Moore,1,400852680,Bowling Green,rushing,CAR,2015
+2628,513574,Travis Calton Greene,183,400852680,Bowling Green,rushing,YDS,2015
+2629,547077,Fred Coppet,85,400852680,Bowling Green,rushing,YDS,2015
+2630,513573,Matt Quinn Johnson,8,400852680,Bowling Green,rushing,YDS,2015
+2631,547066,Ronnie Moore,-5,400852680,Bowling Green,rushing,YDS,2015
+2632,513574,Travis Calton Greene,6.3,400852680,Bowling Green,rushing,AVG,2015
+2633,547077,Fred Coppet,5.3,400852680,Bowling Green,rushing,AVG,2015
+2634,513573,Matt Quinn Johnson,1.3,400852680,Bowling Green,rushing,AVG,2015
+2635,547066,Ronnie Moore,-5.0,400852680,Bowling Green,rushing,AVG,2015
+2636,513574,Travis Calton Greene,2,400852680,Bowling Green,rushing,TD,2015
+2637,547077,Fred Coppet,1,400852680,Bowling Green,rushing,TD,2015
+2638,513573,Matt Quinn Johnson,0,400852680,Bowling Green,rushing,TD,2015
+2639,547066,Ronnie Moore,0,400852680,Bowling Green,rushing,TD,2015
+2640,513574,Travis Calton Greene,30,400852680,Bowling Green,rushing,LONG,2015
+2641,547077,Fred Coppet,15,400852680,Bowling Green,rushing,LONG,2015
+2642,513573,Matt Quinn Johnson,12,400852680,Bowling Green,rushing,LONG,2015
+2643,547066,Ronnie Moore,0,400852680,Bowling Green,rushing,LONG,2015
+2644,3125745,Roger Lewis,6,400852680,Bowling Green,receiving,REC,2015
+2645,536143,Gehrig Dieter,7,400852680,Bowling Green,receiving,REC,2015
+2646,547066,Ronnie Moore,5,400852680,Bowling Green,receiving,REC,2015
+2647,513596,Ryan Burbrink,3,400852680,Bowling Green,receiving,REC,2015
+2648,513574,Travis Calton Greene,3,400852680,Bowling Green,receiving,REC,2015
+2649,3914414,Derek Lee,1,400852680,Bowling Green,receiving,REC,2015
+2650,3125745,Roger Lewis,75,400852680,Bowling Green,receiving,YDS,2015
+2651,536143,Gehrig Dieter,75,400852680,Bowling Green,receiving,YDS,2015
+2652,547066,Ronnie Moore,53,400852680,Bowling Green,receiving,YDS,2015
+2653,513596,Ryan Burbrink,19,400852680,Bowling Green,receiving,YDS,2015
+2654,513574,Travis Calton Greene,11,400852680,Bowling Green,receiving,YDS,2015
+2655,3914414,Derek Lee,2,400852680,Bowling Green,receiving,YDS,2015
+2656,3125745,Roger Lewis,12.5,400852680,Bowling Green,receiving,AVG,2015
+2657,536143,Gehrig Dieter,10.7,400852680,Bowling Green,receiving,AVG,2015
+2658,547066,Ronnie Moore,10.6,400852680,Bowling Green,receiving,AVG,2015
+2659,513596,Ryan Burbrink,6.3,400852680,Bowling Green,receiving,AVG,2015
+2660,513574,Travis Calton Greene,3.7,400852680,Bowling Green,receiving,AVG,2015
+2661,3914414,Derek Lee,2.0,400852680,Bowling Green,receiving,AVG,2015
+2662,3125745,Roger Lewis,1,400852680,Bowling Green,receiving,TD,2015
+2663,536143,Gehrig Dieter,0,400852680,Bowling Green,receiving,TD,2015
+2664,547066,Ronnie Moore,0,400852680,Bowling Green,receiving,TD,2015
+2665,513596,Ryan Burbrink,0,400852680,Bowling Green,receiving,TD,2015
+2666,513574,Travis Calton Greene,0,400852680,Bowling Green,receiving,TD,2015
+2667,3914414,Derek Lee,1,400852680,Bowling Green,receiving,TD,2015
+2668,3125745,Roger Lewis,45,400852680,Bowling Green,receiving,LONG,2015
+2669,536143,Gehrig Dieter,19,400852680,Bowling Green,receiving,LONG,2015
+2670,547066,Ronnie Moore,21,400852680,Bowling Green,receiving,LONG,2015
+2671,513596,Ryan Burbrink,8,400852680,Bowling Green,receiving,LONG,2015
+2672,513574,Travis Calton Greene,9,400852680,Bowling Green,receiving,LONG,2015
+2673,3914414,Derek Lee,2,400852680,Bowling Green,receiving,LONG,2015
+2674,3125752,Alfonso Mack,1,400852680,Bowling Green,interceptions,INT,2015
+2675,3914391,Marcus Milton,1,400852680,Bowling Green,interceptions,INT,2015
+2676,3125746,Clint Stephens,1,400852680,Bowling Green,interceptions,INT,2015
+2677,3125752,Alfonso Mack,0,400852680,Bowling Green,interceptions,YDS,2015
+2678,3914391,Marcus Milton,0,400852680,Bowling Green,interceptions,YDS,2015
+2679,3125746,Clint Stephens,-2,400852680,Bowling Green,interceptions,YDS,2015
+2680,3125752,Alfonso Mack,0,400852680,Bowling Green,interceptions,TD,2015
+2681,3914391,Marcus Milton,0,400852680,Bowling Green,interceptions,TD,2015
+2682,3125746,Clint Stephens,0,400852680,Bowling Green,interceptions,TD,2015
+2683,547066,Ronnie Moore,1,400852680,Bowling Green,kickReturns,NO,2015
+2684,3125746,Clint Stephens,1,400852680,Bowling Green,kickReturns,NO,2015
+2685,547066,Ronnie Moore,19,400852680,Bowling Green,kickReturns,YDS,2015
+2686,3125746,Clint Stephens,17,400852680,Bowling Green,kickReturns,YDS,2015
+2687,547066,Ronnie Moore,19.0,400852680,Bowling Green,kickReturns,AVG,2015
+2688,3125746,Clint Stephens,17.0,400852680,Bowling Green,kickReturns,AVG,2015
+2689,547066,Ronnie Moore,19,400852680,Bowling Green,kickReturns,LONG,2015
+2690,3125746,Clint Stephens,17,400852680,Bowling Green,kickReturns,LONG,2015
+2691,547066,Ronnie Moore,0,400852680,Bowling Green,kickReturns,TD,2015
+2692,3125746,Clint Stephens,0,400852680,Bowling Green,kickReturns,TD,2015
+2693,513596,Ryan Burbrink,1,400852680,Bowling Green,puntReturns,NO,2015
+2694,513596,Ryan Burbrink,-1,400852680,Bowling Green,puntReturns,YDS,2015
+2695,513596,Ryan Burbrink,-1.0,400852680,Bowling Green,puntReturns,AVG,2015
+2696,513596,Ryan Burbrink,-1,400852680,Bowling Green,puntReturns,LONG,2015
+2697,513596,Ryan Burbrink,0,400852680,Bowling Green,puntReturns,TD,2015
+2698,513594,Tyler Tate,0/0,400852680,Bowling Green,kicking,FG,2015
+2699,513594,Tyler Tate,0.0,400852680,Bowling Green,kicking,PCT,2015
+2700,513594,Tyler Tate,0,400852680,Bowling Green,kicking,LONG,2015
+2701,513594,Tyler Tate,4/5,400852680,Bowling Green,kicking,XP,2015
+2702,513594,Tyler Tate,4,400852680,Bowling Green,kicking,PTS,2015

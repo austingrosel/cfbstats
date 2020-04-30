@@ -3,6 +3,14 @@ import pandas as pd
 import numpy as np
 
 
+def get_position_stats(df, columns):
+    df = df[columns]
+    df = df.groupby(['season', 'id', 'name'])[df.columns[3:]].sum().reset_index()
+    df = df.replace([np.inf, -np.inf], np.nan)
+    print('len df: {}'.format(len(df)))
+    return df
+
+
 def standardize_df(df, this_type, team_level):
     if this_type == 'fumbles':
         df = df[df['game.teams.categories.name'] == 'fumbles'].reset_index(drop=True)

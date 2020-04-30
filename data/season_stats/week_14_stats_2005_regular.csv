@@ -1,0 +1,1980 @@
+,id,name,stat,game.id,game.teams.school,game.teams.categories.name,game.teams.categories.types.name,season
+0,157532,Dan Nicholson,7/17,253352459,Northern Illinois,passing,C/ATT,2005
+1,157532,Dan Nicholson,110,253352459,Northern Illinois,passing,YDS,2005
+2,157532,Dan Nicholson,6.5,253352459,Northern Illinois,passing,AVG,2005
+3,157532,Dan Nicholson,1,253352459,Northern Illinois,passing,TD,2005
+4,157532,Dan Nicholson,0,253352459,Northern Illinois,passing,INT,2005
+5,157532,Dan Nicholson,33.2,253352459,Northern Illinois,passing,QBR,2005
+6,138215,Garrett Wolfe,42,253352459,Northern Illinois,rushing,CAR,2005
+7,138212,Adrian Davis,4,253352459,Northern Illinois,rushing,CAR,2005
+8,157532,Dan Nicholson,5,253352459,Northern Illinois,rushing,CAR,2005
+9,138215,Garrett Wolfe,270,253352459,Northern Illinois,rushing,YDS,2005
+10,138212,Adrian Davis,10,253352459,Northern Illinois,rushing,YDS,2005
+11,157532,Dan Nicholson,-29,253352459,Northern Illinois,rushing,YDS,2005
+12,138215,Garrett Wolfe,6.4,253352459,Northern Illinois,rushing,AVG,2005
+13,138212,Adrian Davis,2.5,253352459,Northern Illinois,rushing,AVG,2005
+14,157532,Dan Nicholson,-5.8,253352459,Northern Illinois,rushing,AVG,2005
+15,138215,Garrett Wolfe,2,253352459,Northern Illinois,rushing,TD,2005
+16,138212,Adrian Davis,0,253352459,Northern Illinois,rushing,TD,2005
+17,157532,Dan Nicholson,0,253352459,Northern Illinois,rushing,TD,2005
+18,138215,Garrett Wolfe,62,253352459,Northern Illinois,rushing,LONG,2005
+19,138212,Adrian Davis,6,253352459,Northern Illinois,rushing,LONG,2005
+20,157532,Dan Nicholson,1,253352459,Northern Illinois,rushing,LONG,2005
+21,157507,Britt Davis,2,253352459,Northern Illinois,receiving,REC,2005
+22,138232,Sam Hurd,2,253352459,Northern Illinois,receiving,REC,2005
+23,138218,Jake Nordin,2,253352459,Northern Illinois,receiving,REC,2005
+24,114902,Pat Raleigh,1,253352459,Northern Illinois,receiving,REC,2005
+25,157507,Britt Davis,41,253352459,Northern Illinois,receiving,YDS,2005
+26,138232,Sam Hurd,26,253352459,Northern Illinois,receiving,YDS,2005
+27,138218,Jake Nordin,22,253352459,Northern Illinois,receiving,YDS,2005
+28,114902,Pat Raleigh,21,253352459,Northern Illinois,receiving,YDS,2005
+29,157507,Britt Davis,20.5,253352459,Northern Illinois,receiving,AVG,2005
+30,138232,Sam Hurd,13.0,253352459,Northern Illinois,receiving,AVG,2005
+31,138218,Jake Nordin,11.0,253352459,Northern Illinois,receiving,AVG,2005
+32,114902,Pat Raleigh,21.0,253352459,Northern Illinois,receiving,AVG,2005
+33,157507,Britt Davis,0,253352459,Northern Illinois,receiving,TD,2005
+34,138232,Sam Hurd,1,253352459,Northern Illinois,receiving,TD,2005
+35,138218,Jake Nordin,0,253352459,Northern Illinois,receiving,TD,2005
+36,114902,Pat Raleigh,0,253352459,Northern Illinois,receiving,TD,2005
+37,157507,Britt Davis,38,253352459,Northern Illinois,receiving,LONG,2005
+38,138232,Sam Hurd,19,253352459,Northern Illinois,receiving,LONG,2005
+39,138218,Jake Nordin,16,253352459,Northern Illinois,receiving,LONG,2005
+40,114902,Pat Raleigh,21,253352459,Northern Illinois,receiving,LONG,2005
+41,169684,Phil Brown,1,253352459,Northern Illinois,interceptions,INT,2005
+42,169684,Phil Brown,0,253352459,Northern Illinois,interceptions,YDS,2005
+43,169684,Phil Brown,0,253352459,Northern Illinois,interceptions,TD,2005
+44,138231,Shatone Powers,3,253352459,Northern Illinois,puntReturns,NO,2005
+45,138231,Shatone Powers,13,253352459,Northern Illinois,puntReturns,YDS,2005
+46,138231,Shatone Powers,4.3,253352459,Northern Illinois,puntReturns,AVG,2005
+47,138231,Shatone Powers,13,253352459,Northern Illinois,puntReturns,LONG,2005
+48,138231,Shatone Powers,0,253352459,Northern Illinois,puntReturns,TD,2005
+49,157531,Chris Nedick,3/4,253352459,Northern Illinois,kicking,FG,2005
+50,157531,Chris Nedick,75.0,253352459,Northern Illinois,kicking,PCT,2005
+51,157531,Chris Nedick,52,253352459,Northern Illinois,kicking,LONG,2005
+52,157531,Chris Nedick,3/3,253352459,Northern Illinois,kicking,XP,2005
+53,157531,Chris Nedick,12,253352459,Northern Illinois,kicking,PTS,2005
+54,169716,Andy Dittbenner,5,253352459,Northern Illinois,punting,NO,2005
+55,169716,Andy Dittbenner,233,253352459,Northern Illinois,punting,YDS,2005
+56,169716,Andy Dittbenner,46.6,253352459,Northern Illinois,punting,AVG,2005
+57,169716,Andy Dittbenner,0,253352459,Northern Illinois,punting,TB,2005
+58,169716,Andy Dittbenner,0,253352459,Northern Illinois,punting,In 20,2005
+59,169716,Andy Dittbenner,50,253352459,Northern Illinois,punting,LONG,2005
+60,134939,Luke Getsy,30/50,253352459,Akron,passing,C/ATT,2005
+61,162366,Brett Biggs,0/1,253352459,Akron,passing,C/ATT,2005
+62,134939,Luke Getsy,413,253352459,Akron,passing,YDS,2005
+63,162366,Brett Biggs,0,253352459,Akron,passing,YDS,2005
+64,134939,Luke Getsy,8.3,253352459,Akron,passing,AVG,2005
+65,162366,Brett Biggs,0.0,253352459,Akron,passing,AVG,2005
+66,134939,Luke Getsy,1,253352459,Akron,passing,TD,2005
+67,162366,Brett Biggs,0,253352459,Akron,passing,TD,2005
+68,134939,Luke Getsy,1,253352459,Akron,passing,INT,2005
+69,162366,Brett Biggs,0,253352459,Akron,passing,INT,2005
+70,134939,Luke Getsy,65.9,253352459,Akron,passing,QBR,2005
+71,162366,Brett Biggs,1.1,253352459,Akron,passing,QBR,2005
+72,162366,Brett Biggs,20,253352459,Akron,rushing,CAR,2005
+73,135736,Domenik Hixon,1,253352459,Akron,rushing,CAR,2005
+74,156853,Dennis Kennedy,3,253352459,Akron,rushing,CAR,2005
+75,134939,Luke Getsy,8,253352459,Akron,rushing,CAR,2005
+76,162366,Brett Biggs,70,253352459,Akron,rushing,YDS,2005
+77,135736,Domenik Hixon,20,253352459,Akron,rushing,YDS,2005
+78,156853,Dennis Kennedy,8,253352459,Akron,rushing,YDS,2005
+79,134939,Luke Getsy,7,253352459,Akron,rushing,YDS,2005
+80,162366,Brett Biggs,3.5,253352459,Akron,rushing,AVG,2005
+81,135736,Domenik Hixon,20.0,253352459,Akron,rushing,AVG,2005
+82,156853,Dennis Kennedy,2.7,253352459,Akron,rushing,AVG,2005
+83,134939,Luke Getsy,0.9,253352459,Akron,rushing,AVG,2005
+84,162366,Brett Biggs,1,253352459,Akron,rushing,TD,2005
+85,135736,Domenik Hixon,0,253352459,Akron,rushing,TD,2005
+86,156853,Dennis Kennedy,1,253352459,Akron,rushing,TD,2005
+87,134939,Luke Getsy,1,253352459,Akron,rushing,TD,2005
+88,162366,Brett Biggs,16,253352459,Akron,rushing,LONG,2005
+89,135736,Domenik Hixon,20,253352459,Akron,rushing,LONG,2005
+90,156853,Dennis Kennedy,4,253352459,Akron,rushing,LONG,2005
+91,134939,Luke Getsy,7,253352459,Akron,rushing,LONG,2005
+92,135736,Domenik Hixon,8,253352459,Akron,receiving,REC,2005
+93,147359,Kris Kasparek,6,253352459,Akron,receiving,REC,2005
+94,114043,Jason Montgomery,6,253352459,Akron,receiving,REC,2005
+95,162366,Brett Biggs,4,253352459,Akron,receiving,REC,2005
+96,147331,Jabari Arthur,2,253352459,Akron,receiving,REC,2005
+97,156853,Dennis Kennedy,1,253352459,Akron,receiving,REC,2005
+98,157697,Johnny Long,3,253352459,Akron,receiving,REC,2005
+99,135736,Domenik Hixon,144,253352459,Akron,receiving,YDS,2005
+100,147359,Kris Kasparek,81,253352459,Akron,receiving,YDS,2005
+101,114043,Jason Montgomery,69,253352459,Akron,receiving,YDS,2005
+102,162366,Brett Biggs,53,253352459,Akron,receiving,YDS,2005
+103,147331,Jabari Arthur,26,253352459,Akron,receiving,YDS,2005
+104,156853,Dennis Kennedy,20,253352459,Akron,receiving,YDS,2005
+105,157697,Johnny Long,20,253352459,Akron,receiving,YDS,2005
+106,135736,Domenik Hixon,18.0,253352459,Akron,receiving,AVG,2005
+107,147359,Kris Kasparek,13.5,253352459,Akron,receiving,AVG,2005
+108,114043,Jason Montgomery,11.5,253352459,Akron,receiving,AVG,2005
+109,162366,Brett Biggs,13.3,253352459,Akron,receiving,AVG,2005
+110,147331,Jabari Arthur,13.0,253352459,Akron,receiving,AVG,2005
+111,156853,Dennis Kennedy,20.0,253352459,Akron,receiving,AVG,2005
+112,157697,Johnny Long,6.7,253352459,Akron,receiving,AVG,2005
+113,135736,Domenik Hixon,1,253352459,Akron,receiving,TD,2005
+114,147359,Kris Kasparek,0,253352459,Akron,receiving,TD,2005
+115,114043,Jason Montgomery,0,253352459,Akron,receiving,TD,2005
+116,162366,Brett Biggs,0,253352459,Akron,receiving,TD,2005
+117,147331,Jabari Arthur,0,253352459,Akron,receiving,TD,2005
+118,156853,Dennis Kennedy,0,253352459,Akron,receiving,TD,2005
+119,157697,Johnny Long,0,253352459,Akron,receiving,TD,2005
+120,135736,Domenik Hixon,36,253352459,Akron,receiving,LONG,2005
+121,147359,Kris Kasparek,32,253352459,Akron,receiving,LONG,2005
+122,114043,Jason Montgomery,18,253352459,Akron,receiving,LONG,2005
+123,162366,Brett Biggs,17,253352459,Akron,receiving,LONG,2005
+124,147331,Jabari Arthur,14,253352459,Akron,receiving,LONG,2005
+125,156853,Dennis Kennedy,20,253352459,Akron,receiving,LONG,2005
+126,157697,Johnny Long,8,253352459,Akron,receiving,LONG,2005
+127,135736,Domenik Hixon,1,253352459,Akron,puntReturns,NO,2005
+128,162366,Brett Biggs,1,253352459,Akron,puntReturns,NO,2005
+129,135736,Domenik Hixon,0,253352459,Akron,puntReturns,YDS,2005
+130,162366,Brett Biggs,0,253352459,Akron,puntReturns,YDS,2005
+131,135736,Domenik Hixon,0.0,253352459,Akron,puntReturns,AVG,2005
+132,162366,Brett Biggs,0.0,253352459,Akron,puntReturns,AVG,2005
+133,135736,Domenik Hixon,0,253352459,Akron,puntReturns,LONG,2005
+134,162366,Brett Biggs,0,253352459,Akron,puntReturns,LONG,2005
+135,135736,Domenik Hixon,0,253352459,Akron,puntReturns,TD,2005
+136,162366,Brett Biggs,0,253352459,Akron,puntReturns,TD,2005
+137,147388,Jason Swiger,1/2,253352459,Akron,kicking,FG,2005
+138,147388,Jason Swiger,50.0,253352459,Akron,kicking,PCT,2005
+139,147388,Jason Swiger,47,253352459,Akron,kicking,LONG,2005
+140,147388,Jason Swiger,4/4,253352459,Akron,kicking,XP,2005
+141,147388,Jason Swiger,7,253352459,Akron,kicking,PTS,2005
+142,135758,Billy Sullivan,4,253352459,Akron,punting,NO,2005
+143,147388,Jason Swiger,1,253352459,Akron,punting,NO,2005
+144,135758,Billy Sullivan,152,253352459,Akron,punting,YDS,2005
+145,147388,Jason Swiger,38,253352459,Akron,punting,YDS,2005
+146,135758,Billy Sullivan,38.0,253352459,Akron,punting,AVG,2005
+147,147388,Jason Swiger,38.0,253352459,Akron,punting,AVG,2005
+148,135758,Billy Sullivan,0,253352459,Akron,punting,TB,2005
+149,147388,Jason Swiger,0,253352459,Akron,punting,TB,2005
+150,135758,Billy Sullivan,0,253352459,Akron,punting,In 20,2005
+151,147388,Jason Swiger,0,253352459,Akron,punting,In 20,2005
+152,135758,Billy Sullivan,49,253352459,Akron,punting,LONG,2005
+153,147388,Jason Swiger,38,253352459,Akron,punting,LONG,2005
+154,135084,Mike Lingua,0,253360278,Fresno State,punting,TB,2005
+155,135084,Mike Lingua,1,253360278,Fresno State,punting,NO,2005
+156,135084,Mike Lingua,31,253360278,Fresno State,punting,YDS,2005
+157,135084,Mike Lingua,31.0,253360278,Fresno State,punting,AVG,2005
+158,135084,Mike Lingua,0,253360278,Fresno State,punting,In 20,2005
+159,135084,Mike Lingua,31,253360278,Fresno State,punting,LONG,2005
+160,120888,Paul Pinegar,33/54,253360278,Fresno State,passing,C/ATT,2005
+161,120888,Paul Pinegar,358,253360278,Fresno State,passing,YDS,2005
+162,120888,Paul Pinegar,6.6,253360278,Fresno State,passing,AVG,2005
+163,120888,Paul Pinegar,3,253360278,Fresno State,passing,TD,2005
+164,120888,Paul Pinegar,3,253360278,Fresno State,passing,INT,2005
+165,120888,Paul Pinegar,51.0,253360278,Fresno State,passing,QBR,2005
+166,120556,Wendell Mathis,17,253360278,Fresno State,rushing,CAR,2005
+167,135096,Matt Rivera,3,253360278,Fresno State,rushing,CAR,2005
+168,120888,Paul Pinegar,1,253360278,Fresno State,rushing,CAR,2005
+169,135104,Bryson Sumlin,2,253360278,Fresno State,rushing,CAR,2005
+170,135071,Jordan Christensen,1,253360278,Fresno State,rushing,CAR,2005
+171,120556,Wendell Mathis,69,253360278,Fresno State,rushing,YDS,2005
+172,135096,Matt Rivera,12,253360278,Fresno State,rushing,YDS,2005
+173,120888,Paul Pinegar,4,253360278,Fresno State,rushing,YDS,2005
+174,135104,Bryson Sumlin,3,253360278,Fresno State,rushing,YDS,2005
+175,135071,Jordan Christensen,-2,253360278,Fresno State,rushing,YDS,2005
+176,120556,Wendell Mathis,4.1,253360278,Fresno State,rushing,AVG,2005
+177,135096,Matt Rivera,4.0,253360278,Fresno State,rushing,AVG,2005
+178,120888,Paul Pinegar,4.0,253360278,Fresno State,rushing,AVG,2005
+179,135104,Bryson Sumlin,1.5,253360278,Fresno State,rushing,AVG,2005
+180,135071,Jordan Christensen,-2.0,253360278,Fresno State,rushing,AVG,2005
+181,120556,Wendell Mathis,0,253360278,Fresno State,rushing,TD,2005
+182,135096,Matt Rivera,0,253360278,Fresno State,rushing,TD,2005
+183,120888,Paul Pinegar,0,253360278,Fresno State,rushing,TD,2005
+184,135104,Bryson Sumlin,0,253360278,Fresno State,rushing,TD,2005
+185,135071,Jordan Christensen,0,253360278,Fresno State,rushing,TD,2005
+186,120556,Wendell Mathis,12,253360278,Fresno State,rushing,LONG,2005
+187,135096,Matt Rivera,6,253360278,Fresno State,rushing,LONG,2005
+188,120888,Paul Pinegar,4,253360278,Fresno State,rushing,LONG,2005
+189,135104,Bryson Sumlin,2,253360278,Fresno State,rushing,LONG,2005
+190,135071,Jordan Christensen,0,253360278,Fresno State,rushing,LONG,2005
+191,135096,Matt Rivera,10,253360278,Fresno State,receiving,REC,2005
+192,127852,Jermaine Jamison,6,253360278,Fresno State,receiving,REC,2005
+193,135078,Joe Fernandez,8,253360278,Fresno State,receiving,REC,2005
+194,135108,Paul Williams,5,253360278,Fresno State,receiving,REC,2005
+195,135091,Devyn McDonald,2,253360278,Fresno State,receiving,REC,2005
+196,135077,Jaron Fairman,2,253360278,Fresno State,receiving,REC,2005
+197,135096,Matt Rivera,91,253360278,Fresno State,receiving,YDS,2005
+198,127852,Jermaine Jamison,69,253360278,Fresno State,receiving,YDS,2005
+199,135078,Joe Fernandez,68,253360278,Fresno State,receiving,YDS,2005
+200,135108,Paul Williams,62,253360278,Fresno State,receiving,YDS,2005
+201,135091,Devyn McDonald,40,253360278,Fresno State,receiving,YDS,2005
+202,135077,Jaron Fairman,28,253360278,Fresno State,receiving,YDS,2005
+203,135096,Matt Rivera,9.1,253360278,Fresno State,receiving,AVG,2005
+204,127852,Jermaine Jamison,11.5,253360278,Fresno State,receiving,AVG,2005
+205,135078,Joe Fernandez,8.5,253360278,Fresno State,receiving,AVG,2005
+206,135108,Paul Williams,12.4,253360278,Fresno State,receiving,AVG,2005
+207,135091,Devyn McDonald,20.0,253360278,Fresno State,receiving,AVG,2005
+208,135077,Jaron Fairman,14.0,253360278,Fresno State,receiving,AVG,2005
+209,135096,Matt Rivera,0,253360278,Fresno State,receiving,TD,2005
+210,127852,Jermaine Jamison,0,253360278,Fresno State,receiving,TD,2005
+211,135078,Joe Fernandez,2,253360278,Fresno State,receiving,TD,2005
+212,135108,Paul Williams,0,253360278,Fresno State,receiving,TD,2005
+213,135091,Devyn McDonald,1,253360278,Fresno State,receiving,TD,2005
+214,135077,Jaron Fairman,0,253360278,Fresno State,receiving,TD,2005
+215,135096,Matt Rivera,31,253360278,Fresno State,receiving,LONG,2005
+216,127852,Jermaine Jamison,17,253360278,Fresno State,receiving,LONG,2005
+217,135078,Joe Fernandez,13,253360278,Fresno State,receiving,LONG,2005
+218,135108,Paul Williams,25,253360278,Fresno State,receiving,LONG,2005
+219,135091,Devyn McDonald,39,253360278,Fresno State,receiving,LONG,2005
+220,135077,Jaron Fairman,15,253360278,Fresno State,receiving,LONG,2005
+221,120891,Adam Jennings,3,253360278,Fresno State,puntReturns,NO,2005
+222,120891,Adam Jennings,7,253360278,Fresno State,puntReturns,YDS,2005
+223,120891,Adam Jennings,2.3,253360278,Fresno State,puntReturns,AVG,2005
+224,120891,Adam Jennings,6,253360278,Fresno State,puntReturns,LONG,2005
+225,120891,Adam Jennings,0,253360278,Fresno State,puntReturns,TD,2005
+226,161412,Kyle Zimmerman,1/1,253360278,Fresno State,kicking,FG,2005
+227,161412,Kyle Zimmerman,100.0,253360278,Fresno State,kicking,PCT,2005
+228,161412,Kyle Zimmerman,24,253360278,Fresno State,kicking,LONG,2005
+229,161412,Kyle Zimmerman,1/2,253360278,Fresno State,kicking,XP,2005
+230,161412,Kyle Zimmerman,4,253360278,Fresno State,kicking,PTS,2005
+231,120824,Matt Kubik,13/22,253360278,Louisiana Tech,passing,C/ATT,2005
+232,120824,Matt Kubik,251,253360278,Louisiana Tech,passing,YDS,2005
+233,120824,Matt Kubik,11.4,253360278,Louisiana Tech,passing,AVG,2005
+234,120824,Matt Kubik,3,253360278,Louisiana Tech,passing,TD,2005
+235,120824,Matt Kubik,0,253360278,Louisiana Tech,passing,INT,2005
+236,120824,Matt Kubik,94.5,253360278,Louisiana Tech,passing,QBR,2005
+237,161454,Freddie Franklin,29,253360278,Louisiana Tech,rushing,CAR,2005
+238,161451,Mark Dillard,14,253360278,Louisiana Tech,rushing,CAR,2005
+239,150718,Jonathan Holland,1,253360278,Louisiana Tech,rushing,CAR,2005
+240,136416,Eric Newman,1,253360278,Louisiana Tech,rushing,CAR,2005
+241,120824,Matt Kubik,4,253360278,Louisiana Tech,rushing,CAR,2005
+242,161454,Freddie Franklin,120,253360278,Louisiana Tech,rushing,YDS,2005
+243,161451,Mark Dillard,26,253360278,Louisiana Tech,rushing,YDS,2005
+244,150718,Jonathan Holland,7,253360278,Louisiana Tech,rushing,YDS,2005
+245,136416,Eric Newman,6,253360278,Louisiana Tech,rushing,YDS,2005
+246,120824,Matt Kubik,6,253360278,Louisiana Tech,rushing,YDS,2005
+247,161454,Freddie Franklin,4.1,253360278,Louisiana Tech,rushing,AVG,2005
+248,161451,Mark Dillard,1.9,253360278,Louisiana Tech,rushing,AVG,2005
+249,150718,Jonathan Holland,7.0,253360278,Louisiana Tech,rushing,AVG,2005
+250,136416,Eric Newman,6.0,253360278,Louisiana Tech,rushing,AVG,2005
+251,120824,Matt Kubik,1.5,253360278,Louisiana Tech,rushing,AVG,2005
+252,161454,Freddie Franklin,1,253360278,Louisiana Tech,rushing,TD,2005
+253,161451,Mark Dillard,1,253360278,Louisiana Tech,rushing,TD,2005
+254,150718,Jonathan Holland,0,253360278,Louisiana Tech,rushing,TD,2005
+255,136416,Eric Newman,0,253360278,Louisiana Tech,rushing,TD,2005
+256,120824,Matt Kubik,0,253360278,Louisiana Tech,rushing,TD,2005
+257,161454,Freddie Franklin,13,253360278,Louisiana Tech,rushing,LONG,2005
+258,161451,Mark Dillard,19,253360278,Louisiana Tech,rushing,LONG,2005
+259,150718,Jonathan Holland,7,253360278,Louisiana Tech,rushing,LONG,2005
+260,136416,Eric Newman,6,253360278,Louisiana Tech,rushing,LONG,2005
+261,120824,Matt Kubik,13,253360278,Louisiana Tech,rushing,LONG,2005
+262,136416,Eric Newman,3,253360278,Louisiana Tech,receiving,REC,2005
+263,150718,Jonathan Holland,3,253360278,Louisiana Tech,receiving,REC,2005
+264,161451,Mark Dillard,1,253360278,Louisiana Tech,receiving,REC,2005
+265,120832,Freddie King,2,253360278,Louisiana Tech,receiving,REC,2005
+266,161454,Freddie Franklin,3,253360278,Louisiana Tech,receiving,REC,2005
+267,136407,Anthony James,1,253360278,Louisiana Tech,receiving,REC,2005
+268,136416,Eric Newman,93,253360278,Louisiana Tech,receiving,YDS,2005
+269,150718,Jonathan Holland,61,253360278,Louisiana Tech,receiving,YDS,2005
+270,161451,Mark Dillard,49,253360278,Louisiana Tech,receiving,YDS,2005
+271,120832,Freddie King,21,253360278,Louisiana Tech,receiving,YDS,2005
+272,161454,Freddie Franklin,17,253360278,Louisiana Tech,receiving,YDS,2005
+273,136407,Anthony James,10,253360278,Louisiana Tech,receiving,YDS,2005
+274,136416,Eric Newman,31.0,253360278,Louisiana Tech,receiving,AVG,2005
+275,150718,Jonathan Holland,20.3,253360278,Louisiana Tech,receiving,AVG,2005
+276,161451,Mark Dillard,49.0,253360278,Louisiana Tech,receiving,AVG,2005
+277,120832,Freddie King,10.5,253360278,Louisiana Tech,receiving,AVG,2005
+278,161454,Freddie Franklin,5.7,253360278,Louisiana Tech,receiving,AVG,2005
+279,136407,Anthony James,10.0,253360278,Louisiana Tech,receiving,AVG,2005
+280,136416,Eric Newman,2,253360278,Louisiana Tech,receiving,TD,2005
+281,150718,Jonathan Holland,1,253360278,Louisiana Tech,receiving,TD,2005
+282,161451,Mark Dillard,0,253360278,Louisiana Tech,receiving,TD,2005
+283,120832,Freddie King,0,253360278,Louisiana Tech,receiving,TD,2005
+284,161454,Freddie Franklin,0,253360278,Louisiana Tech,receiving,TD,2005
+285,136407,Anthony James,0,253360278,Louisiana Tech,receiving,TD,2005
+286,136416,Eric Newman,46,253360278,Louisiana Tech,receiving,LONG,2005
+287,150718,Jonathan Holland,52,253360278,Louisiana Tech,receiving,LONG,2005
+288,161451,Mark Dillard,49,253360278,Louisiana Tech,receiving,LONG,2005
+289,120832,Freddie King,12,253360278,Louisiana Tech,receiving,LONG,2005
+290,161454,Freddie Franklin,9,253360278,Louisiana Tech,receiving,LONG,2005
+291,136407,Anthony James,10,253360278,Louisiana Tech,receiving,LONG,2005
+292,161459,Quin Harris,2,253360278,Louisiana Tech,interceptions,INT,2005
+293,128335,Delone Williams,1,253360278,Louisiana Tech,interceptions,INT,2005
+294,161459,Quin Harris,6,253360278,Louisiana Tech,interceptions,YDS,2005
+295,128335,Delone Williams,29,253360278,Louisiana Tech,interceptions,YDS,2005
+296,161459,Quin Harris,0,253360278,Louisiana Tech,interceptions,TD,2005
+297,128335,Delone Williams,0,253360278,Louisiana Tech,interceptions,TD,2005
+298,161454,Freddie Franklin,1,253360278,Louisiana Tech,puntReturns,NO,2005
+299,161454,Freddie Franklin,0,253360278,Louisiana Tech,puntReturns,YDS,2005
+300,161454,Freddie Franklin,0.0,253360278,Louisiana Tech,puntReturns,AVG,2005
+301,161454,Freddie Franklin,0,253360278,Louisiana Tech,puntReturns,LONG,2005
+302,161454,Freddie Franklin,0,253360278,Louisiana Tech,puntReturns,TD,2005
+303,161461,Danny Horwedel,2/2,253360278,Louisiana Tech,kicking,FG,2005
+304,161461,Danny Horwedel,100.0,253360278,Louisiana Tech,kicking,PCT,2005
+305,161461,Danny Horwedel,26,253360278,Louisiana Tech,kicking,LONG,2005
+306,161461,Danny Horwedel,4/5,253360278,Louisiana Tech,kicking,XP,2005
+307,161461,Danny Horwedel,10,253360278,Louisiana Tech,kicking,PTS,2005
+308,171906,Chris Keagle,5,253360278,Louisiana Tech,punting,NO,2005
+309,171906,Chris Keagle,166,253360278,Louisiana Tech,punting,YDS,2005
+310,171906,Chris Keagle,33.2,253360278,Louisiana Tech,punting,AVG,2005
+311,171906,Chris Keagle,0,253360278,Louisiana Tech,punting,TB,2005
+312,171906,Chris Keagle,0,253360278,Louisiana Tech,punting,In 20,2005
+313,171906,Chris Keagle,37,253360278,Louisiana Tech,punting,LONG,2005
+314,168335,John Griffin,4,253370030,USC,rushing,YDS,2005
+315,145158,Reggie Bush,260,253370030,USC,rushing,YDS,2005
+316,145175,LenDale White,154,253370030,USC,rushing,YDS,2005
+317,120521,David Kirtman,6,253370030,USC,rushing,YDS,2005
+318,145169,Steve Smith,3,253370030,USC,rushing,YDS,2005
+319,120511,Matt Leinart,3,253370030,USC,rushing,YDS,2005
+320,145168,John David Booty,2,253370030,USC,rushing,YDS,2005
+321,145158,Reggie Bush,24,253370030,USC,rushing,CAR,2005
+322,145175,LenDale White,14,253370030,USC,rushing,CAR,2005
+323,120521,David Kirtman,3,253370030,USC,rushing,CAR,2005
+324,168335,John Griffin,1,253370030,USC,rushing,CAR,2005
+325,145169,Steve Smith,1,253370030,USC,rushing,CAR,2005
+326,120511,Matt Leinart,6,253370030,USC,rushing,CAR,2005
+327,145168,John David Booty,1,253370030,USC,rushing,CAR,2005
+328,145158,Reggie Bush,10.8,253370030,USC,rushing,AVG,2005
+329,145175,LenDale White,11.0,253370030,USC,rushing,AVG,2005
+330,120521,David Kirtman,2.0,253370030,USC,rushing,AVG,2005
+331,168335,John Griffin,4.0,253370030,USC,rushing,AVG,2005
+332,145169,Steve Smith,3.0,253370030,USC,rushing,AVG,2005
+333,120511,Matt Leinart,0.5,253370030,USC,rushing,AVG,2005
+334,145168,John David Booty,2.0,253370030,USC,rushing,AVG,2005
+335,145158,Reggie Bush,2,253370030,USC,rushing,TD,2005
+336,145175,LenDale White,2,253370030,USC,rushing,TD,2005
+337,120521,David Kirtman,1,253370030,USC,rushing,TD,2005
+338,168335,John Griffin,0,253370030,USC,rushing,TD,2005
+339,145169,Steve Smith,0,253370030,USC,rushing,TD,2005
+340,120511,Matt Leinart,0,253370030,USC,rushing,TD,2005
+341,145168,John David Booty,0,253370030,USC,rushing,TD,2005
+342,145158,Reggie Bush,65,253370030,USC,rushing,LONG,2005
+343,145175,LenDale White,33,253370030,USC,rushing,LONG,2005
+344,120521,David Kirtman,2,253370030,USC,rushing,LONG,2005
+345,168335,John Griffin,4,253370030,USC,rushing,LONG,2005
+346,145169,Steve Smith,3,253370030,USC,rushing,LONG,2005
+347,120511,Matt Leinart,12,253370030,USC,rushing,LONG,2005
+348,145168,John David Booty,2,253370030,USC,rushing,LONG,2005
+349,120511,Matt Leinart,21/40,253370030,USC,passing,C/ATT,2005
+350,161084,Dwayne Jarrett,1/1,253370030,USC,passing,C/ATT,2005
+351,145168,John David Booty,1/3,253370030,USC,passing,C/ATT,2005
+352,120511,Matt Leinart,233,253370030,USC,passing,YDS,2005
+353,161084,Dwayne Jarrett,11,253370030,USC,passing,YDS,2005
+354,145168,John David Booty,5,253370030,USC,passing,YDS,2005
+355,120511,Matt Leinart,5.8,253370030,USC,passing,AVG,2005
+356,161084,Dwayne Jarrett,11.0,253370030,USC,passing,AVG,2005
+357,145168,John David Booty,1.7,253370030,USC,passing,AVG,2005
+358,120511,Matt Leinart,3,253370030,USC,passing,TD,2005
+359,161084,Dwayne Jarrett,0,253370030,USC,passing,TD,2005
+360,145168,John David Booty,0,253370030,USC,passing,TD,2005
+361,120511,Matt Leinart,0,253370030,USC,passing,INT,2005
+362,161084,Dwayne Jarrett,0,253370030,USC,passing,INT,2005
+363,145168,John David Booty,1,253370030,USC,passing,INT,2005
+364,120511,Matt Leinart,36.6,253370030,USC,passing,QBR,2005
+365,161084,Dwayne Jarrett,99.4,253370030,USC,passing,QBR,2005
+366,145168,John David Booty,1.0,253370030,USC,passing,QBR,2005
+367,161084,Dwayne Jarrett,6,253370030,USC,receiving,REC,2005
+368,137031,Dominique Byrd,6,253370030,USC,receiving,REC,2005
+369,145175,LenDale White,2,253370030,USC,receiving,REC,2005
+370,145169,Steve Smith,3,253370030,USC,receiving,REC,2005
+371,120521,David Kirtman,3,253370030,USC,receiving,REC,2005
+372,156173,Fred Davis,1,253370030,USC,receiving,REC,2005
+373,120511,Matt Leinart,1,253370030,USC,receiving,REC,2005
+374,161111,Dale Thompson,1,253370030,USC,receiving,REC,2005
+375,161084,Dwayne Jarrett,83,253370030,USC,receiving,YDS,2005
+376,137031,Dominique Byrd,56,253370030,USC,receiving,YDS,2005
+377,145175,LenDale White,35,253370030,USC,receiving,YDS,2005
+378,145169,Steve Smith,28,253370030,USC,receiving,YDS,2005
+379,120521,David Kirtman,16,253370030,USC,receiving,YDS,2005
+380,156173,Fred Davis,15,253370030,USC,receiving,YDS,2005
+381,120511,Matt Leinart,11,253370030,USC,receiving,YDS,2005
+382,161111,Dale Thompson,5,253370030,USC,receiving,YDS,2005
+383,161084,Dwayne Jarrett,13.8,253370030,USC,receiving,AVG,2005
+384,137031,Dominique Byrd,9.3,253370030,USC,receiving,AVG,2005
+385,145175,LenDale White,17.5,253370030,USC,receiving,AVG,2005
+386,145169,Steve Smith,9.3,253370030,USC,receiving,AVG,2005
+387,120521,David Kirtman,5.3,253370030,USC,receiving,AVG,2005
+388,156173,Fred Davis,15.0,253370030,USC,receiving,AVG,2005
+389,120511,Matt Leinart,11.0,253370030,USC,receiving,AVG,2005
+390,161111,Dale Thompson,5.0,253370030,USC,receiving,AVG,2005
+391,161084,Dwayne Jarrett,1,253370030,USC,receiving,TD,2005
+392,137031,Dominique Byrd,0,253370030,USC,receiving,TD,2005
+393,145175,LenDale White,1,253370030,USC,receiving,TD,2005
+394,145169,Steve Smith,0,253370030,USC,receiving,TD,2005
+395,120521,David Kirtman,0,253370030,USC,receiving,TD,2005
+396,156173,Fred Davis,1,253370030,USC,receiving,TD,2005
+397,120511,Matt Leinart,0,253370030,USC,receiving,TD,2005
+398,161111,Dale Thompson,0,253370030,USC,receiving,TD,2005
+399,161084,Dwayne Jarrett,30,253370030,USC,receiving,LONG,2005
+400,137031,Dominique Byrd,19,253370030,USC,receiving,LONG,2005
+401,145175,LenDale White,24,253370030,USC,receiving,LONG,2005
+402,145169,Steve Smith,11,253370030,USC,receiving,LONG,2005
+403,120521,David Kirtman,6,253370030,USC,receiving,LONG,2005
+404,156173,Fred Davis,15,253370030,USC,receiving,LONG,2005
+405,120511,Matt Leinart,11,253370030,USC,receiving,LONG,2005
+406,161111,Dale Thompson,5,253370030,USC,receiving,LONG,2005
+407,145158,Reggie Bush,1,253370030,USC,puntReturns,NO,2005
+408,145158,Reggie Bush,1,253370030,USC,puntReturns,YDS,2005
+409,145158,Reggie Bush,1.0,253370030,USC,puntReturns,AVG,2005
+410,145158,Reggie Bush,1,253370030,USC,puntReturns,LONG,2005
+411,145158,Reggie Bush,0,253370030,USC,puntReturns,TD,2005
+412,153164,Mario Danelo,1/1,253370030,USC,kicking,FG,2005
+413,153164,Mario Danelo,100.0,253370030,USC,kicking,PCT,2005
+414,153164,Mario Danelo,35,253370030,USC,kicking,LONG,2005
+415,153164,Mario Danelo,9/9,253370030,USC,kicking,XP,2005
+416,153164,Mario Danelo,12,253370030,USC,kicking,PTS,2005
+417,137200,Drew Olson,14/32,253370030,UCLA,passing,C/ATT,2005
+418,137200,Drew Olson,146,253370030,UCLA,passing,YDS,2005
+419,137200,Drew Olson,4.6,253370030,UCLA,passing,AVG,2005
+420,137200,Drew Olson,1,253370030,UCLA,passing,TD,2005
+421,137200,Drew Olson,0,253370030,UCLA,passing,INT,2005
+422,137200,Drew Olson,12.4,253370030,UCLA,passing,QBR,2005
+423,145130,Maurice Jones-Drew,14,253370030,UCLA,rushing,CAR,2005
+424,159815,Chris Markey,6,253370030,UCLA,rushing,CAR,2005
+425,175586,Kahlil Bell,4,253370030,UCLA,rushing,CAR,2005
+426,137200,Drew Olson,9,253370030,UCLA,rushing,CAR,2005
+427,145130,Maurice Jones-Drew,84,253370030,UCLA,rushing,YDS,2005
+428,159815,Chris Markey,22,253370030,UCLA,rushing,YDS,2005
+429,175586,Kahlil Bell,20,253370030,UCLA,rushing,YDS,2005
+430,137200,Drew Olson,3,253370030,UCLA,rushing,YDS,2005
+431,145130,Maurice Jones-Drew,6.0,253370030,UCLA,rushing,AVG,2005
+432,159815,Chris Markey,3.7,253370030,UCLA,rushing,AVG,2005
+433,175586,Kahlil Bell,5.0,253370030,UCLA,rushing,AVG,2005
+434,137200,Drew Olson,0.3,253370030,UCLA,rushing,AVG,2005
+435,145130,Maurice Jones-Drew,1,253370030,UCLA,rushing,TD,2005
+436,159815,Chris Markey,0,253370030,UCLA,rushing,TD,2005
+437,175586,Kahlil Bell,0,253370030,UCLA,rushing,TD,2005
+438,137200,Drew Olson,0,253370030,UCLA,rushing,TD,2005
+439,145130,Maurice Jones-Drew,15,253370030,UCLA,rushing,LONG,2005
+440,159815,Chris Markey,9,253370030,UCLA,rushing,LONG,2005
+441,175586,Kahlil Bell,13,253370030,UCLA,rushing,LONG,2005
+442,137200,Drew Olson,8,253370030,UCLA,rushing,LONG,2005
+443,137177,Marcedes Lewis,3,253370030,UCLA,receiving,REC,2005
+444,159806,Marcus Everett,3,253370030,UCLA,receiving,REC,2005
+445,156168,Andrew Baumgartner,1,253370030,UCLA,receiving,REC,2005
+446,159815,Chris Markey,2,253370030,UCLA,receiving,REC,2005
+447,145127,Joe Cowan,2,253370030,UCLA,receiving,REC,2005
+448,145130,Maurice Jones-Drew,1,253370030,UCLA,receiving,REC,2005
+449,168853,Matt Willis,1,253370030,UCLA,receiving,REC,2005
+450,175599,Ryan Moya,1,253370030,UCLA,receiving,REC,2005
+451,137177,Marcedes Lewis,30,253370030,UCLA,receiving,YDS,2005
+452,159806,Marcus Everett,28,253370030,UCLA,receiving,YDS,2005
+453,156168,Andrew Baumgartner,25,253370030,UCLA,receiving,YDS,2005
+454,159815,Chris Markey,19,253370030,UCLA,receiving,YDS,2005
+455,145127,Joe Cowan,15,253370030,UCLA,receiving,YDS,2005
+456,145130,Maurice Jones-Drew,14,253370030,UCLA,receiving,YDS,2005
+457,168853,Matt Willis,13,253370030,UCLA,receiving,YDS,2005
+458,175599,Ryan Moya,2,253370030,UCLA,receiving,YDS,2005
+459,137177,Marcedes Lewis,10.0,253370030,UCLA,receiving,AVG,2005
+460,159806,Marcus Everett,9.3,253370030,UCLA,receiving,AVG,2005
+461,156168,Andrew Baumgartner,25.0,253370030,UCLA,receiving,AVG,2005
+462,159815,Chris Markey,9.5,253370030,UCLA,receiving,AVG,2005
+463,145127,Joe Cowan,7.5,253370030,UCLA,receiving,AVG,2005
+464,145130,Maurice Jones-Drew,14.0,253370030,UCLA,receiving,AVG,2005
+465,168853,Matt Willis,13.0,253370030,UCLA,receiving,AVG,2005
+466,175599,Ryan Moya,2.0,253370030,UCLA,receiving,AVG,2005
+467,137177,Marcedes Lewis,0,253370030,UCLA,receiving,TD,2005
+468,159806,Marcus Everett,0,253370030,UCLA,receiving,TD,2005
+469,156168,Andrew Baumgartner,0,253370030,UCLA,receiving,TD,2005
+470,159815,Chris Markey,0,253370030,UCLA,receiving,TD,2005
+471,145127,Joe Cowan,0,253370030,UCLA,receiving,TD,2005
+472,145130,Maurice Jones-Drew,0,253370030,UCLA,receiving,TD,2005
+473,168853,Matt Willis,1,253370030,UCLA,receiving,TD,2005
+474,175599,Ryan Moya,0,253370030,UCLA,receiving,TD,2005
+475,137177,Marcedes Lewis,18,253370030,UCLA,receiving,LONG,2005
+476,159806,Marcus Everett,15,253370030,UCLA,receiving,LONG,2005
+477,156168,Andrew Baumgartner,25,253370030,UCLA,receiving,LONG,2005
+478,159815,Chris Markey,15,253370030,UCLA,receiving,LONG,2005
+479,145127,Joe Cowan,9,253370030,UCLA,receiving,LONG,2005
+480,145130,Maurice Jones-Drew,14,253370030,UCLA,receiving,LONG,2005
+481,168853,Matt Willis,13,253370030,UCLA,receiving,LONG,2005
+482,175599,Ryan Moya,2,253370030,UCLA,receiving,LONG,2005
+483,159821,Rodney Van,1,253370030,UCLA,interceptions,INT,2005
+484,159821,Rodney Van,11,253370030,UCLA,interceptions,YDS,2005
+485,159821,Rodney Van,0,253370030,UCLA,interceptions,TD,2005
+486,145120,Justin Medlock,2/2,253370030,UCLA,kicking,FG,2005
+487,145120,Justin Medlock,100.0,253370030,UCLA,kicking,PCT,2005
+488,145120,Justin Medlock,43,253370030,UCLA,kicking,LONG,2005
+489,145120,Justin Medlock,1/1,253370030,UCLA,kicking,XP,2005
+490,145120,Justin Medlock,7,253370030,UCLA,kicking,PTS,2005
+491,159818,Aaron Perez,6,253370030,UCLA,punting,NO,2005
+492,159818,Aaron Perez,238,253370030,UCLA,punting,YDS,2005
+493,159818,Aaron Perez,39.7,253370030,UCLA,punting,AVG,2005
+494,159818,Aaron Perez,0,253370030,UCLA,punting,TB,2005
+495,159818,Aaron Perez,0,253370030,UCLA,punting,In 20,2005
+496,159818,Aaron Perez,48,253370030,UCLA,punting,LONG,2005
+497,144289,Joel Klatt,14/24,253370251,Colorado,passing,C/ATT,2005
+498,135504,James Cox,1/8,253370251,Colorado,passing,C/ATT,2005
+499,144289,Joel Klatt,100,253370251,Colorado,passing,YDS,2005
+500,135504,James Cox,9,253370251,Colorado,passing,YDS,2005
+501,144289,Joel Klatt,4.2,253370251,Colorado,passing,AVG,2005
+502,135504,James Cox,1.1,253370251,Colorado,passing,AVG,2005
+503,144289,Joel Klatt,0,253370251,Colorado,passing,TD,2005
+504,135504,James Cox,0,253370251,Colorado,passing,TD,2005
+505,144289,Joel Klatt,1,253370251,Colorado,passing,INT,2005
+506,135504,James Cox,0,253370251,Colorado,passing,INT,2005
+507,144289,Joel Klatt,23.9,253370251,Colorado,passing,QBR,2005
+508,135504,James Cox,4.5,253370251,Colorado,passing,QBR,2005
+509,161674,Hugh Charles,12,253370251,Colorado,rushing,CAR,2005
+510,144289,Joel Klatt,4,253370251,Colorado,rushing,CAR,2005
+511,145306,Stephone Robinson,1,253370251,Colorado,rushing,CAR,2005
+512,135504,James Cox,2,253370251,Colorado,rushing,CAR,2005
+513,161677,Byron Ellis,5,253370251,Colorado,rushing,CAR,2005
+514,135575,Lawrence Vickers,2,253370251,Colorado,rushing,CAR,2005
+515,161674,Hugh Charles,36,253370251,Colorado,rushing,YDS,2005
+516,144289,Joel Klatt,26,253370251,Colorado,rushing,YDS,2005
+517,145306,Stephone Robinson,9,253370251,Colorado,rushing,YDS,2005
+518,135504,James Cox,6,253370251,Colorado,rushing,YDS,2005
+519,161677,Byron Ellis,3,253370251,Colorado,rushing,YDS,2005
+520,135575,Lawrence Vickers,2,253370251,Colorado,rushing,YDS,2005
+521,161674,Hugh Charles,3.0,253370251,Colorado,rushing,AVG,2005
+522,144289,Joel Klatt,6.5,253370251,Colorado,rushing,AVG,2005
+523,145306,Stephone Robinson,9.0,253370251,Colorado,rushing,AVG,2005
+524,135504,James Cox,3.0,253370251,Colorado,rushing,AVG,2005
+525,161677,Byron Ellis,0.6,253370251,Colorado,rushing,AVG,2005
+526,135575,Lawrence Vickers,1.0,253370251,Colorado,rushing,AVG,2005
+527,161674,Hugh Charles,0,253370251,Colorado,rushing,TD,2005
+528,144289,Joel Klatt,0,253370251,Colorado,rushing,TD,2005
+529,145306,Stephone Robinson,0,253370251,Colorado,rushing,TD,2005
+530,135504,James Cox,0,253370251,Colorado,rushing,TD,2005
+531,161677,Byron Ellis,0,253370251,Colorado,rushing,TD,2005
+532,135575,Lawrence Vickers,0,253370251,Colorado,rushing,TD,2005
+533,161674,Hugh Charles,19,253370251,Colorado,rushing,LONG,2005
+534,144289,Joel Klatt,16,253370251,Colorado,rushing,LONG,2005
+535,145306,Stephone Robinson,9,253370251,Colorado,rushing,LONG,2005
+536,135504,James Cox,4,253370251,Colorado,rushing,LONG,2005
+537,161677,Byron Ellis,2,253370251,Colorado,rushing,LONG,2005
+538,135575,Lawrence Vickers,2,253370251,Colorado,rushing,LONG,2005
+539,113987,Evan Judge,1,253370251,Colorado,receiving,REC,2005
+540,135535,Joe Klopfenstein,4,253370251,Colorado,receiving,REC,2005
+541,145310,Dusty Sprague,1,253370251,Colorado,receiving,REC,2005
+542,104693,Quinn Sypniewski,2,253370251,Colorado,receiving,REC,2005
+543,168874,Alvin Barnett,2,253370251,Colorado,receiving,REC,2005
+544,161690,Patrick Williams,1,253370251,Colorado,receiving,REC,2005
+545,161674,Hugh Charles,2,253370251,Colorado,receiving,REC,2005
+546,135575,Lawrence Vickers,1,253370251,Colorado,receiving,REC,2005
+547,161677,Byron Ellis,1,253370251,Colorado,receiving,REC,2005
+548,113987,Evan Judge,24,253370251,Colorado,receiving,YDS,2005
+549,135535,Joe Klopfenstein,23,253370251,Colorado,receiving,YDS,2005
+550,145310,Dusty Sprague,22,253370251,Colorado,receiving,YDS,2005
+551,104693,Quinn Sypniewski,15,253370251,Colorado,receiving,YDS,2005
+552,168874,Alvin Barnett,14,253370251,Colorado,receiving,YDS,2005
+553,161690,Patrick Williams,5,253370251,Colorado,receiving,YDS,2005
+554,161674,Hugh Charles,5,253370251,Colorado,receiving,YDS,2005
+555,135575,Lawrence Vickers,2,253370251,Colorado,receiving,YDS,2005
+556,161677,Byron Ellis,-1,253370251,Colorado,receiving,YDS,2005
+557,113987,Evan Judge,24.0,253370251,Colorado,receiving,AVG,2005
+558,135535,Joe Klopfenstein,5.8,253370251,Colorado,receiving,AVG,2005
+559,145310,Dusty Sprague,22.0,253370251,Colorado,receiving,AVG,2005
+560,104693,Quinn Sypniewski,7.5,253370251,Colorado,receiving,AVG,2005
+561,168874,Alvin Barnett,7.0,253370251,Colorado,receiving,AVG,2005
+562,161690,Patrick Williams,5.0,253370251,Colorado,receiving,AVG,2005
+563,161674,Hugh Charles,2.5,253370251,Colorado,receiving,AVG,2005
+564,135575,Lawrence Vickers,2.0,253370251,Colorado,receiving,AVG,2005
+565,161677,Byron Ellis,-1.0,253370251,Colorado,receiving,AVG,2005
+566,113987,Evan Judge,0,253370251,Colorado,receiving,TD,2005
+567,135535,Joe Klopfenstein,0,253370251,Colorado,receiving,TD,2005
+568,145310,Dusty Sprague,0,253370251,Colorado,receiving,TD,2005
+569,104693,Quinn Sypniewski,0,253370251,Colorado,receiving,TD,2005
+570,168874,Alvin Barnett,0,253370251,Colorado,receiving,TD,2005
+571,161690,Patrick Williams,0,253370251,Colorado,receiving,TD,2005
+572,161674,Hugh Charles,0,253370251,Colorado,receiving,TD,2005
+573,135575,Lawrence Vickers,0,253370251,Colorado,receiving,TD,2005
+574,161677,Byron Ellis,0,253370251,Colorado,receiving,TD,2005
+575,113987,Evan Judge,24,253370251,Colorado,receiving,LONG,2005
+576,135535,Joe Klopfenstein,11,253370251,Colorado,receiving,LONG,2005
+577,145310,Dusty Sprague,22,253370251,Colorado,receiving,LONG,2005
+578,104693,Quinn Sypniewski,8,253370251,Colorado,receiving,LONG,2005
+579,168874,Alvin Barnett,9,253370251,Colorado,receiving,LONG,2005
+580,161690,Patrick Williams,5,253370251,Colorado,receiving,LONG,2005
+581,161674,Hugh Charles,4,253370251,Colorado,receiving,LONG,2005
+582,135575,Lawrence Vickers,2,253370251,Colorado,receiving,LONG,2005
+583,161677,Byron Ellis,0,253370251,Colorado,receiving,LONG,2005
+584,113986,Tom Hubbard,1,253370251,Colorado,interceptions,INT,2005
+585,113986,Tom Hubbard,21,253370251,Colorado,interceptions,YDS,2005
+586,113986,Tom Hubbard,0,253370251,Colorado,interceptions,TD,2005
+587,145306,Stephone Robinson,2,253370251,Colorado,puntReturns,NO,2005
+588,145306,Stephone Robinson,3,253370251,Colorado,puntReturns,YDS,2005
+589,145306,Stephone Robinson,1.5,253370251,Colorado,puntReturns,AVG,2005
+590,145306,Stephone Robinson,3,253370251,Colorado,puntReturns,LONG,2005
+591,145306,Stephone Robinson,0,253370251,Colorado,puntReturns,TD,2005
+592,145297,Mason Crosby,1/2,253370251,Colorado,kicking,FG,2005
+593,145297,Mason Crosby,50.0,253370251,Colorado,kicking,PCT,2005
+594,145297,Mason Crosby,25,253370251,Colorado,kicking,LONG,2005
+595,145297,Mason Crosby,0/0,253370251,Colorado,kicking,XP,2005
+596,145297,Mason Crosby,3,253370251,Colorado,kicking,PTS,2005
+597,113990,John Torp,6,253370251,Colorado,punting,NO,2005
+598,113990,John Torp,228,253370251,Colorado,punting,YDS,2005
+599,113990,John Torp,38.0,253370251,Colorado,punting,AVG,2005
+600,113990,John Torp,0,253370251,Colorado,punting,TB,2005
+601,113990,John Torp,0,253370251,Colorado,punting,In 20,2005
+602,113990,John Torp,55,253370251,Colorado,punting,LONG,2005
+603,123318,David Pino,0.0,253370251,Texas,kicking,PCT,2005
+604,123318,David Pino,0/0,253370251,Texas,kicking,FG,2005
+605,123318,David Pino,0,253370251,Texas,kicking,LONG,2005
+606,123318,David Pino,10/10,253370251,Texas,kicking,XP,2005
+607,123318,David Pino,10,253370251,Texas,kicking,PTS,2005
+608,135107,Vince Young,14/17,253370251,Texas,passing,C/ATT,2005
+609,120213,Matt Nordgren,2/2,253370251,Texas,passing,C/ATT,2005
+610,135107,Vince Young,193,253370251,Texas,passing,YDS,2005
+611,120213,Matt Nordgren,25,253370251,Texas,passing,YDS,2005
+612,135107,Vince Young,11.4,253370251,Texas,passing,AVG,2005
+613,120213,Matt Nordgren,12.5,253370251,Texas,passing,AVG,2005
+614,135107,Vince Young,3,253370251,Texas,passing,TD,2005
+615,120213,Matt Nordgren,0,253370251,Texas,passing,TD,2005
+616,135107,Vince Young,1,253370251,Texas,passing,INT,2005
+617,120213,Matt Nordgren,0,253370251,Texas,passing,INT,2005
+618,135107,Vince Young,94.4,253370251,Texas,passing,QBR,2005
+619,120213,Matt Nordgren,89.1,253370251,Texas,passing,QBR,2005
+620,175766,Jamaal Charles,7,253370251,Texas,rushing,CAR,2005
+621,135107,Vince Young,8,253370251,Texas,rushing,CAR,2005
+622,162414,Ramonce Taylor,14,253370251,Texas,rushing,CAR,2005
+623,175774,Henry Melton,13,253370251,Texas,rushing,CAR,2005
+624,155438,Matthew McCoy,3,253370251,Texas,rushing,CAR,2005
+625,162408,Chris Ogbonnaya,5,253370251,Texas,rushing,CAR,2005
+626,120213,Matt Nordgren,2,253370251,Texas,rushing,CAR,2005
+627,135025,Marcus Myers,2,253370251,Texas,rushing,CAR,2005
+628,175766,Jamaal Charles,62,253370251,Texas,rushing,YDS,2005
+629,135107,Vince Young,57,253370251,Texas,rushing,YDS,2005
+630,162414,Ramonce Taylor,41,253370251,Texas,rushing,YDS,2005
+631,175774,Henry Melton,34,253370251,Texas,rushing,YDS,2005
+632,155438,Matthew McCoy,11,253370251,Texas,rushing,YDS,2005
+633,162408,Chris Ogbonnaya,11,253370251,Texas,rushing,YDS,2005
+634,120213,Matt Nordgren,9,253370251,Texas,rushing,YDS,2005
+635,135025,Marcus Myers,1,253370251,Texas,rushing,YDS,2005
+636,175766,Jamaal Charles,8.9,253370251,Texas,rushing,AVG,2005
+637,135107,Vince Young,7.1,253370251,Texas,rushing,AVG,2005
+638,162414,Ramonce Taylor,2.9,253370251,Texas,rushing,AVG,2005
+639,175774,Henry Melton,2.6,253370251,Texas,rushing,AVG,2005
+640,155438,Matthew McCoy,3.7,253370251,Texas,rushing,AVG,2005
+641,162408,Chris Ogbonnaya,2.2,253370251,Texas,rushing,AVG,2005
+642,120213,Matt Nordgren,4.5,253370251,Texas,rushing,AVG,2005
+643,135025,Marcus Myers,0.5,253370251,Texas,rushing,AVG,2005
+644,175766,Jamaal Charles,2,253370251,Texas,rushing,TD,2005
+645,135107,Vince Young,1,253370251,Texas,rushing,TD,2005
+646,162414,Ramonce Taylor,0,253370251,Texas,rushing,TD,2005
+647,175774,Henry Melton,2,253370251,Texas,rushing,TD,2005
+648,155438,Matthew McCoy,0,253370251,Texas,rushing,TD,2005
+649,162408,Chris Ogbonnaya,0,253370251,Texas,rushing,TD,2005
+650,120213,Matt Nordgren,0,253370251,Texas,rushing,TD,2005
+651,135025,Marcus Myers,0,253370251,Texas,rushing,TD,2005
+652,175766,Jamaal Charles,26,253370251,Texas,rushing,LONG,2005
+653,135107,Vince Young,18,253370251,Texas,rushing,LONG,2005
+654,162414,Ramonce Taylor,7,253370251,Texas,rushing,LONG,2005
+655,175774,Henry Melton,11,253370251,Texas,rushing,LONG,2005
+656,155438,Matthew McCoy,11,253370251,Texas,rushing,LONG,2005
+657,162408,Chris Ogbonnaya,4,253370251,Texas,rushing,LONG,2005
+658,120213,Matt Nordgren,6,253370251,Texas,rushing,LONG,2005
+659,135025,Marcus Myers,2,253370251,Texas,rushing,LONG,2005
+660,145643,Limas Sweed,5,253370251,Texas,receiving,REC,2005
+661,175767,Quan Cosby,4,253370251,Texas,receiving,REC,2005
+662,135032,David Thomas,3,253370251,Texas,receiving,REC,2005
+663,162417,George Walker,1,253370251,Texas,receiving,REC,2005
+664,175766,Jamaal Charles,1,253370251,Texas,receiving,REC,2005
+665,162408,Chris Ogbonnaya,1,253370251,Texas,receiving,REC,2005
+666,145643,Limas Sweed,102,253370251,Texas,receiving,YDS,2005
+667,175767,Quan Cosby,52,253370251,Texas,receiving,YDS,2005
+668,135032,David Thomas,31,253370251,Texas,receiving,YDS,2005
+669,162417,George Walker,22,253370251,Texas,receiving,YDS,2005
+670,175766,Jamaal Charles,3,253370251,Texas,receiving,YDS,2005
+671,162408,Chris Ogbonnaya,3,253370251,Texas,receiving,YDS,2005
+672,145643,Limas Sweed,20.4,253370251,Texas,receiving,AVG,2005
+673,175767,Quan Cosby,13.0,253370251,Texas,receiving,AVG,2005
+674,135032,David Thomas,10.3,253370251,Texas,receiving,AVG,2005
+675,162417,George Walker,22.0,253370251,Texas,receiving,AVG,2005
+676,175766,Jamaal Charles,3.0,253370251,Texas,receiving,AVG,2005
+677,162408,Chris Ogbonnaya,3.0,253370251,Texas,receiving,AVG,2005
+678,145643,Limas Sweed,1,253370251,Texas,receiving,TD,2005
+679,175767,Quan Cosby,0,253370251,Texas,receiving,TD,2005
+680,135032,David Thomas,1,253370251,Texas,receiving,TD,2005
+681,162417,George Walker,0,253370251,Texas,receiving,TD,2005
+682,175766,Jamaal Charles,1,253370251,Texas,receiving,TD,2005
+683,162408,Chris Ogbonnaya,0,253370251,Texas,receiving,TD,2005
+684,145643,Limas Sweed,38,253370251,Texas,receiving,LONG,2005
+685,175767,Quan Cosby,17,253370251,Texas,receiving,LONG,2005
+686,135032,David Thomas,14,253370251,Texas,receiving,LONG,2005
+687,162417,George Walker,22,253370251,Texas,receiving,LONG,2005
+688,175766,Jamaal Charles,3,253370251,Texas,receiving,LONG,2005
+689,162408,Chris Ogbonnaya,3,253370251,Texas,receiving,LONG,2005
+690,145627,Tarell Brown,1,253370251,Texas,interceptions,INT,2005
+691,145627,Tarell Brown,11,253370251,Texas,interceptions,YDS,2005
+692,145627,Tarell Brown,0,253370251,Texas,interceptions,TD,2005
+693,145634,Michael Griffin,1,253370251,Texas,puntReturns,NO,2005
+694,120230,Aaron Ross,5,253370251,Texas,puntReturns,NO,2005
+695,145631,Brandon Foster,1,253370251,Texas,puntReturns,NO,2005
+696,175767,Quan Cosby,1,253370251,Texas,puntReturns,NO,2005
+697,145634,Michael Griffin,21,253370251,Texas,puntReturns,YDS,2005
+698,120230,Aaron Ross,21,253370251,Texas,puntReturns,YDS,2005
+699,145631,Brandon Foster,0,253370251,Texas,puntReturns,YDS,2005
+700,175767,Quan Cosby,0,253370251,Texas,puntReturns,YDS,2005
+701,145634,Michael Griffin,21.0,253370251,Texas,puntReturns,AVG,2005
+702,120230,Aaron Ross,4.2,253370251,Texas,puntReturns,AVG,2005
+703,145631,Brandon Foster,0.0,253370251,Texas,puntReturns,AVG,2005
+704,175767,Quan Cosby,0.0,253370251,Texas,puntReturns,AVG,2005
+705,145634,Michael Griffin,21,253370251,Texas,puntReturns,LONG,2005
+706,120230,Aaron Ross,10,253370251,Texas,puntReturns,LONG,2005
+707,145631,Brandon Foster,0,253370251,Texas,puntReturns,LONG,2005
+708,175767,Quan Cosby,0,253370251,Texas,puntReturns,LONG,2005
+709,145634,Michael Griffin,0,253370251,Texas,puntReturns,TD,2005
+710,120230,Aaron Ross,0,253370251,Texas,puntReturns,TD,2005
+711,145631,Brandon Foster,1,253370251,Texas,puntReturns,TD,2005
+712,175767,Quan Cosby,0,253370251,Texas,puntReturns,TD,2005
+713,123317,Richmond McGee,2,253370251,Texas,punting,NO,2005
+714,123317,Richmond McGee,68,253370251,Texas,punting,YDS,2005
+715,123317,Richmond McGee,34.0,253370251,Texas,punting,AVG,2005
+716,123317,Richmond McGee,0,253370251,Texas,punting,TB,2005
+717,123317,Richmond McGee,0,253370251,Texas,punting,In 20,2005
+718,123317,Richmond McGee,39,253370251,Texas,punting,LONG,2005
+719,146755,JaMarcus Russell,11/19,253370099,LSU,passing,C/ATT,2005
+720,146744,Matt Flynn,3/11,253370099,LSU,passing,C/ATT,2005
+721,146755,JaMarcus Russell,120,253370099,LSU,passing,YDS,2005
+722,146744,Matt Flynn,36,253370099,LSU,passing,YDS,2005
+723,146755,JaMarcus Russell,6.3,253370099,LSU,passing,AVG,2005
+724,146744,Matt Flynn,3.3,253370099,LSU,passing,AVG,2005
+725,146755,JaMarcus Russell,0,253370099,LSU,passing,TD,2005
+726,146744,Matt Flynn,1,253370099,LSU,passing,TD,2005
+727,146755,JaMarcus Russell,1,253370099,LSU,passing,INT,2005
+728,146744,Matt Flynn,1,253370099,LSU,passing,INT,2005
+729,146755,JaMarcus Russell,42.2,253370099,LSU,passing,QBR,2005
+730,146744,Matt Flynn,2.9,253370099,LSU,passing,QBR,2005
+731,116958,Shyrone Carey,10,253370099,LSU,rushing,CAR,2005
+732,134044,Skyler Green,2,253370099,LSU,rushing,CAR,2005
+733,146694,Justin Vincent,8,253370099,LSU,rushing,CAR,2005
+734,116954,Joseph Addai,2,253370099,LSU,rushing,CAR,2005
+735,161131,Jacob Hester,2,253370099,LSU,rushing,CAR,2005
+736,146744,Matt Flynn,4,253370099,LSU,rushing,CAR,2005
+737,146749,Chris Jackson,1,253370099,LSU,rushing,CAR,2005
+738,146755,JaMarcus Russell,7,253370099,LSU,rushing,CAR,2005
+739,116958,Shyrone Carey,43,253370099,LSU,rushing,YDS,2005
+740,134044,Skyler Green,26,253370099,LSU,rushing,YDS,2005
+741,146694,Justin Vincent,15,253370099,LSU,rushing,YDS,2005
+742,116954,Joseph Addai,7,253370099,LSU,rushing,YDS,2005
+743,161131,Jacob Hester,5,253370099,LSU,rushing,YDS,2005
+744,146744,Matt Flynn,1,253370099,LSU,rushing,YDS,2005
+745,146749,Chris Jackson,-2,253370099,LSU,rushing,YDS,2005
+746,146755,JaMarcus Russell,-21,253370099,LSU,rushing,YDS,2005
+747,116958,Shyrone Carey,4.3,253370099,LSU,rushing,AVG,2005
+748,134044,Skyler Green,13.0,253370099,LSU,rushing,AVG,2005
+749,146694,Justin Vincent,1.9,253370099,LSU,rushing,AVG,2005
+750,116954,Joseph Addai,3.5,253370099,LSU,rushing,AVG,2005
+751,161131,Jacob Hester,2.5,253370099,LSU,rushing,AVG,2005
+752,146744,Matt Flynn,0.3,253370099,LSU,rushing,AVG,2005
+753,146749,Chris Jackson,-2.0,253370099,LSU,rushing,AVG,2005
+754,146755,JaMarcus Russell,-3.0,253370099,LSU,rushing,AVG,2005
+755,116958,Shyrone Carey,0,253370099,LSU,rushing,TD,2005
+756,134044,Skyler Green,0,253370099,LSU,rushing,TD,2005
+757,146694,Justin Vincent,0,253370099,LSU,rushing,TD,2005
+758,116954,Joseph Addai,0,253370099,LSU,rushing,TD,2005
+759,161131,Jacob Hester,0,253370099,LSU,rushing,TD,2005
+760,146744,Matt Flynn,0,253370099,LSU,rushing,TD,2005
+761,146749,Chris Jackson,0,253370099,LSU,rushing,TD,2005
+762,146755,JaMarcus Russell,1,253370099,LSU,rushing,TD,2005
+763,116958,Shyrone Carey,14,253370099,LSU,rushing,LONG,2005
+764,134044,Skyler Green,17,253370099,LSU,rushing,LONG,2005
+765,146694,Justin Vincent,7,253370099,LSU,rushing,LONG,2005
+766,116954,Joseph Addai,6,253370099,LSU,rushing,LONG,2005
+767,161131,Jacob Hester,5,253370099,LSU,rushing,LONG,2005
+768,146744,Matt Flynn,14,253370099,LSU,rushing,LONG,2005
+769,146749,Chris Jackson,0,253370099,LSU,rushing,LONG,2005
+770,146755,JaMarcus Russell,6,253370099,LSU,rushing,LONG,2005
+771,146735,Dwayne Bowe,5,253370099,LSU,receiving,REC,2005
+772,116982,David Jones,2,253370099,LSU,receiving,REC,2005
+773,116958,Shyrone Carey,2,253370099,LSU,receiving,REC,2005
+774,161128,Early Doucet,1,253370099,LSU,receiving,REC,2005
+775,146741,Buster Davis,1,253370099,LSU,receiving,REC,2005
+776,134044,Skyler Green,1,253370099,LSU,receiving,REC,2005
+777,161131,Jacob Hester,1,253370099,LSU,receiving,REC,2005
+778,146694,Justin Vincent,1,253370099,LSU,receiving,REC,2005
+779,146735,Dwayne Bowe,74,253370099,LSU,receiving,YDS,2005
+780,116982,David Jones,28,253370099,LSU,receiving,YDS,2005
+781,116958,Shyrone Carey,18,253370099,LSU,receiving,YDS,2005
+782,161128,Early Doucet,16,253370099,LSU,receiving,YDS,2005
+783,146741,Buster Davis,12,253370099,LSU,receiving,YDS,2005
+784,134044,Skyler Green,5,253370099,LSU,receiving,YDS,2005
+785,161131,Jacob Hester,5,253370099,LSU,receiving,YDS,2005
+786,146694,Justin Vincent,-2,253370099,LSU,receiving,YDS,2005
+787,146735,Dwayne Bowe,14.8,253370099,LSU,receiving,AVG,2005
+788,116982,David Jones,14.0,253370099,LSU,receiving,AVG,2005
+789,116958,Shyrone Carey,9.0,253370099,LSU,receiving,AVG,2005
+790,161128,Early Doucet,16.0,253370099,LSU,receiving,AVG,2005
+791,146741,Buster Davis,12.0,253370099,LSU,receiving,AVG,2005
+792,134044,Skyler Green,5.0,253370099,LSU,receiving,AVG,2005
+793,161131,Jacob Hester,5.0,253370099,LSU,receiving,AVG,2005
+794,146694,Justin Vincent,-2.0,253370099,LSU,receiving,AVG,2005
+795,146735,Dwayne Bowe,1,253370099,LSU,receiving,TD,2005
+796,116982,David Jones,0,253370099,LSU,receiving,TD,2005
+797,116958,Shyrone Carey,0,253370099,LSU,receiving,TD,2005
+798,161128,Early Doucet,0,253370099,LSU,receiving,TD,2005
+799,146741,Buster Davis,0,253370099,LSU,receiving,TD,2005
+800,134044,Skyler Green,0,253370099,LSU,receiving,TD,2005
+801,161131,Jacob Hester,0,253370099,LSU,receiving,TD,2005
+802,146694,Justin Vincent,0,253370099,LSU,receiving,TD,2005
+803,146735,Dwayne Bowe,20,253370099,LSU,receiving,LONG,2005
+804,116982,David Jones,26,253370099,LSU,receiving,LONG,2005
+805,116958,Shyrone Carey,12,253370099,LSU,receiving,LONG,2005
+806,161128,Early Doucet,16,253370099,LSU,receiving,LONG,2005
+807,146741,Buster Davis,12,253370099,LSU,receiving,LONG,2005
+808,134044,Skyler Green,5,253370099,LSU,receiving,LONG,2005
+809,161131,Jacob Hester,5,253370099,LSU,receiving,LONG,2005
+810,146694,Justin Vincent,0,253370099,LSU,receiving,LONG,2005
+811,134044,Skyler Green,2,253370099,LSU,puntReturns,NO,2005
+812,134044,Skyler Green,0,253370099,LSU,puntReturns,YDS,2005
+813,134044,Skyler Green,0.0,253370099,LSU,puntReturns,AVG,2005
+814,134044,Skyler Green,0,253370099,LSU,puntReturns,LONG,2005
+815,134044,Skyler Green,0,253370099,LSU,puntReturns,TD,2005
+816,169669,Colt David,0/0,253370099,LSU,kicking,FG,2005
+817,169669,Colt David,0.0,253370099,LSU,kicking,PCT,2005
+818,169669,Colt David,0,253370099,LSU,kicking,LONG,2005
+819,169669,Colt David,2/2,253370099,LSU,kicking,XP,2005
+820,169669,Colt David,2,253370099,LSU,kicking,PTS,2005
+821,146749,Chris Jackson,5,253370099,LSU,punting,NO,2005
+822,146749,Chris Jackson,201,253370099,LSU,punting,YDS,2005
+823,146749,Chris Jackson,40.2,253370099,LSU,punting,AVG,2005
+824,146749,Chris Jackson,0,253370099,LSU,punting,TB,2005
+825,146749,Chris Jackson,0,253370099,LSU,punting,In 20,2005
+826,146749,Chris Jackson,48,253370099,LSU,punting,LONG,2005
+827,127637,D.J. Shockley,6/12,253370099,Georgia,passing,C/ATT,2005
+828,127637,D.J. Shockley,112,253370099,Georgia,passing,YDS,2005
+829,127637,D.J. Shockley,9.3,253370099,Georgia,passing,AVG,2005
+830,127637,D.J. Shockley,2,253370099,Georgia,passing,TD,2005
+831,127637,D.J. Shockley,0,253370099,Georgia,passing,INT,2005
+832,127637,D.J. Shockley,78.7,253370099,Georgia,passing,QBR,2005
+833,160061,Thomas Brown,14,253370099,Georgia,rushing,CAR,2005
+834,146665,Kregg Lumpkin,13,253370099,Georgia,rushing,CAR,2005
+835,146671,Danny Ware,8,253370099,Georgia,rushing,CAR,2005
+836,127637,D.J. Shockley,7,253370099,Georgia,rushing,CAR,2005
+837,160061,Thomas Brown,62,253370099,Georgia,rushing,YDS,2005
+838,146665,Kregg Lumpkin,38,253370099,Georgia,rushing,YDS,2005
+839,146671,Danny Ware,28,253370099,Georgia,rushing,YDS,2005
+840,127637,D.J. Shockley,10,253370099,Georgia,rushing,YDS,2005
+841,160061,Thomas Brown,4.4,253370099,Georgia,rushing,AVG,2005
+842,146665,Kregg Lumpkin,2.9,253370099,Georgia,rushing,AVG,2005
+843,146671,Danny Ware,3.5,253370099,Georgia,rushing,AVG,2005
+844,127637,D.J. Shockley,1.4,253370099,Georgia,rushing,AVG,2005
+845,160061,Thomas Brown,0,253370099,Georgia,rushing,TD,2005
+846,146665,Kregg Lumpkin,0,253370099,Georgia,rushing,TD,2005
+847,146671,Danny Ware,0,253370099,Georgia,rushing,TD,2005
+848,127637,D.J. Shockley,1,253370099,Georgia,rushing,TD,2005
+849,160061,Thomas Brown,18,253370099,Georgia,rushing,LONG,2005
+850,146665,Kregg Lumpkin,7,253370099,Georgia,rushing,LONG,2005
+851,146671,Danny Ware,7,253370099,Georgia,rushing,LONG,2005
+852,127637,D.J. Shockley,7,253370099,Georgia,rushing,LONG,2005
+853,146652,Sean Bailey,2,253370099,Georgia,receiving,REC,2005
+854,133497,Leonard Pope,1,253370099,Georgia,receiving,REC,2005
+855,172871,Mohamed Massaquoi,2,253370099,Georgia,receiving,REC,2005
+856,133491,Bryan McClendon,1,253370099,Georgia,receiving,REC,2005
+857,146652,Sean Bailey,74,253370099,Georgia,receiving,YDS,2005
+858,133497,Leonard Pope,17,253370099,Georgia,receiving,YDS,2005
+859,172871,Mohamed Massaquoi,15,253370099,Georgia,receiving,YDS,2005
+860,133491,Bryan McClendon,6,253370099,Georgia,receiving,YDS,2005
+861,146652,Sean Bailey,37.0,253370099,Georgia,receiving,AVG,2005
+862,133497,Leonard Pope,17.0,253370099,Georgia,receiving,AVG,2005
+863,172871,Mohamed Massaquoi,7.5,253370099,Georgia,receiving,AVG,2005
+864,133491,Bryan McClendon,6.0,253370099,Georgia,receiving,AVG,2005
+865,146652,Sean Bailey,2,253370099,Georgia,receiving,TD,2005
+866,133497,Leonard Pope,0,253370099,Georgia,receiving,TD,2005
+867,172871,Mohamed Massaquoi,0,253370099,Georgia,receiving,TD,2005
+868,133491,Bryan McClendon,0,253370099,Georgia,receiving,TD,2005
+869,146652,Sean Bailey,45,253370099,Georgia,receiving,LONG,2005
+870,133497,Leonard Pope,17,253370099,Georgia,receiving,LONG,2005
+871,172871,Mohamed Massaquoi,8,253370099,Georgia,receiving,LONG,2005
+872,133491,Bryan McClendon,6,253370099,Georgia,receiving,LONG,2005
+873,133490,Tim Jennings,1,253370099,Georgia,interceptions,INT,2005
+874,133495,DeMario Minter,1,253370099,Georgia,interceptions,INT,2005
+875,133490,Tim Jennings,15,253370099,Georgia,interceptions,YDS,2005
+876,133495,DeMario Minter,0,253370099,Georgia,interceptions,YDS,2005
+877,133490,Tim Jennings,1,253370099,Georgia,interceptions,TD,2005
+878,133495,DeMario Minter,0,253370099,Georgia,interceptions,TD,2005
+879,133491,Bryan McClendon,1,253370099,Georgia,puntReturns,NO,2005
+880,146655,Thomas Flowers,5,253370099,Georgia,puntReturns,NO,2005
+881,133491,Bryan McClendon,18,253370099,Georgia,puntReturns,YDS,2005
+882,146655,Thomas Flowers,2,253370099,Georgia,puntReturns,YDS,2005
+883,133491,Bryan McClendon,18.0,253370099,Georgia,puntReturns,AVG,2005
+884,146655,Thomas Flowers,0.4,253370099,Georgia,puntReturns,AVG,2005
+885,133491,Bryan McClendon,18,253370099,Georgia,puntReturns,LONG,2005
+886,146655,Thomas Flowers,2,253370099,Georgia,puntReturns,LONG,2005
+887,133491,Bryan McClendon,0,253370099,Georgia,puntReturns,TD,2005
+888,146655,Thomas Flowers,0,253370099,Georgia,puntReturns,TD,2005
+889,154134,Brandon Coutu,2/2,253370099,Georgia,kicking,FG,2005
+890,154134,Brandon Coutu,100.0,253370099,Georgia,kicking,PCT,2005
+891,154134,Brandon Coutu,51,253370099,Georgia,kicking,LONG,2005
+892,154134,Brandon Coutu,4/4,253370099,Georgia,kicking,XP,2005
+893,154134,Brandon Coutu,10,253370099,Georgia,kicking,PTS,2005
+894,146615,Gordon Ely-Kelso,4,253370099,Georgia,punting,NO,2005
+895,146615,Gordon Ely-Kelso,183,253370099,Georgia,punting,YDS,2005
+896,146615,Gordon Ely-Kelso,45.8,253370099,Georgia,punting,AVG,2005
+897,146615,Gordon Ely-Kelso,0,253370099,Georgia,punting,TB,2005
+898,146615,Gordon Ely-Kelso,0,253370099,Georgia,punting,In 20,2005
+899,146615,Gordon Ely-Kelso,54,253370099,Georgia,punting,LONG,2005
+900,167354,Drew Weatherford,21/35,253370259,Florida State,passing,C/ATT,2005
+901,167354,Drew Weatherford,225,253370259,Florida State,passing,YDS,2005
+902,167354,Drew Weatherford,6.4,253370259,Florida State,passing,AVG,2005
+903,167354,Drew Weatherford,1,253370259,Florida State,passing,TD,2005
+904,167354,Drew Weatherford,0,253370259,Florida State,passing,INT,2005
+905,167354,Drew Weatherford,51.9,253370259,Florida State,passing,QBR,2005
+906,136616,Lorenzo Booker,7,253370259,Florida State,rushing,CAR,2005
+907,136676,Leon Washington,11,253370259,Florida State,rushing,CAR,2005
+908,167354,Drew Weatherford,2,253370259,Florida State,rushing,CAR,2005
+909,136616,Lorenzo Booker,31,253370259,Florida State,rushing,YDS,2005
+910,136676,Leon Washington,30,253370259,Florida State,rushing,YDS,2005
+911,167354,Drew Weatherford,-3,253370259,Florida State,rushing,YDS,2005
+912,136616,Lorenzo Booker,4.4,253370259,Florida State,rushing,AVG,2005
+913,136676,Leon Washington,2.7,253370259,Florida State,rushing,AVG,2005
+914,167354,Drew Weatherford,-1.5,253370259,Florida State,rushing,AVG,2005
+915,136616,Lorenzo Booker,0,253370259,Florida State,rushing,TD,2005
+916,136676,Leon Washington,1,253370259,Florida State,rushing,TD,2005
+917,167354,Drew Weatherford,0,253370259,Florida State,rushing,TD,2005
+918,136616,Lorenzo Booker,15,253370259,Florida State,rushing,LONG,2005
+919,136676,Leon Washington,14,253370259,Florida State,rushing,LONG,2005
+920,167354,Drew Weatherford,0,253370259,Florida State,rushing,LONG,2005
+921,116842,Willie Reid,5,253370259,Florida State,receiving,REC,2005
+922,169010,Greg Carr,4,253370259,Florida State,receiving,REC,2005
+923,145755,De'Cody Fagg,3,253370259,Florida State,receiving,REC,2005
+924,136623,Chris Davis,4,253370259,Florida State,receiving,REC,2005
+925,173660,Fred Rouse,1,253370259,Florida State,receiving,REC,2005
+926,116835,Matt Henshaw,1,253370259,Florida State,receiving,REC,2005
+927,136676,Leon Washington,1,253370259,Florida State,receiving,REC,2005
+928,116866,Donnie Carter,2,253370259,Florida State,receiving,REC,2005
+929,116842,Willie Reid,79,253370259,Florida State,receiving,YDS,2005
+930,169010,Greg Carr,78,253370259,Florida State,receiving,YDS,2005
+931,145755,De'Cody Fagg,37,253370259,Florida State,receiving,YDS,2005
+932,136623,Chris Davis,21,253370259,Florida State,receiving,YDS,2005
+933,173660,Fred Rouse,6,253370259,Florida State,receiving,YDS,2005
+934,116835,Matt Henshaw,4,253370259,Florida State,receiving,YDS,2005
+935,136676,Leon Washington,2,253370259,Florida State,receiving,YDS,2005
+936,116866,Donnie Carter,-2,253370259,Florida State,receiving,YDS,2005
+937,116842,Willie Reid,15.8,253370259,Florida State,receiving,AVG,2005
+938,169010,Greg Carr,19.5,253370259,Florida State,receiving,AVG,2005
+939,145755,De'Cody Fagg,12.3,253370259,Florida State,receiving,AVG,2005
+940,136623,Chris Davis,5.3,253370259,Florida State,receiving,AVG,2005
+941,173660,Fred Rouse,6.0,253370259,Florida State,receiving,AVG,2005
+942,116835,Matt Henshaw,4.0,253370259,Florida State,receiving,AVG,2005
+943,136676,Leon Washington,2.0,253370259,Florida State,receiving,AVG,2005
+944,116866,Donnie Carter,-1.0,253370259,Florida State,receiving,AVG,2005
+945,116842,Willie Reid,0,253370259,Florida State,receiving,TD,2005
+946,169010,Greg Carr,0,253370259,Florida State,receiving,TD,2005
+947,145755,De'Cody Fagg,0,253370259,Florida State,receiving,TD,2005
+948,136623,Chris Davis,1,253370259,Florida State,receiving,TD,2005
+949,173660,Fred Rouse,0,253370259,Florida State,receiving,TD,2005
+950,116835,Matt Henshaw,0,253370259,Florida State,receiving,TD,2005
+951,136676,Leon Washington,0,253370259,Florida State,receiving,TD,2005
+952,116866,Donnie Carter,0,253370259,Florida State,receiving,TD,2005
+953,116842,Willie Reid,41,253370259,Florida State,receiving,LONG,2005
+954,169010,Greg Carr,38,253370259,Florida State,receiving,LONG,2005
+955,145755,De'Cody Fagg,21,253370259,Florida State,receiving,LONG,2005
+956,136623,Chris Davis,6,253370259,Florida State,receiving,LONG,2005
+957,173660,Fred Rouse,6,253370259,Florida State,receiving,LONG,2005
+958,116835,Matt Henshaw,4,253370259,Florida State,receiving,LONG,2005
+959,136676,Leon Washington,2,253370259,Florida State,receiving,LONG,2005
+960,116866,Donnie Carter,0,253370259,Florida State,receiving,LONG,2005
+961,136680,Pat Watkins,1,253370259,Florida State,interceptions,INT,2005
+962,136680,Pat Watkins,0,253370259,Florida State,interceptions,YDS,2005
+963,136680,Pat Watkins,0,253370259,Florida State,interceptions,TD,2005
+964,116842,Willie Reid,3,253370259,Florida State,puntReturns,NO,2005
+965,116842,Willie Reid,98,253370259,Florida State,puntReturns,YDS,2005
+966,116842,Willie Reid,32.7,253370259,Florida State,puntReturns,AVG,2005
+967,116842,Willie Reid,83,253370259,Florida State,puntReturns,LONG,2005
+968,116842,Willie Reid,1,253370259,Florida State,puntReturns,TD,2005
+969,168469,Gary Cismesia,2/2,253370259,Florida State,kicking,FG,2005
+970,168469,Gary Cismesia,100.0,253370259,Florida State,kicking,PCT,2005
+971,168469,Gary Cismesia,41,253370259,Florida State,kicking,LONG,2005
+972,168469,Gary Cismesia,3/3,253370259,Florida State,kicking,XP,2005
+973,168469,Gary Cismesia,9,253370259,Florida State,kicking,PTS,2005
+974,116900,Chris Hall,8,253370259,Florida State,punting,NO,2005
+975,116900,Chris Hall,340,253370259,Florida State,punting,YDS,2005
+976,116900,Chris Hall,42.5,253370259,Florida State,punting,AVG,2005
+977,116900,Chris Hall,0,253370259,Florida State,punting,TB,2005
+978,116900,Chris Hall,0,253370259,Florida State,punting,In 20,2005
+979,116900,Chris Hall,50,253370259,Florida State,punting,LONG,2005
+980,135239,Marcus Vick,26/52,253370259,Virginia Tech,passing,C/ATT,2005
+981,135239,Marcus Vick,335,253370259,Virginia Tech,passing,YDS,2005
+982,135239,Marcus Vick,6.4,253370259,Virginia Tech,passing,AVG,2005
+983,135239,Marcus Vick,1,253370259,Virginia Tech,passing,TD,2005
+984,135239,Marcus Vick,1,253370259,Virginia Tech,passing,INT,2005
+985,135239,Marcus Vick,30.1,253370259,Virginia Tech,passing,QBR,2005
+986,135239,Marcus Vick,17,253370259,Virginia Tech,rushing,CAR,2005
+987,156725,Eddie Royal,1,253370259,Virginia Tech,rushing,CAR,2005
+988,116182,Cedric Humes,5,253370259,Virginia Tech,rushing,CAR,2005
+989,156722,Branden Ore,5,253370259,Virginia Tech,rushing,CAR,2005
+990,135226,Mike Imoh,3,253370259,Virginia Tech,rushing,CAR,2005
+991,146415,Duane Brown,0,253370259,Virginia Tech,rushing,CAR,2005
+992,135239,Marcus Vick,11,253370259,Virginia Tech,rushing,YDS,2005
+993,156725,Eddie Royal,9,253370259,Virginia Tech,rushing,YDS,2005
+994,116182,Cedric Humes,7,253370259,Virginia Tech,rushing,YDS,2005
+995,156722,Branden Ore,7,253370259,Virginia Tech,rushing,YDS,2005
+996,135226,Mike Imoh,4,253370259,Virginia Tech,rushing,YDS,2005
+997,146415,Duane Brown,3,253370259,Virginia Tech,rushing,YDS,2005
+998,135239,Marcus Vick,0.6,253370259,Virginia Tech,rushing,AVG,2005
+999,156725,Eddie Royal,9.0,253370259,Virginia Tech,rushing,AVG,2005
+1000,116182,Cedric Humes,1.4,253370259,Virginia Tech,rushing,AVG,2005
+1001,156722,Branden Ore,1.4,253370259,Virginia Tech,rushing,AVG,2005
+1002,135226,Mike Imoh,1.3,253370259,Virginia Tech,rushing,AVG,2005
+1003,146415,Duane Brown,0.0,253370259,Virginia Tech,rushing,AVG,2005
+1004,135239,Marcus Vick,2,253370259,Virginia Tech,rushing,TD,2005
+1005,156725,Eddie Royal,0,253370259,Virginia Tech,rushing,TD,2005
+1006,116182,Cedric Humes,0,253370259,Virginia Tech,rushing,TD,2005
+1007,156722,Branden Ore,0,253370259,Virginia Tech,rushing,TD,2005
+1008,135226,Mike Imoh,0,253370259,Virginia Tech,rushing,TD,2005
+1009,146415,Duane Brown,0,253370259,Virginia Tech,rushing,TD,2005
+1010,135239,Marcus Vick,16,253370259,Virginia Tech,rushing,LONG,2005
+1011,156725,Eddie Royal,9,253370259,Virginia Tech,rushing,LONG,2005
+1012,116182,Cedric Humes,6,253370259,Virginia Tech,rushing,LONG,2005
+1013,156722,Branden Ore,7,253370259,Virginia Tech,rushing,LONG,2005
+1014,135226,Mike Imoh,4,253370259,Virginia Tech,rushing,LONG,2005
+1015,146415,Duane Brown,3,253370259,Virginia Tech,rushing,LONG,2005
+1016,156705,Josh Morgan,7,253370259,Virginia Tech,receiving,REC,2005
+1017,156725,Eddie Royal,4,253370259,Virginia Tech,receiving,REC,2005
+1018,156709,Justin Harper,1,253370259,Virginia Tech,receiving,REC,2005
+1019,116185,Jeff King,3,253370259,Virginia Tech,receiving,REC,2005
+1020,146417,David Clowney,4,253370259,Virginia Tech,receiving,REC,2005
+1021,116182,Cedric Humes,3,253370259,Virginia Tech,receiving,REC,2005
+1022,146423,John Kinzer,2,253370259,Virginia Tech,receiving,REC,2005
+1023,146402,Jesse Allen,1,253370259,Virginia Tech,receiving,REC,2005
+1024,135226,Mike Imoh,1,253370259,Virginia Tech,receiving,REC,2005
+1025,156705,Josh Morgan,128,253370259,Virginia Tech,receiving,YDS,2005
+1026,156725,Eddie Royal,43,253370259,Virginia Tech,receiving,YDS,2005
+1027,156709,Justin Harper,35,253370259,Virginia Tech,receiving,YDS,2005
+1028,116185,Jeff King,35,253370259,Virginia Tech,receiving,YDS,2005
+1029,146417,David Clowney,35,253370259,Virginia Tech,receiving,YDS,2005
+1030,116182,Cedric Humes,34,253370259,Virginia Tech,receiving,YDS,2005
+1031,146423,John Kinzer,16,253370259,Virginia Tech,receiving,YDS,2005
+1032,146402,Jesse Allen,5,253370259,Virginia Tech,receiving,YDS,2005
+1033,135226,Mike Imoh,4,253370259,Virginia Tech,receiving,YDS,2005
+1034,156705,Josh Morgan,18.3,253370259,Virginia Tech,receiving,AVG,2005
+1035,156725,Eddie Royal,10.8,253370259,Virginia Tech,receiving,AVG,2005
+1036,156709,Justin Harper,35.0,253370259,Virginia Tech,receiving,AVG,2005
+1037,116185,Jeff King,11.7,253370259,Virginia Tech,receiving,AVG,2005
+1038,146417,David Clowney,8.8,253370259,Virginia Tech,receiving,AVG,2005
+1039,116182,Cedric Humes,11.3,253370259,Virginia Tech,receiving,AVG,2005
+1040,146423,John Kinzer,8.0,253370259,Virginia Tech,receiving,AVG,2005
+1041,146402,Jesse Allen,5.0,253370259,Virginia Tech,receiving,AVG,2005
+1042,135226,Mike Imoh,4.0,253370259,Virginia Tech,receiving,AVG,2005
+1043,156705,Josh Morgan,1,253370259,Virginia Tech,receiving,TD,2005
+1044,156725,Eddie Royal,0,253370259,Virginia Tech,receiving,TD,2005
+1045,156709,Justin Harper,0,253370259,Virginia Tech,receiving,TD,2005
+1046,116185,Jeff King,0,253370259,Virginia Tech,receiving,TD,2005
+1047,146417,David Clowney,0,253370259,Virginia Tech,receiving,TD,2005
+1048,116182,Cedric Humes,0,253370259,Virginia Tech,receiving,TD,2005
+1049,146423,John Kinzer,0,253370259,Virginia Tech,receiving,TD,2005
+1050,146402,Jesse Allen,0,253370259,Virginia Tech,receiving,TD,2005
+1051,135226,Mike Imoh,0,253370259,Virginia Tech,receiving,TD,2005
+1052,156705,Josh Morgan,50,253370259,Virginia Tech,receiving,LONG,2005
+1053,156725,Eddie Royal,18,253370259,Virginia Tech,receiving,LONG,2005
+1054,156709,Justin Harper,35,253370259,Virginia Tech,receiving,LONG,2005
+1055,116185,Jeff King,19,253370259,Virginia Tech,receiving,LONG,2005
+1056,146417,David Clowney,15,253370259,Virginia Tech,receiving,LONG,2005
+1057,116182,Cedric Humes,13,253370259,Virginia Tech,receiving,LONG,2005
+1058,146423,John Kinzer,9,253370259,Virginia Tech,receiving,LONG,2005
+1059,146402,Jesse Allen,5,253370259,Virginia Tech,receiving,LONG,2005
+1060,135226,Mike Imoh,4,253370259,Virginia Tech,receiving,LONG,2005
+1061,156725,Eddie Royal,4,253370259,Virginia Tech,puntReturns,NO,2005
+1062,156725,Eddie Royal,23,253370259,Virginia Tech,puntReturns,YDS,2005
+1063,156725,Eddie Royal,5.8,253370259,Virginia Tech,puntReturns,AVG,2005
+1064,156725,Eddie Royal,13,253370259,Virginia Tech,puntReturns,LONG,2005
+1065,156725,Eddie Royal,0,253370259,Virginia Tech,puntReturns,TD,2005
+1066,146409,Brandon Pace,1/1,253370259,Virginia Tech,kicking,FG,2005
+1067,146409,Brandon Pace,100.0,253370259,Virginia Tech,kicking,PCT,2005
+1068,146409,Brandon Pace,45,253370259,Virginia Tech,kicking,LONG,2005
+1069,146409,Brandon Pace,1/1,253370259,Virginia Tech,kicking,XP,2005
+1070,146409,Brandon Pace,4,253370259,Virginia Tech,kicking,PTS,2005
+1071,135236,Nic Schmitt,7,253370259,Virginia Tech,punting,NO,2005
+1072,135236,Nic Schmitt,292,253370259,Virginia Tech,punting,YDS,2005
+1073,135236,Nic Schmitt,41.7,253370259,Virginia Tech,punting,AVG,2005
+1074,135236,Nic Schmitt,0,253370259,Virginia Tech,punting,TB,2005
+1075,135236,Nic Schmitt,0,253370259,Virginia Tech,punting,In 20,2005
+1076,135236,Nic Schmitt,55,253370259,Virginia Tech,punting,LONG,2005
+1077,148398,Pat Julmiste,9/17,253370058,South Florida,passing,C/ATT,2005
+1078,173135,Carlton Hill,10/21,253370058,South Florida,passing,C/ATT,2005
+1079,148398,Pat Julmiste,123,253370058,South Florida,passing,YDS,2005
+1080,173135,Carlton Hill,98,253370058,South Florida,passing,YDS,2005
+1081,148398,Pat Julmiste,7.2,253370058,South Florida,passing,AVG,2005
+1082,173135,Carlton Hill,4.7,253370058,South Florida,passing,AVG,2005
+1083,148398,Pat Julmiste,0,253370058,South Florida,passing,TD,2005
+1084,173135,Carlton Hill,0,253370058,South Florida,passing,TD,2005
+1085,148398,Pat Julmiste,1,253370058,South Florida,passing,INT,2005
+1086,173135,Carlton Hill,2,253370058,South Florida,passing,INT,2005
+1087,148398,Pat Julmiste,41.6,253370058,South Florida,passing,QBR,2005
+1088,173135,Carlton Hill,31.3,253370058,South Florida,passing,QBR,2005
+1089,161640,Andre Hall,20,253370058,South Florida,rushing,CAR,2005
+1090,173135,Carlton Hill,15,253370058,South Florida,rushing,CAR,2005
+1091,148398,Pat Julmiste,5,253370058,South Florida,rushing,CAR,2005
+1092,161654,Ricky Ponton,1,253370058,South Florida,rushing,CAR,2005
+1093,161640,Andre Hall,75,253370058,South Florida,rushing,YDS,2005
+1094,173135,Carlton Hill,50,253370058,South Florida,rushing,YDS,2005
+1095,148398,Pat Julmiste,22,253370058,South Florida,rushing,YDS,2005
+1096,161654,Ricky Ponton,6,253370058,South Florida,rushing,YDS,2005
+1097,161640,Andre Hall,3.8,253370058,South Florida,rushing,AVG,2005
+1098,173135,Carlton Hill,3.3,253370058,South Florida,rushing,AVG,2005
+1099,148398,Pat Julmiste,4.4,253370058,South Florida,rushing,AVG,2005
+1100,161654,Ricky Ponton,6.0,253370058,South Florida,rushing,AVG,2005
+1101,161640,Andre Hall,0,253370058,South Florida,rushing,TD,2005
+1102,173135,Carlton Hill,1,253370058,South Florida,rushing,TD,2005
+1103,148398,Pat Julmiste,0,253370058,South Florida,rushing,TD,2005
+1104,161654,Ricky Ponton,0,253370058,South Florida,rushing,TD,2005
+1105,161640,Andre Hall,19,253370058,South Florida,rushing,LONG,2005
+1106,173135,Carlton Hill,12,253370058,South Florida,rushing,LONG,2005
+1107,148398,Pat Julmiste,15,253370058,South Florida,rushing,LONG,2005
+1108,161654,Ricky Ponton,6,253370058,South Florida,rushing,LONG,2005
+1109,161626,Jackie Chambers,5,253370058,South Florida,receiving,REC,2005
+1110,173136,Cedric Hill,2,253370058,South Florida,receiving,REC,2005
+1111,173162,Jessie Hester,2,253370058,South Florida,receiving,REC,2005
+1112,161653,Johnny Peyton,1,253370058,South Florida,receiving,REC,2005
+1113,161640,Andre Hall,3,253370058,South Florida,receiving,REC,2005
+1114,136663,Mike Ruegger,1,253370058,South Florida,receiving,REC,2005
+1115,161654,Ricky Ponton,1,253370058,South Florida,receiving,REC,2005
+1116,161633,Marcus Edwards,1,253370058,South Florida,receiving,REC,2005
+1117,173141,Amarri Jackson,1,253370058,South Florida,receiving,REC,2005
+1118,161626,Jackie Chambers,94,253370058,South Florida,receiving,YDS,2005
+1119,173136,Cedric Hill,24,253370058,South Florida,receiving,YDS,2005
+1120,173162,Jessie Hester,19,253370058,South Florida,receiving,YDS,2005
+1121,161653,Johnny Peyton,16,253370058,South Florida,receiving,YDS,2005
+1122,161640,Andre Hall,15,253370058,South Florida,receiving,YDS,2005
+1123,136663,Mike Ruegger,14,253370058,South Florida,receiving,YDS,2005
+1124,161654,Ricky Ponton,6,253370058,South Florida,receiving,YDS,2005
+1125,161633,Marcus Edwards,4,253370058,South Florida,receiving,YDS,2005
+1126,173141,Amarri Jackson,4,253370058,South Florida,receiving,YDS,2005
+1127,161626,Jackie Chambers,18.8,253370058,South Florida,receiving,AVG,2005
+1128,173136,Cedric Hill,12.0,253370058,South Florida,receiving,AVG,2005
+1129,173162,Jessie Hester,9.5,253370058,South Florida,receiving,AVG,2005
+1130,161653,Johnny Peyton,16.0,253370058,South Florida,receiving,AVG,2005
+1131,161640,Andre Hall,5.0,253370058,South Florida,receiving,AVG,2005
+1132,136663,Mike Ruegger,14.0,253370058,South Florida,receiving,AVG,2005
+1133,161654,Ricky Ponton,6.0,253370058,South Florida,receiving,AVG,2005
+1134,161633,Marcus Edwards,4.0,253370058,South Florida,receiving,AVG,2005
+1135,173141,Amarri Jackson,4.0,253370058,South Florida,receiving,AVG,2005
+1136,161626,Jackie Chambers,0,253370058,South Florida,receiving,TD,2005
+1137,173136,Cedric Hill,0,253370058,South Florida,receiving,TD,2005
+1138,173162,Jessie Hester,0,253370058,South Florida,receiving,TD,2005
+1139,161653,Johnny Peyton,0,253370058,South Florida,receiving,TD,2005
+1140,161640,Andre Hall,0,253370058,South Florida,receiving,TD,2005
+1141,136663,Mike Ruegger,0,253370058,South Florida,receiving,TD,2005
+1142,161654,Ricky Ponton,0,253370058,South Florida,receiving,TD,2005
+1143,161633,Marcus Edwards,0,253370058,South Florida,receiving,TD,2005
+1144,173141,Amarri Jackson,0,253370058,South Florida,receiving,TD,2005
+1145,161626,Jackie Chambers,34,253370058,South Florida,receiving,LONG,2005
+1146,173136,Cedric Hill,12,253370058,South Florida,receiving,LONG,2005
+1147,173162,Jessie Hester,15,253370058,South Florida,receiving,LONG,2005
+1148,161653,Johnny Peyton,16,253370058,South Florida,receiving,LONG,2005
+1149,161640,Andre Hall,14,253370058,South Florida,receiving,LONG,2005
+1150,136663,Mike Ruegger,14,253370058,South Florida,receiving,LONG,2005
+1151,161654,Ricky Ponton,6,253370058,South Florida,receiving,LONG,2005
+1152,161633,Marcus Edwards,4,253370058,South Florida,receiving,LONG,2005
+1153,173141,Amarri Jackson,4,253370058,South Florida,receiving,LONG,2005
+1154,173147,Carlton Williams,1,253370058,South Florida,interceptions,INT,2005
+1155,173147,Carlton Williams,0,253370058,South Florida,interceptions,YDS,2005
+1156,173147,Carlton Williams,0,253370058,South Florida,interceptions,TD,2005
+1157,161626,Jackie Chambers,1,253370058,South Florida,puntReturns,NO,2005
+1158,161626,Jackie Chambers,18,253370058,South Florida,puntReturns,YDS,2005
+1159,161626,Jackie Chambers,18.0,253370058,South Florida,puntReturns,AVG,2005
+1160,161626,Jackie Chambers,18,253370058,South Florida,puntReturns,LONG,2005
+1161,161626,Jackie Chambers,0,253370058,South Florida,puntReturns,TD,2005
+1162,114849,Brandon Baker,2,253370058,South Florida,punting,NO,2005
+1163,114849,Brandon Baker,70,253370058,South Florida,punting,YDS,2005
+1164,114849,Brandon Baker,35.0,253370058,South Florida,punting,AVG,2005
+1165,114849,Brandon Baker,0,253370058,South Florida,punting,TB,2005
+1166,114849,Brandon Baker,0,253370058,South Florida,punting,In 20,2005
+1167,114849,Brandon Baker,37,253370058,South Florida,punting,LONG,2005
+1168,159846,Pat White,5/10,253370058,West Virginia,passing,C/ATT,2005
+1169,159846,Pat White,89,253370058,West Virginia,passing,YDS,2005
+1170,159846,Pat White,8.9,253370058,West Virginia,passing,AVG,2005
+1171,159846,Pat White,1,253370058,West Virginia,passing,TD,2005
+1172,159846,Pat White,1,253370058,West Virginia,passing,INT,2005
+1173,159846,Pat White,99.4,253370058,West Virginia,passing,QBR,2005
+1174,159846,Pat White,11,253370058,West Virginia,rushing,CAR,2005
+1175,174468,Steve Slaton,28,253370058,West Virginia,rushing,CAR,2005
+1176,169597,Owen Schmitt,5,253370058,West Virginia,rushing,CAR,2005
+1177,159846,Pat White,177,253370058,West Virginia,rushing,YDS,2005
+1178,174468,Steve Slaton,86,253370058,West Virginia,rushing,YDS,2005
+1179,169597,Owen Schmitt,42,253370058,West Virginia,rushing,YDS,2005
+1180,159846,Pat White,16.1,253370058,West Virginia,rushing,AVG,2005
+1181,174468,Steve Slaton,3.1,253370058,West Virginia,rushing,AVG,2005
+1182,169597,Owen Schmitt,8.4,253370058,West Virginia,rushing,AVG,2005
+1183,159846,Pat White,2,253370058,West Virginia,rushing,TD,2005
+1184,174468,Steve Slaton,1,253370058,West Virginia,rushing,TD,2005
+1185,169597,Owen Schmitt,0,253370058,West Virginia,rushing,TD,2005
+1186,159846,Pat White,76,253370058,West Virginia,rushing,LONG,2005
+1187,174468,Steve Slaton,26,253370058,West Virginia,rushing,LONG,2005
+1188,169597,Owen Schmitt,16,253370058,West Virginia,rushing,LONG,2005
+1189,159840,Darius Reynaud,3,253370058,West Virginia,receiving,REC,2005
+1190,134803,Rayshawn Bolden,1,253370058,West Virginia,receiving,REC,2005
+1191,146475,Brandon Myles,1,253370058,West Virginia,receiving,REC,2005
+1192,159840,Darius Reynaud,39,253370058,West Virginia,receiving,YDS,2005
+1193,134803,Rayshawn Bolden,33,253370058,West Virginia,receiving,YDS,2005
+1194,146475,Brandon Myles,17,253370058,West Virginia,receiving,YDS,2005
+1195,159840,Darius Reynaud,13.0,253370058,West Virginia,receiving,AVG,2005
+1196,134803,Rayshawn Bolden,33.0,253370058,West Virginia,receiving,AVG,2005
+1197,146475,Brandon Myles,17.0,253370058,West Virginia,receiving,AVG,2005
+1198,159840,Darius Reynaud,1,253370058,West Virginia,receiving,TD,2005
+1199,134803,Rayshawn Bolden,0,253370058,West Virginia,receiving,TD,2005
+1200,146475,Brandon Myles,0,253370058,West Virginia,receiving,TD,2005
+1201,159840,Darius Reynaud,21,253370058,West Virginia,receiving,LONG,2005
+1202,134803,Rayshawn Bolden,33,253370058,West Virginia,receiving,LONG,2005
+1203,146475,Brandon Myles,17,253370058,West Virginia,receiving,LONG,2005
+1204,116317,Jahmile Addae,1,253370058,West Virginia,interceptions,INT,2005
+1205,146556,Larry Williams,1,253370058,West Virginia,interceptions,INT,2005
+1206,168398,Dee McCann,1,253370058,West Virginia,interceptions,INT,2005
+1207,116317,Jahmile Addae,4,253370058,West Virginia,interceptions,YDS,2005
+1208,146556,Larry Williams,0,253370058,West Virginia,interceptions,YDS,2005
+1209,168398,Dee McCann,0,253370058,West Virginia,interceptions,YDS,2005
+1210,116317,Jahmile Addae,0,253370058,West Virginia,interceptions,TD,2005
+1211,146556,Larry Williams,0,253370058,West Virginia,interceptions,TD,2005
+1212,168398,Dee McCann,0,253370058,West Virginia,interceptions,TD,2005
+1213,174460,Pat McAfee,0/1,253370058,West Virginia,kicking,FG,2005
+1214,174460,Pat McAfee,0.0,253370058,West Virginia,kicking,PCT,2005
+1215,174460,Pat McAfee,0,253370058,West Virginia,kicking,LONG,2005
+1216,174460,Pat McAfee,4/4,253370058,West Virginia,kicking,XP,2005
+1217,174460,Pat McAfee,4,253370058,West Virginia,kicking,PTS,2005
+1218,136102,Phil Brady,2,253370058,West Virginia,punting,NO,2005
+1219,136102,Phil Brady,99,253370058,West Virginia,punting,YDS,2005
+1220,136102,Phil Brady,49.5,253370058,West Virginia,punting,AVG,2005
+1221,136102,Phil Brady,0,253370058,West Virginia,punting,TB,2005
+1222,136102,Phil Brady,0,253370058,West Virginia,punting,In 20,2005
+1223,136102,Phil Brady,50,253370058,West Virginia,punting,LONG,2005
+1224,161665,D.J. Hernandez,18/32,253370041,Connecticut,passing,C/ATT,2005
+1225,161665,D.J. Hernandez,255,253370041,Connecticut,passing,YDS,2005
+1226,161665,D.J. Hernandez,8.0,253370041,Connecticut,passing,AVG,2005
+1227,161665,D.J. Hernandez,3,253370041,Connecticut,passing,TD,2005
+1228,161665,D.J. Hernandez,0,253370041,Connecticut,passing,INT,2005
+1229,161665,D.J. Hernandez,51.4,253370041,Connecticut,passing,QBR,2005
+1230,161665,D.J. Hernandez,18,253370041,Connecticut,rushing,CAR,2005
+1231,161573,Lou Allen,10,253370041,Connecticut,rushing,CAR,2005
+1232,138188,Terry Caulley,9,253370041,Connecticut,rushing,CAR,2005
+1233,161682,Brandon McLean,1,253370041,Connecticut,rushing,CAR,2005
+1234,161665,D.J. Hernandez,49,253370041,Connecticut,rushing,YDS,2005
+1235,161573,Lou Allen,21,253370041,Connecticut,rushing,YDS,2005
+1236,138188,Terry Caulley,18,253370041,Connecticut,rushing,YDS,2005
+1237,161682,Brandon McLean,-1,253370041,Connecticut,rushing,YDS,2005
+1238,161665,D.J. Hernandez,2.7,253370041,Connecticut,rushing,AVG,2005
+1239,161573,Lou Allen,2.1,253370041,Connecticut,rushing,AVG,2005
+1240,138188,Terry Caulley,2.0,253370041,Connecticut,rushing,AVG,2005
+1241,161682,Brandon McLean,-1.0,253370041,Connecticut,rushing,AVG,2005
+1242,161665,D.J. Hernandez,0,253370041,Connecticut,rushing,TD,2005
+1243,161573,Lou Allen,0,253370041,Connecticut,rushing,TD,2005
+1244,138188,Terry Caulley,0,253370041,Connecticut,rushing,TD,2005
+1245,161682,Brandon McLean,0,253370041,Connecticut,rushing,TD,2005
+1246,161665,D.J. Hernandez,20,253370041,Connecticut,rushing,LONG,2005
+1247,161573,Lou Allen,9,253370041,Connecticut,rushing,LONG,2005
+1248,138188,Terry Caulley,14,253370041,Connecticut,rushing,LONG,2005
+1249,161682,Brandon McLean,0,253370041,Connecticut,rushing,LONG,2005
+1250,161641,Nollis Dewar,4,253370041,Connecticut,receiving,REC,2005
+1251,161682,Brandon McLean,2,253370041,Connecticut,receiving,REC,2005
+1252,138195,Brandon Young,4,253370041,Connecticut,receiving,REC,2005
+1253,138189,Dan Murray,4,253370041,Connecticut,receiving,REC,2005
+1254,138188,Terry Caulley,2,253370041,Connecticut,receiving,REC,2005
+1255,161641,Nollis Dewar,89,253370041,Connecticut,receiving,YDS,2005
+1256,161682,Brandon McLean,61,253370041,Connecticut,receiving,YDS,2005
+1257,138195,Brandon Young,57,253370041,Connecticut,receiving,YDS,2005
+1258,138189,Dan Murray,24,253370041,Connecticut,receiving,YDS,2005
+1259,138188,Terry Caulley,5,253370041,Connecticut,receiving,YDS,2005
+1260,161641,Nollis Dewar,22.3,253370041,Connecticut,receiving,AVG,2005
+1261,161682,Brandon McLean,30.5,253370041,Connecticut,receiving,AVG,2005
+1262,138195,Brandon Young,14.3,253370041,Connecticut,receiving,AVG,2005
+1263,138189,Dan Murray,6.0,253370041,Connecticut,receiving,AVG,2005
+1264,138188,Terry Caulley,2.5,253370041,Connecticut,receiving,AVG,2005
+1265,161641,Nollis Dewar,1,253370041,Connecticut,receiving,TD,2005
+1266,161682,Brandon McLean,0,253370041,Connecticut,receiving,TD,2005
+1267,138195,Brandon Young,1,253370041,Connecticut,receiving,TD,2005
+1268,138189,Dan Murray,0,253370041,Connecticut,receiving,TD,2005
+1269,138188,Terry Caulley,0,253370041,Connecticut,receiving,TD,2005
+1270,161641,Nollis Dewar,57,253370041,Connecticut,receiving,LONG,2005
+1271,161682,Brandon McLean,57,253370041,Connecticut,receiving,LONG,2005
+1272,138195,Brandon Young,19,253370041,Connecticut,receiving,LONG,2005
+1273,138189,Dan Murray,14,253370041,Connecticut,receiving,LONG,2005
+1274,138188,Terry Caulley,6,253370041,Connecticut,receiving,LONG,2005
+1275,150886,Marvin Taylor,1,253370041,Connecticut,interceptions,INT,2005
+1276,150886,Marvin Taylor,0,253370041,Connecticut,interceptions,YDS,2005
+1277,150886,Marvin Taylor,0,253370041,Connecticut,interceptions,TD,2005
+1278,174891,Anthony Rouzier,1,253370041,Connecticut,puntReturns,NO,2005
+1279,161682,Brandon McLean,2,253370041,Connecticut,puntReturns,NO,2005
+1280,174891,Anthony Rouzier,13,253370041,Connecticut,puntReturns,YDS,2005
+1281,161682,Brandon McLean,0,253370041,Connecticut,puntReturns,YDS,2005
+1282,174891,Anthony Rouzier,13.0,253370041,Connecticut,puntReturns,AVG,2005
+1283,161682,Brandon McLean,0.0,253370041,Connecticut,puntReturns,AVG,2005
+1284,174891,Anthony Rouzier,13,253370041,Connecticut,puntReturns,LONG,2005
+1285,161682,Brandon McLean,0,253370041,Connecticut,puntReturns,LONG,2005
+1286,174891,Anthony Rouzier,0,253370041,Connecticut,puntReturns,TD,2005
+1287,161682,Brandon McLean,0,253370041,Connecticut,puntReturns,TD,2005
+1288,138201,Matt Nuzie,0/1,253370041,Connecticut,kicking,FG,2005
+1289,138201,Matt Nuzie,0.0,253370041,Connecticut,kicking,PCT,2005
+1290,138201,Matt Nuzie,0,253370041,Connecticut,kicking,LONG,2005
+1291,138201,Matt Nuzie,2/2,253370041,Connecticut,kicking,XP,2005
+1292,138201,Matt Nuzie,2,253370041,Connecticut,kicking,PTS,2005
+1293,150882,Chris Pavasaris,7,253370041,Connecticut,punting,NO,2005
+1294,150882,Chris Pavasaris,274,253370041,Connecticut,punting,YDS,2005
+1295,150882,Chris Pavasaris,39.1,253370041,Connecticut,punting,AVG,2005
+1296,150882,Chris Pavasaris,0,253370041,Connecticut,punting,TB,2005
+1297,150882,Chris Pavasaris,0,253370041,Connecticut,punting,In 20,2005
+1298,150882,Chris Pavasaris,60,253370041,Connecticut,punting,LONG,2005
+1299,169219,Hunter Cantwell,16/25,253370041,Louisville,passing,C/ATT,2005
+1300,169219,Hunter Cantwell,271,253370041,Louisville,passing,YDS,2005
+1301,169219,Hunter Cantwell,10.8,253370041,Louisville,passing,AVG,2005
+1302,169219,Hunter Cantwell,1,253370041,Louisville,passing,TD,2005
+1303,169219,Hunter Cantwell,1,253370041,Louisville,passing,INT,2005
+1304,169219,Hunter Cantwell,54.7,253370041,Louisville,passing,QBR,2005
+1305,149846,Michael Bush,25,253370041,Louisville,rushing,CAR,2005
+1306,169218,George Stripling,5,253370041,Louisville,rushing,CAR,2005
+1307,149910,Kolby Smith,12,253370041,Louisville,rushing,CAR,2005
+1308,169219,Hunter Cantwell,6,253370041,Louisville,rushing,CAR,2005
+1309,149846,Michael Bush,121,253370041,Louisville,rushing,YDS,2005
+1310,169218,George Stripling,67,253370041,Louisville,rushing,YDS,2005
+1311,149910,Kolby Smith,32,253370041,Louisville,rushing,YDS,2005
+1312,169219,Hunter Cantwell,-14,253370041,Louisville,rushing,YDS,2005
+1313,149846,Michael Bush,4.8,253370041,Louisville,rushing,AVG,2005
+1314,169218,George Stripling,13.4,253370041,Louisville,rushing,AVG,2005
+1315,149910,Kolby Smith,2.7,253370041,Louisville,rushing,AVG,2005
+1316,169219,Hunter Cantwell,-2.3,253370041,Louisville,rushing,AVG,2005
+1317,149846,Michael Bush,3,253370041,Louisville,rushing,TD,2005
+1318,169218,George Stripling,0,253370041,Louisville,rushing,TD,2005
+1319,149910,Kolby Smith,0,253370041,Louisville,rushing,TD,2005
+1320,169219,Hunter Cantwell,0,253370041,Louisville,rushing,TD,2005
+1321,149846,Michael Bush,17,253370041,Louisville,rushing,LONG,2005
+1322,169218,George Stripling,44,253370041,Louisville,rushing,LONG,2005
+1323,149910,Kolby Smith,8,253370041,Louisville,rushing,LONG,2005
+1324,169219,Hunter Cantwell,4,253370041,Louisville,rushing,LONG,2005
+1325,169217,Mario Urrutia,4,253370041,Louisville,receiving,REC,2005
+1326,112534,Joshua Tinch,6,253370041,Louisville,receiving,REC,2005
+1327,149854,Harry Douglas,2,253370041,Louisville,receiving,REC,2005
+1328,167395,Gary Barnidge,2,253370041,Louisville,receiving,REC,2005
+1329,123459,Montrell Jones,2,253370041,Louisville,receiving,REC,2005
+1330,169217,Mario Urrutia,94,253370041,Louisville,receiving,YDS,2005
+1331,112534,Joshua Tinch,82,253370041,Louisville,receiving,YDS,2005
+1332,149854,Harry Douglas,43,253370041,Louisville,receiving,YDS,2005
+1333,167395,Gary Barnidge,34,253370041,Louisville,receiving,YDS,2005
+1334,123459,Montrell Jones,18,253370041,Louisville,receiving,YDS,2005
+1335,169217,Mario Urrutia,23.5,253370041,Louisville,receiving,AVG,2005
+1336,112534,Joshua Tinch,13.7,253370041,Louisville,receiving,AVG,2005
+1337,149854,Harry Douglas,21.5,253370041,Louisville,receiving,AVG,2005
+1338,167395,Gary Barnidge,17.0,253370041,Louisville,receiving,AVG,2005
+1339,123459,Montrell Jones,9.0,253370041,Louisville,receiving,AVG,2005
+1340,169217,Mario Urrutia,1,253370041,Louisville,receiving,TD,2005
+1341,112534,Joshua Tinch,0,253370041,Louisville,receiving,TD,2005
+1342,149854,Harry Douglas,0,253370041,Louisville,receiving,TD,2005
+1343,167395,Gary Barnidge,0,253370041,Louisville,receiving,TD,2005
+1344,123459,Montrell Jones,0,253370041,Louisville,receiving,TD,2005
+1345,169217,Mario Urrutia,46,253370041,Louisville,receiving,LONG,2005
+1346,112534,Joshua Tinch,29,253370041,Louisville,receiving,LONG,2005
+1347,149854,Harry Douglas,36,253370041,Louisville,receiving,LONG,2005
+1348,167395,Gary Barnidge,27,253370041,Louisville,receiving,LONG,2005
+1349,123459,Montrell Jones,11,253370041,Louisville,receiving,LONG,2005
+1350,123459,Montrell Jones,4,253370041,Louisville,puntReturns,NO,2005
+1351,123459,Montrell Jones,0,253370041,Louisville,puntReturns,YDS,2005
+1352,123459,Montrell Jones,0.0,253370041,Louisville,puntReturns,AVG,2005
+1353,123459,Montrell Jones,0,253370041,Louisville,puntReturns,LONG,2005
+1354,123459,Montrell Jones,0,253370041,Louisville,puntReturns,TD,2005
+1355,157387,Arthur Carmody,1/1,253370041,Louisville,kicking,FG,2005
+1356,157387,Arthur Carmody,100.0,253370041,Louisville,kicking,PCT,2005
+1357,157387,Arthur Carmody,38,253370041,Louisville,kicking,LONG,2005
+1358,157387,Arthur Carmody,3/4,253370041,Louisville,kicking,XP,2005
+1359,157387,Arthur Carmody,6,253370041,Louisville,kicking,PTS,2005
+1360,157389,Todd Flannery,5,253370041,Louisville,punting,NO,2005
+1361,157389,Todd Flannery,200,253370041,Louisville,punting,YDS,2005
+1362,157389,Todd Flannery,40.0,253370041,Louisville,punting,AVG,2005
+1363,157389,Todd Flannery,0,253370041,Louisville,punting,TB,2005
+1364,157389,Todd Flannery,0,253370041,Louisville,punting,In 20,2005
+1365,157389,Todd Flannery,53,253370041,Louisville,punting,LONG,2005
+1366,150032,Steven Moffett,13/27,253372116,UCF,passing,C/ATT,2005
+1367,150032,Steven Moffett,190,253372116,UCF,passing,YDS,2005
+1368,150032,Steven Moffett,7.0,253372116,UCF,passing,AVG,2005
+1369,150032,Steven Moffett,1,253372116,UCF,passing,TD,2005
+1370,150032,Steven Moffett,2,253372116,UCF,passing,INT,2005
+1371,173482,Kevin Smith,15,253372116,UCF,rushing,CAR,2005
+1372,135852,Dontavius Wilcox,6,253372116,UCF,rushing,CAR,2005
+1373,173478,Jason Peters,6,253372116,UCF,rushing,CAR,2005
+1374,150032,Steven Moffett,8,253372116,UCF,rushing,CAR,2005
+1375,173482,Kevin Smith,108,253372116,UCF,rushing,YDS,2005
+1376,135852,Dontavius Wilcox,36,253372116,UCF,rushing,YDS,2005
+1377,173478,Jason Peters,15,253372116,UCF,rushing,YDS,2005
+1378,150032,Steven Moffett,-10,253372116,UCF,rushing,YDS,2005
+1379,173482,Kevin Smith,7.2,253372116,UCF,rushing,AVG,2005
+1380,135852,Dontavius Wilcox,6.0,253372116,UCF,rushing,AVG,2005
+1381,173478,Jason Peters,2.5,253372116,UCF,rushing,AVG,2005
+1382,150032,Steven Moffett,-1.3,253372116,UCF,rushing,AVG,2005
+1383,173482,Kevin Smith,1,253372116,UCF,rushing,TD,2005
+1384,135852,Dontavius Wilcox,0,253372116,UCF,rushing,TD,2005
+1385,173478,Jason Peters,0,253372116,UCF,rushing,TD,2005
+1386,150032,Steven Moffett,0,253372116,UCF,rushing,TD,2005
+1387,173482,Kevin Smith,34,253372116,UCF,rushing,LONG,2005
+1388,135852,Dontavius Wilcox,17,253372116,UCF,rushing,LONG,2005
+1389,173478,Jason Peters,5,253372116,UCF,rushing,LONG,2005
+1390,150032,Steven Moffett,7,253372116,UCF,rushing,LONG,2005
+1391,135815,Brandon Marshall,7,253372116,UCF,receiving,REC,2005
+1392,173484,Willie Thornton,1,253372116,UCF,receiving,REC,2005
+1393,116791,Darcy Johnson,2,253372116,UCF,receiving,REC,2005
+1394,173479,Rocky Ross,1,253372116,UCF,receiving,REC,2005
+1395,150015,Sergio Joachim,1,253372116,UCF,receiving,REC,2005
+1396,173482,Kevin Smith,1,253372116,UCF,receiving,REC,2005
+1397,135815,Brandon Marshall,109,253372116,UCF,receiving,YDS,2005
+1398,173484,Willie Thornton,43,253372116,UCF,receiving,YDS,2005
+1399,116791,Darcy Johnson,15,253372116,UCF,receiving,YDS,2005
+1400,173479,Rocky Ross,13,253372116,UCF,receiving,YDS,2005
+1401,150015,Sergio Joachim,7,253372116,UCF,receiving,YDS,2005
+1402,173482,Kevin Smith,3,253372116,UCF,receiving,YDS,2005
+1403,135815,Brandon Marshall,15.6,253372116,UCF,receiving,AVG,2005
+1404,173484,Willie Thornton,43.0,253372116,UCF,receiving,AVG,2005
+1405,116791,Darcy Johnson,7.5,253372116,UCF,receiving,AVG,2005
+1406,173479,Rocky Ross,13.0,253372116,UCF,receiving,AVG,2005
+1407,150015,Sergio Joachim,7.0,253372116,UCF,receiving,AVG,2005
+1408,173482,Kevin Smith,3.0,253372116,UCF,receiving,AVG,2005
+1409,135815,Brandon Marshall,0,253372116,UCF,receiving,TD,2005
+1410,173484,Willie Thornton,1,253372116,UCF,receiving,TD,2005
+1411,116791,Darcy Johnson,0,253372116,UCF,receiving,TD,2005
+1412,173479,Rocky Ross,0,253372116,UCF,receiving,TD,2005
+1413,150015,Sergio Joachim,0,253372116,UCF,receiving,TD,2005
+1414,173482,Kevin Smith,0,253372116,UCF,receiving,TD,2005
+1415,135815,Brandon Marshall,23,253372116,UCF,receiving,LONG,2005
+1416,173484,Willie Thornton,43,253372116,UCF,receiving,LONG,2005
+1417,116791,Darcy Johnson,10,253372116,UCF,receiving,LONG,2005
+1418,173479,Rocky Ross,13,253372116,UCF,receiving,LONG,2005
+1419,150015,Sergio Joachim,7,253372116,UCF,receiving,LONG,2005
+1420,173482,Kevin Smith,3,253372116,UCF,receiving,LONG,2005
+1421,173467,Joe Burnett,2,253372116,UCF,puntReturns,NO,2005
+1422,173467,Joe Burnett,82,253372116,UCF,puntReturns,YDS,2005
+1423,173467,Joe Burnett,41.0,253372116,UCF,puntReturns,AVG,2005
+1424,173467,Joe Burnett,68,253372116,UCF,puntReturns,LONG,2005
+1425,173467,Joe Burnett,1,253372116,UCF,puntReturns,TD,2005
+1426,164367,Aaron Horne,4,253372116,UCF,punting,NO,2005
+1427,164367,Aaron Horne,162,253372116,UCF,punting,YDS,2005
+1428,164367,Aaron Horne,40.5,253372116,UCF,punting,AVG,2005
+1429,164367,Aaron Horne,0,253372116,UCF,punting,TB,2005
+1430,164367,Aaron Horne,0,253372116,UCF,punting,In 20,2005
+1431,164367,Aaron Horne,45,253372116,UCF,punting,LONG,2005
+1432,147935,Paul Smith,13/20,253372116,Tulsa,passing,C/ATT,2005
+1433,147935,Paul Smith,205,253372116,Tulsa,passing,YDS,2005
+1434,147935,Paul Smith,10.3,253372116,Tulsa,passing,AVG,2005
+1435,147935,Paul Smith,2,253372116,Tulsa,passing,TD,2005
+1436,147935,Paul Smith,0,253372116,Tulsa,passing,INT,2005
+1437,140046,Uril Parrish,23,253372116,Tulsa,rushing,CAR,2005
+1438,158555,Tarrion Adams,12,253372116,Tulsa,rushing,CAR,2005
+1439,147935,Paul Smith,9,253372116,Tulsa,rushing,CAR,2005
+1440,158563,Ashlan Davis,2,253372116,Tulsa,rushing,CAR,2005
+1441,137192,Idris Moss,2,253372116,Tulsa,rushing,CAR,2005
+1442,140046,Uril Parrish,100,253372116,Tulsa,rushing,YDS,2005
+1443,158555,Tarrion Adams,84,253372116,Tulsa,rushing,YDS,2005
+1444,147935,Paul Smith,22,253372116,Tulsa,rushing,YDS,2005
+1445,158563,Ashlan Davis,-4,253372116,Tulsa,rushing,YDS,2005
+1446,137192,Idris Moss,-6,253372116,Tulsa,rushing,YDS,2005
+1447,140046,Uril Parrish,4.3,253372116,Tulsa,rushing,AVG,2005
+1448,158555,Tarrion Adams,7.0,253372116,Tulsa,rushing,AVG,2005
+1449,147935,Paul Smith,2.4,253372116,Tulsa,rushing,AVG,2005
+1450,158563,Ashlan Davis,-2.0,253372116,Tulsa,rushing,AVG,2005
+1451,137192,Idris Moss,-3.0,253372116,Tulsa,rushing,AVG,2005
+1452,140046,Uril Parrish,1,253372116,Tulsa,rushing,TD,2005
+1453,158555,Tarrion Adams,2,253372116,Tulsa,rushing,TD,2005
+1454,147935,Paul Smith,0,253372116,Tulsa,rushing,TD,2005
+1455,158563,Ashlan Davis,0,253372116,Tulsa,rushing,TD,2005
+1456,137192,Idris Moss,0,253372116,Tulsa,rushing,TD,2005
+1457,140046,Uril Parrish,14,253372116,Tulsa,rushing,LONG,2005
+1458,158555,Tarrion Adams,25,253372116,Tulsa,rushing,LONG,2005
+1459,147935,Paul Smith,15,253372116,Tulsa,rushing,LONG,2005
+1460,158563,Ashlan Davis,0,253372116,Tulsa,rushing,LONG,2005
+1461,137192,Idris Moss,0,253372116,Tulsa,rushing,LONG,2005
+1462,135169,Garrett Mills,8,253372116,Tulsa,receiving,REC,2005
+1463,158555,Tarrion Adams,2,253372116,Tulsa,receiving,REC,2005
+1464,147945,Monroe Nichols,1,253372116,Tulsa,receiving,REC,2005
+1465,158563,Ashlan Davis,2,253372116,Tulsa,receiving,REC,2005
+1466,135169,Garrett Mills,152,253372116,Tulsa,receiving,YDS,2005
+1467,158555,Tarrion Adams,29,253372116,Tulsa,receiving,YDS,2005
+1468,147945,Monroe Nichols,14,253372116,Tulsa,receiving,YDS,2005
+1469,158563,Ashlan Davis,10,253372116,Tulsa,receiving,YDS,2005
+1470,135169,Garrett Mills,19.0,253372116,Tulsa,receiving,AVG,2005
+1471,158555,Tarrion Adams,14.5,253372116,Tulsa,receiving,AVG,2005
+1472,147945,Monroe Nichols,14.0,253372116,Tulsa,receiving,AVG,2005
+1473,158563,Ashlan Davis,5.0,253372116,Tulsa,receiving,AVG,2005
+1474,135169,Garrett Mills,1,253372116,Tulsa,receiving,TD,2005
+1475,158555,Tarrion Adams,1,253372116,Tulsa,receiving,TD,2005
+1476,147945,Monroe Nichols,0,253372116,Tulsa,receiving,TD,2005
+1477,158563,Ashlan Davis,0,253372116,Tulsa,receiving,TD,2005
+1478,135169,Garrett Mills,37,253372116,Tulsa,receiving,LONG,2005
+1479,158555,Tarrion Adams,15,253372116,Tulsa,receiving,LONG,2005
+1480,147945,Monroe Nichols,14,253372116,Tulsa,receiving,LONG,2005
+1481,158563,Ashlan Davis,8,253372116,Tulsa,receiving,LONG,2005
+1482,147938,Nick Graham,1,253372116,Tulsa,interceptions,INT,2005
+1483,158581,Roy Roberts,1,253372116,Tulsa,interceptions,INT,2005
+1484,147938,Nick Graham,58,253372116,Tulsa,interceptions,YDS,2005
+1485,158581,Roy Roberts,13,253372116,Tulsa,interceptions,YDS,2005
+1486,147938,Nick Graham,0,253372116,Tulsa,interceptions,TD,2005
+1487,158581,Roy Roberts,0,253372116,Tulsa,interceptions,TD,2005
+1488,158563,Ashlan Davis,3,253372116,Tulsa,puntReturns,NO,2005
+1489,158563,Ashlan Davis,6,253372116,Tulsa,puntReturns,YDS,2005
+1490,158563,Ashlan Davis,2.0,253372116,Tulsa,puntReturns,AVG,2005
+1491,158563,Ashlan Davis,6,253372116,Tulsa,puntReturns,LONG,2005
+1492,158563,Ashlan Davis,0,253372116,Tulsa,puntReturns,TD,2005
+1493,135160,Brad DeVault,3/3,253372116,Tulsa,kicking,FG,2005
+1494,135160,Brad DeVault,100.0,253372116,Tulsa,kicking,PCT,2005
+1495,135160,Brad DeVault,29,253372116,Tulsa,kicking,LONG,2005
+1496,135160,Brad DeVault,5/5,253372116,Tulsa,kicking,XP,2005
+1497,135160,Brad DeVault,14,253372116,Tulsa,kicking,PTS,2005
+1498,152663,Chris Kindred,5,253372116,Tulsa,punting,NO,2005
+1499,152663,Chris Kindred,184,253372116,Tulsa,punting,YDS,2005
+1500,152663,Chris Kindred,36.8,253372116,Tulsa,punting,AVG,2005
+1501,152663,Chris Kindred,0,253372116,Tulsa,punting,TB,2005
+1502,152663,Chris Kindred,0,253372116,Tulsa,punting,In 20,2005
+1503,152663,Chris Kindred,47,253372116,Tulsa,punting,LONG,2005
+1504,141839,Zac Dahman,23/35,253370349,Army,passing,C/ATT,2005
+1505,141839,Zac Dahman,255,253370349,Army,passing,YDS,2005
+1506,141839,Zac Dahman,7.3,253370349,Army,passing,AVG,2005
+1507,141839,Zac Dahman,3,253370349,Army,passing,TD,2005
+1508,141839,Zac Dahman,0,253370349,Army,passing,INT,2005
+1509,141839,Zac Dahman,88.6,253370349,Army,passing,QBR,2005
+1510,143062,Carlton Jones,22,253370349,Army,rushing,CAR,2005
+1511,150141,Scott Wesley,5,253370349,Army,rushing,CAR,2005
+1512,141839,Zac Dahman,6,253370349,Army,rushing,CAR,2005
+1513,143062,Carlton Jones,80,253370349,Army,rushing,YDS,2005
+1514,150141,Scott Wesley,9,253370349,Army,rushing,YDS,2005
+1515,141839,Zac Dahman,-4,253370349,Army,rushing,YDS,2005
+1516,143062,Carlton Jones,3.6,253370349,Army,rushing,AVG,2005
+1517,150141,Scott Wesley,1.8,253370349,Army,rushing,AVG,2005
+1518,141839,Zac Dahman,-0.7,253370349,Army,rushing,AVG,2005
+1519,143062,Carlton Jones,0,253370349,Army,rushing,TD,2005
+1520,150141,Scott Wesley,0,253370349,Army,rushing,TD,2005
+1521,141839,Zac Dahman,0,253370349,Army,rushing,TD,2005
+1522,143062,Carlton Jones,20,253370349,Army,rushing,LONG,2005
+1523,150141,Scott Wesley,7,253370349,Army,rushing,LONG,2005
+1524,141839,Zac Dahman,13,253370349,Army,rushing,LONG,2005
+1525,166675,Jeremy Trimble,6,253370349,Army,receiving,REC,2005
+1526,150167,Walter Hill,4,253370349,Army,receiving,REC,2005
+1527,143062,Carlton Jones,5,253370349,Army,receiving,REC,2005
+1528,150140,Jared Ulekowski,3,253370349,Army,receiving,REC,2005
+1529,144286,Jacob Murphy,2,253370349,Army,receiving,REC,2005
+1530,165653,Corey Anderson,2,253370349,Army,receiving,REC,2005
+1531,168538,Mike Viti,1,253370349,Army,receiving,REC,2005
+1532,166675,Jeremy Trimble,81,253370349,Army,receiving,YDS,2005
+1533,150167,Walter Hill,58,253370349,Army,receiving,YDS,2005
+1534,143062,Carlton Jones,38,253370349,Army,receiving,YDS,2005
+1535,150140,Jared Ulekowski,30,253370349,Army,receiving,YDS,2005
+1536,144286,Jacob Murphy,23,253370349,Army,receiving,YDS,2005
+1537,165653,Corey Anderson,16,253370349,Army,receiving,YDS,2005
+1538,168538,Mike Viti,9,253370349,Army,receiving,YDS,2005
+1539,166675,Jeremy Trimble,13.5,253370349,Army,receiving,AVG,2005
+1540,150167,Walter Hill,14.5,253370349,Army,receiving,AVG,2005
+1541,143062,Carlton Jones,7.6,253370349,Army,receiving,AVG,2005
+1542,150140,Jared Ulekowski,10.0,253370349,Army,receiving,AVG,2005
+1543,144286,Jacob Murphy,11.5,253370349,Army,receiving,AVG,2005
+1544,165653,Corey Anderson,8.0,253370349,Army,receiving,AVG,2005
+1545,168538,Mike Viti,9.0,253370349,Army,receiving,AVG,2005
+1546,166675,Jeremy Trimble,2,253370349,Army,receiving,TD,2005
+1547,150167,Walter Hill,0,253370349,Army,receiving,TD,2005
+1548,143062,Carlton Jones,1,253370349,Army,receiving,TD,2005
+1549,150140,Jared Ulekowski,0,253370349,Army,receiving,TD,2005
+1550,144286,Jacob Murphy,0,253370349,Army,receiving,TD,2005
+1551,165653,Corey Anderson,0,253370349,Army,receiving,TD,2005
+1552,168538,Mike Viti,0,253370349,Army,receiving,TD,2005
+1553,166675,Jeremy Trimble,30,253370349,Army,receiving,LONG,2005
+1554,150167,Walter Hill,22,253370349,Army,receiving,LONG,2005
+1555,143062,Carlton Jones,18,253370349,Army,receiving,LONG,2005
+1556,150140,Jared Ulekowski,13,253370349,Army,receiving,LONG,2005
+1557,144286,Jacob Murphy,12,253370349,Army,receiving,LONG,2005
+1558,165653,Corey Anderson,9,253370349,Army,receiving,LONG,2005
+1559,168538,Mike Viti,9,253370349,Army,receiving,LONG,2005
+1560,150141,Scott Wesley,2,253370349,Army,puntReturns,NO,2005
+1561,150141,Scott Wesley,1,253370349,Army,puntReturns,YDS,2005
+1562,150141,Scott Wesley,0.5,253370349,Army,puntReturns,AVG,2005
+1563,150141,Scott Wesley,1,253370349,Army,puntReturns,LONG,2005
+1564,150141,Scott Wesley,0,253370349,Army,puntReturns,TD,2005
+1565,150170,Justin Koenig,1/1,253370349,Army,kicking,FG,2005
+1566,150170,Justin Koenig,100.0,253370349,Army,kicking,PCT,2005
+1567,150170,Justin Koenig,32,253370349,Army,kicking,LONG,2005
+1568,150170,Justin Koenig,2/2,253370349,Army,kicking,XP,2005
+1569,150170,Justin Koenig,5,253370349,Army,kicking,PTS,2005
+1570,168578,Owen Tolson,6,253370349,Army,punting,NO,2005
+1571,168578,Owen Tolson,223,253370349,Army,punting,YDS,2005
+1572,168578,Owen Tolson,37.2,253370349,Army,punting,AVG,2005
+1573,168578,Owen Tolson,0,253370349,Army,punting,TB,2005
+1574,168578,Owen Tolson,0,253370349,Army,punting,In 20,2005
+1575,168578,Owen Tolson,47,253370349,Army,punting,LONG,2005
+1576,152588,Trey Hines,2,253370349,Navy,rushing,CAR,2005
+1577,167670,Adam Ballard,18,253370349,Navy,rushing,CAR,2005
+1578,144220,Lamar Owens,15,253370349,Navy,rushing,CAR,2005
+1579,147560,Marco Nelson,7,253370349,Navy,rushing,CAR,2005
+1580,166667,Reggie Campbell,3,253370349,Navy,rushing,CAR,2005
+1581,155651,Brian Hampton,7,253370349,Navy,rushing,CAR,2005
+1582,245366,Joey Taylor,1,253370349,Navy,rushing,CAR,2005
+1583,170990,Troy Goss,2,253370349,Navy,rushing,CAR,2005
+1584,155641,Eddie Martin Jr.,1,253370349,Navy,rushing,CAR,2005
+1585,155650,Byron McCoy,1,253370349,Navy,rushing,CAR,2005
+1586,158058,Matthew Pritchett,1,253370349,Navy,rushing,CAR,2005
+1587,167670,Adam Ballard,192,253370349,Navy,rushing,YDS,2005
+1588,144220,Lamar Owens,99,253370349,Navy,rushing,YDS,2005
+1589,147560,Marco Nelson,77,253370349,Navy,rushing,YDS,2005
+1590,166667,Reggie Campbell,60,253370349,Navy,rushing,YDS,2005
+1591,155651,Brian Hampton,37,253370349,Navy,rushing,YDS,2005
+1592,245366,Joey Taylor,9,253370349,Navy,rushing,YDS,2005
+1593,170990,Troy Goss,8,253370349,Navy,rushing,YDS,2005
+1594,155641,Eddie Martin Jr.,2,253370349,Navy,rushing,YDS,2005
+1595,155650,Byron McCoy,2,253370349,Navy,rushing,YDS,2005
+1596,158058,Matthew Pritchett,2,253370349,Navy,rushing,YDS,2005
+1597,152588,Trey Hines,2,253370349,Navy,rushing,YDS,2005
+1598,167670,Adam Ballard,10.7,253370349,Navy,rushing,AVG,2005
+1599,144220,Lamar Owens,6.6,253370349,Navy,rushing,AVG,2005
+1600,147560,Marco Nelson,11.0,253370349,Navy,rushing,AVG,2005
+1601,166667,Reggie Campbell,20.0,253370349,Navy,rushing,AVG,2005
+1602,155651,Brian Hampton,5.3,253370349,Navy,rushing,AVG,2005
+1603,245366,Joey Taylor,9.0,253370349,Navy,rushing,AVG,2005
+1604,170990,Troy Goss,4.0,253370349,Navy,rushing,AVG,2005
+1605,155641,Eddie Martin Jr.,2.0,253370349,Navy,rushing,AVG,2005
+1606,155650,Byron McCoy,2.0,253370349,Navy,rushing,AVG,2005
+1607,158058,Matthew Pritchett,2.0,253370349,Navy,rushing,AVG,2005
+1608,152588,Trey Hines,1.0,253370349,Navy,rushing,AVG,2005
+1609,167670,Adam Ballard,2,253370349,Navy,rushing,TD,2005
+1610,144220,Lamar Owens,3,253370349,Navy,rushing,TD,2005
+1611,147560,Marco Nelson,0,253370349,Navy,rushing,TD,2005
+1612,166667,Reggie Campbell,1,253370349,Navy,rushing,TD,2005
+1613,155651,Brian Hampton,0,253370349,Navy,rushing,TD,2005
+1614,245366,Joey Taylor,0,253370349,Navy,rushing,TD,2005
+1615,170990,Troy Goss,0,253370349,Navy,rushing,TD,2005
+1616,155641,Eddie Martin Jr.,0,253370349,Navy,rushing,TD,2005
+1617,155650,Byron McCoy,0,253370349,Navy,rushing,TD,2005
+1618,158058,Matthew Pritchett,0,253370349,Navy,rushing,TD,2005
+1619,152588,Trey Hines,0,253370349,Navy,rushing,TD,2005
+1620,167670,Adam Ballard,67,253370349,Navy,rushing,LONG,2005
+1621,144220,Lamar Owens,28,253370349,Navy,rushing,LONG,2005
+1622,147560,Marco Nelson,28,253370349,Navy,rushing,LONG,2005
+1623,166667,Reggie Campbell,54,253370349,Navy,rushing,LONG,2005
+1624,155651,Brian Hampton,15,253370349,Navy,rushing,LONG,2005
+1625,245366,Joey Taylor,9,253370349,Navy,rushing,LONG,2005
+1626,170990,Troy Goss,6,253370349,Navy,rushing,LONG,2005
+1627,155641,Eddie Martin Jr.,2,253370349,Navy,rushing,LONG,2005
+1628,155650,Byron McCoy,2,253370349,Navy,rushing,LONG,2005
+1629,158058,Matthew Pritchett,2,253370349,Navy,rushing,LONG,2005
+1630,152588,Trey Hines,3,253370349,Navy,rushing,LONG,2005
+1631,144220,Lamar Owens,3/5,253370349,Navy,passing,C/ATT,2005
+1632,144220,Lamar Owens,41,253370349,Navy,passing,YDS,2005
+1633,144220,Lamar Owens,8.2,253370349,Navy,passing,AVG,2005
+1634,144220,Lamar Owens,0,253370349,Navy,passing,TD,2005
+1635,144220,Lamar Owens,0,253370349,Navy,passing,INT,2005
+1636,144220,Lamar Owens,91.0,253370349,Navy,passing,QBR,2005
+1637,166667,Reggie Campbell,1,253370349,Navy,receiving,REC,2005
+1638,180788,Tyree Barnes,1,253370349,Navy,receiving,REC,2005
+1639,152589,Jason Tomlinson,1,253370349,Navy,receiving,REC,2005
+1640,166667,Reggie Campbell,21,253370349,Navy,receiving,YDS,2005
+1641,180788,Tyree Barnes,16,253370349,Navy,receiving,YDS,2005
+1642,152589,Jason Tomlinson,4,253370349,Navy,receiving,YDS,2005
+1643,166667,Reggie Campbell,21.0,253370349,Navy,receiving,AVG,2005
+1644,180788,Tyree Barnes,16.0,253370349,Navy,receiving,AVG,2005
+1645,152589,Jason Tomlinson,4.0,253370349,Navy,receiving,AVG,2005
+1646,166667,Reggie Campbell,0,253370349,Navy,receiving,TD,2005
+1647,180788,Tyree Barnes,0,253370349,Navy,receiving,TD,2005
+1648,152589,Jason Tomlinson,0,253370349,Navy,receiving,TD,2005
+1649,166667,Reggie Campbell,21,253370349,Navy,receiving,LONG,2005
+1650,180788,Tyree Barnes,16,253370349,Navy,receiving,LONG,2005
+1651,152589,Jason Tomlinson,4,253370349,Navy,receiving,LONG,2005
+1652,152589,Jason Tomlinson,2,253370349,Navy,puntReturns,NO,2005
+1653,152589,Jason Tomlinson,12,253370349,Navy,puntReturns,YDS,2005
+1654,152589,Jason Tomlinson,6.0,253370349,Navy,puntReturns,AVG,2005
+1655,152589,Jason Tomlinson,12,253370349,Navy,puntReturns,LONG,2005
+1656,152589,Jason Tomlinson,0,253370349,Navy,puntReturns,TD,2005
+1657,171261,Joey Bullen,0/0,253370349,Navy,kicking,FG,2005
+1658,171261,Joey Bullen,0.0,253370349,Navy,kicking,PCT,2005
+1659,171261,Joey Bullen,0,253370349,Navy,kicking,LONG,2005
+1660,171261,Joey Bullen,6/6,253370349,Navy,kicking,XP,2005
+1661,171261,Joey Bullen,6,253370349,Navy,kicking,PTS,2005
+1662,147619,Eric Shuey,2,253370349,Navy,punting,NO,2005
+1663,147619,Eric Shuey,68,253370349,Navy,punting,YDS,2005
+1664,147619,Eric Shuey,34.0,253370349,Navy,punting,AVG,2005
+1665,147619,Eric Shuey,0,253370349,Navy,punting,TB,2005
+1666,147619,Eric Shuey,0,253370349,Navy,punting,In 20,2005
+1667,147619,Eric Shuey,36,253370349,Navy,punting,LONG,2005
+1668,151970,Josh Padrick,22/32,253372229,Florida International,passing,C/ATT,2005
+1669,151970,Josh Padrick,314,253372229,Florida International,passing,YDS,2005
+1670,151970,Josh Padrick,9.8,253372229,Florida International,passing,AVG,2005
+1671,151970,Josh Padrick,2,253372229,Florida International,passing,TD,2005
+1672,151970,Josh Padrick,2,253372229,Florida International,passing,INT,2005
+1673,151970,Josh Padrick,79.7,253372229,Florida International,passing,QBR,2005
+1674,180848,A'mod Ned,14,253372229,Florida International,rushing,CAR,2005
+1675,160971,Ben West,7,253372229,Florida International,rushing,CAR,2005
+1676,139046,Adam Gorman,1,253372229,Florida International,rushing,CAR,2005
+1677,151970,Josh Padrick,2,253372229,Florida International,rushing,CAR,2005
+1678,180848,A'mod Ned,72,253372229,Florida International,rushing,YDS,2005
+1679,160971,Ben West,49,253372229,Florida International,rushing,YDS,2005
+1680,139046,Adam Gorman,12,253372229,Florida International,rushing,YDS,2005
+1681,151970,Josh Padrick,-9,253372229,Florida International,rushing,YDS,2005
+1682,180848,A'mod Ned,5.1,253372229,Florida International,rushing,AVG,2005
+1683,160971,Ben West,7.0,253372229,Florida International,rushing,AVG,2005
+1684,139046,Adam Gorman,12.0,253372229,Florida International,rushing,AVG,2005
+1685,151970,Josh Padrick,-4.5,253372229,Florida International,rushing,AVG,2005
+1686,180848,A'mod Ned,2,253372229,Florida International,rushing,TD,2005
+1687,160971,Ben West,0,253372229,Florida International,rushing,TD,2005
+1688,139046,Adam Gorman,0,253372229,Florida International,rushing,TD,2005
+1689,151970,Josh Padrick,1,253372229,Florida International,rushing,TD,2005
+1690,180848,A'mod Ned,20,253372229,Florida International,rushing,LONG,2005
+1691,160971,Ben West,26,253372229,Florida International,rushing,LONG,2005
+1692,139046,Adam Gorman,12,253372229,Florida International,rushing,LONG,2005
+1693,151970,Josh Padrick,1,253372229,Florida International,rushing,LONG,2005
+1694,155218,Chandler Williams,8,253372229,Florida International,receiving,REC,2005
+1695,116131,Cory McKinney,4,253372229,Florida International,receiving,REC,2005
+1696,160944,Moses Hinton,5,253372229,Florida International,receiving,REC,2005
+1697,139114,Andre Rollins,2,253372229,Florida International,receiving,REC,2005
+1698,180848,A'mod Ned,2,253372229,Florida International,receiving,REC,2005
+1699,160971,Ben West,1,253372229,Florida International,receiving,REC,2005
+1700,155218,Chandler Williams,160,253372229,Florida International,receiving,YDS,2005
+1701,116131,Cory McKinney,60,253372229,Florida International,receiving,YDS,2005
+1702,160944,Moses Hinton,55,253372229,Florida International,receiving,YDS,2005
+1703,139114,Andre Rollins,28,253372229,Florida International,receiving,YDS,2005
+1704,180848,A'mod Ned,9,253372229,Florida International,receiving,YDS,2005
+1705,160971,Ben West,2,253372229,Florida International,receiving,YDS,2005
+1706,155218,Chandler Williams,20.0,253372229,Florida International,receiving,AVG,2005
+1707,116131,Cory McKinney,15.0,253372229,Florida International,receiving,AVG,2005
+1708,160944,Moses Hinton,11.0,253372229,Florida International,receiving,AVG,2005
+1709,139114,Andre Rollins,14.0,253372229,Florida International,receiving,AVG,2005
+1710,180848,A'mod Ned,4.5,253372229,Florida International,receiving,AVG,2005
+1711,160971,Ben West,2.0,253372229,Florida International,receiving,AVG,2005
+1712,155218,Chandler Williams,0,253372229,Florida International,receiving,TD,2005
+1713,116131,Cory McKinney,2,253372229,Florida International,receiving,TD,2005
+1714,160944,Moses Hinton,0,253372229,Florida International,receiving,TD,2005
+1715,139114,Andre Rollins,0,253372229,Florida International,receiving,TD,2005
+1716,180848,A'mod Ned,0,253372229,Florida International,receiving,TD,2005
+1717,160971,Ben West,0,253372229,Florida International,receiving,TD,2005
+1718,155218,Chandler Williams,54,253372229,Florida International,receiving,LONG,2005
+1719,116131,Cory McKinney,20,253372229,Florida International,receiving,LONG,2005
+1720,160944,Moses Hinton,20,253372229,Florida International,receiving,LONG,2005
+1721,139114,Andre Rollins,16,253372229,Florida International,receiving,LONG,2005
+1722,180848,A'mod Ned,5,253372229,Florida International,receiving,LONG,2005
+1723,160971,Ben West,2,253372229,Florida International,receiving,LONG,2005
+1724,139170,James Black,1,253372229,Florida International,puntReturns,NO,2005
+1725,155218,Chandler Williams,1,253372229,Florida International,puntReturns,NO,2005
+1726,160969,Lionell Singleton,2,253372229,Florida International,puntReturns,NO,2005
+1727,139170,James Black,19,253372229,Florida International,puntReturns,YDS,2005
+1728,155218,Chandler Williams,6,253372229,Florida International,puntReturns,YDS,2005
+1729,160969,Lionell Singleton,2,253372229,Florida International,puntReturns,YDS,2005
+1730,139170,James Black,19.0,253372229,Florida International,puntReturns,AVG,2005
+1731,155218,Chandler Williams,6.0,253372229,Florida International,puntReturns,AVG,2005
+1732,160969,Lionell Singleton,1.0,253372229,Florida International,puntReturns,AVG,2005
+1733,139170,James Black,19,253372229,Florida International,puntReturns,LONG,2005
+1734,155218,Chandler Williams,6,253372229,Florida International,puntReturns,LONG,2005
+1735,160969,Lionell Singleton,2,253372229,Florida International,puntReturns,LONG,2005
+1736,139170,James Black,0,253372229,Florida International,puntReturns,TD,2005
+1737,155218,Chandler Williams,0,253372229,Florida International,puntReturns,TD,2005
+1738,160969,Lionell Singleton,0,253372229,Florida International,puntReturns,TD,2005
+1739,138907,Adam Moss,0/2,253372229,Florida International,kicking,FG,2005
+1740,138907,Adam Moss,0.0,253372229,Florida International,kicking,PCT,2005
+1741,138907,Adam Moss,0,253372229,Florida International,kicking,LONG,2005
+1742,138907,Adam Moss,5/5,253372229,Florida International,kicking,XP,2005
+1743,138907,Adam Moss,5,253372229,Florida International,kicking,PTS,2005
+1744,151969,Chris Patullo,2,253372229,Florida International,punting,NO,2005
+1745,151969,Chris Patullo,64,253372229,Florida International,punting,YDS,2005
+1746,151969,Chris Patullo,32.0,253372229,Florida International,punting,AVG,2005
+1747,151969,Chris Patullo,0,253372229,Florida International,punting,TB,2005
+1748,151969,Chris Patullo,0,253372229,Florida International,punting,In 20,2005
+1749,151969,Chris Patullo,35,253372229,Florida International,punting,LONG,2005
+1750,133314,Clint Marks,26/37,253372229,Middle Tennessee,passing,C/ATT,2005
+1751,133319,Eugene Gross,1/1,253372229,Middle Tennessee,passing,C/ATT,2005
+1752,133314,Clint Marks,297,253372229,Middle Tennessee,passing,YDS,2005
+1753,133319,Eugene Gross,19,253372229,Middle Tennessee,passing,YDS,2005
+1754,133314,Clint Marks,8.0,253372229,Middle Tennessee,passing,AVG,2005
+1755,133319,Eugene Gross,19.0,253372229,Middle Tennessee,passing,AVG,2005
+1756,133314,Clint Marks,2,253372229,Middle Tennessee,passing,TD,2005
+1757,133319,Eugene Gross,1,253372229,Middle Tennessee,passing,TD,2005
+1758,133314,Clint Marks,0,253372229,Middle Tennessee,passing,INT,2005
+1759,133319,Eugene Gross,0,253372229,Middle Tennessee,passing,INT,2005
+1760,133314,Clint Marks,85.2,253372229,Middle Tennessee,passing,QBR,2005
+1761,133319,Eugene Gross,100.0,253372229,Middle Tennessee,passing,QBR,2005
+1762,158240,Ralph King,30,253372229,Middle Tennessee,rushing,CAR,2005
+1763,179725,Bobby Williams,1,253372229,Middle Tennessee,rushing,CAR,2005
+1764,133314,Clint Marks,7,253372229,Middle Tennessee,rushing,CAR,2005
+1765,158240,Ralph King,105,253372229,Middle Tennessee,rushing,YDS,2005
+1766,179725,Bobby Williams,8,253372229,Middle Tennessee,rushing,YDS,2005
+1767,133314,Clint Marks,-6,253372229,Middle Tennessee,rushing,YDS,2005
+1768,158240,Ralph King,3.5,253372229,Middle Tennessee,rushing,AVG,2005
+1769,179725,Bobby Williams,8.0,253372229,Middle Tennessee,rushing,AVG,2005
+1770,133314,Clint Marks,-0.9,253372229,Middle Tennessee,rushing,AVG,2005
+1771,158240,Ralph King,0,253372229,Middle Tennessee,rushing,TD,2005
+1772,179725,Bobby Williams,0,253372229,Middle Tennessee,rushing,TD,2005
+1773,133314,Clint Marks,1,253372229,Middle Tennessee,rushing,TD,2005
+1774,158240,Ralph King,24,253372229,Middle Tennessee,rushing,LONG,2005
+1775,179725,Bobby Williams,8,253372229,Middle Tennessee,rushing,LONG,2005
+1776,133314,Clint Marks,8,253372229,Middle Tennessee,rushing,LONG,2005
+1777,158421,Cleannord Saintil,8,253372229,Middle Tennessee,receiving,REC,2005
+1778,148130,Taron Henry,5,253372229,Middle Tennessee,receiving,REC,2005
+1779,158417,Stephen Chicola,5,253372229,Middle Tennessee,receiving,REC,2005
+1780,179725,Bobby Williams,2,253372229,Middle Tennessee,receiving,REC,2005
+1781,133314,Clint Marks,1,253372229,Middle Tennessee,receiving,REC,2005
+1782,133319,Eugene Gross,2,253372229,Middle Tennessee,receiving,REC,2005
+1783,174006,Jonathan Grigsby,1,253372229,Middle Tennessee,receiving,REC,2005
+1784,148101,Walt Bell,1,253372229,Middle Tennessee,receiving,REC,2005
+1785,167439,Linnie Yarbrough,1,253372229,Middle Tennessee,receiving,REC,2005
+1786,158240,Ralph King,1,253372229,Middle Tennessee,receiving,REC,2005
+1787,158421,Cleannord Saintil,133,253372229,Middle Tennessee,receiving,YDS,2005
+1788,148130,Taron Henry,66,253372229,Middle Tennessee,receiving,YDS,2005
+1789,158417,Stephen Chicola,37,253372229,Middle Tennessee,receiving,YDS,2005
+1790,179725,Bobby Williams,30,253372229,Middle Tennessee,receiving,YDS,2005
+1791,133314,Clint Marks,19,253372229,Middle Tennessee,receiving,YDS,2005
+1792,133319,Eugene Gross,18,253372229,Middle Tennessee,receiving,YDS,2005
+1793,174006,Jonathan Grigsby,5,253372229,Middle Tennessee,receiving,YDS,2005
+1794,148101,Walt Bell,3,253372229,Middle Tennessee,receiving,YDS,2005
+1795,167439,Linnie Yarbrough,3,253372229,Middle Tennessee,receiving,YDS,2005
+1796,158240,Ralph King,2,253372229,Middle Tennessee,receiving,YDS,2005
+1797,158421,Cleannord Saintil,16.6,253372229,Middle Tennessee,receiving,AVG,2005
+1798,148130,Taron Henry,13.2,253372229,Middle Tennessee,receiving,AVG,2005
+1799,158417,Stephen Chicola,7.4,253372229,Middle Tennessee,receiving,AVG,2005
+1800,179725,Bobby Williams,15.0,253372229,Middle Tennessee,receiving,AVG,2005
+1801,133314,Clint Marks,19.0,253372229,Middle Tennessee,receiving,AVG,2005
+1802,133319,Eugene Gross,9.0,253372229,Middle Tennessee,receiving,AVG,2005
+1803,174006,Jonathan Grigsby,5.0,253372229,Middle Tennessee,receiving,AVG,2005
+1804,148101,Walt Bell,3.0,253372229,Middle Tennessee,receiving,AVG,2005
+1805,167439,Linnie Yarbrough,3.0,253372229,Middle Tennessee,receiving,AVG,2005
+1806,158240,Ralph King,2.0,253372229,Middle Tennessee,receiving,AVG,2005
+1807,158421,Cleannord Saintil,1,253372229,Middle Tennessee,receiving,TD,2005
+1808,148130,Taron Henry,0,253372229,Middle Tennessee,receiving,TD,2005
+1809,158417,Stephen Chicola,1,253372229,Middle Tennessee,receiving,TD,2005
+1810,179725,Bobby Williams,0,253372229,Middle Tennessee,receiving,TD,2005
+1811,133314,Clint Marks,1,253372229,Middle Tennessee,receiving,TD,2005
+1812,133319,Eugene Gross,0,253372229,Middle Tennessee,receiving,TD,2005
+1813,174006,Jonathan Grigsby,0,253372229,Middle Tennessee,receiving,TD,2005
+1814,148101,Walt Bell,0,253372229,Middle Tennessee,receiving,TD,2005
+1815,167439,Linnie Yarbrough,0,253372229,Middle Tennessee,receiving,TD,2005
+1816,158240,Ralph King,0,253372229,Middle Tennessee,receiving,TD,2005
+1817,158421,Cleannord Saintil,41,253372229,Middle Tennessee,receiving,LONG,2005
+1818,148130,Taron Henry,19,253372229,Middle Tennessee,receiving,LONG,2005
+1819,158417,Stephen Chicola,12,253372229,Middle Tennessee,receiving,LONG,2005
+1820,179725,Bobby Williams,17,253372229,Middle Tennessee,receiving,LONG,2005
+1821,133314,Clint Marks,19,253372229,Middle Tennessee,receiving,LONG,2005
+1822,133319,Eugene Gross,13,253372229,Middle Tennessee,receiving,LONG,2005
+1823,174006,Jonathan Grigsby,5,253372229,Middle Tennessee,receiving,LONG,2005
+1824,148101,Walt Bell,3,253372229,Middle Tennessee,receiving,LONG,2005
+1825,167439,Linnie Yarbrough,3,253372229,Middle Tennessee,receiving,LONG,2005
+1826,158240,Ralph King,2,253372229,Middle Tennessee,receiving,LONG,2005
+1827,170893,J.K. Sabb,1,253372229,Middle Tennessee,interceptions,INT,2005
+1828,148146,Bradley Robinson,1,253372229,Middle Tennessee,interceptions,INT,2005
+1829,170893,J.K. Sabb,13,253372229,Middle Tennessee,interceptions,YDS,2005
+1830,148146,Bradley Robinson,0,253372229,Middle Tennessee,interceptions,YDS,2005
+1831,170893,J.K. Sabb,0,253372229,Middle Tennessee,interceptions,TD,2005
+1832,148146,Bradley Robinson,0,253372229,Middle Tennessee,interceptions,TD,2005
+1833,148146,Bradley Robinson,1,253372229,Middle Tennessee,puntReturns,NO,2005
+1834,148146,Bradley Robinson,0,253372229,Middle Tennessee,puntReturns,YDS,2005
+1835,148146,Bradley Robinson,0.0,253372229,Middle Tennessee,puntReturns,AVG,2005
+1836,148146,Bradley Robinson,0,253372229,Middle Tennessee,puntReturns,LONG,2005
+1837,148146,Bradley Robinson,0,253372229,Middle Tennessee,puntReturns,TD,2005
+1838,148088,Colby Smith,1/2,253372229,Middle Tennessee,kicking,FG,2005
+1839,148088,Colby Smith,50.0,253372229,Middle Tennessee,kicking,PCT,2005
+1840,148088,Colby Smith,27,253372229,Middle Tennessee,kicking,LONG,2005
+1841,148088,Colby Smith,4/4,253372229,Middle Tennessee,kicking,XP,2005
+1842,148088,Colby Smith,7,253372229,Middle Tennessee,kicking,PTS,2005
+1843,148088,Colby Smith,4,253372229,Middle Tennessee,punting,NO,2005
+1844,148088,Colby Smith,192,253372229,Middle Tennessee,punting,YDS,2005
+1845,148088,Colby Smith,48.0,253372229,Middle Tennessee,punting,AVG,2005
+1846,148088,Colby Smith,0,253372229,Middle Tennessee,punting,TB,2005
+1847,148088,Colby Smith,0,253372229,Middle Tennessee,punting,In 20,2005
+1848,148088,Colby Smith,54,253372229,Middle Tennessee,punting,LONG,2005
+1849,145275,Colt Brennan,25/37,253370062,Hawai'i,passing,C/ATT,2005
+1850,160583,Tyler Graunke,0/1,253370062,Hawai'i,passing,C/ATT,2005
+1851,145275,Colt Brennan,326,253370062,Hawai'i,passing,YDS,2005
+1852,160583,Tyler Graunke,0,253370062,Hawai'i,passing,YDS,2005
+1853,145275,Colt Brennan,8.8,253370062,Hawai'i,passing,AVG,2005
+1854,160583,Tyler Graunke,0.0,253370062,Hawai'i,passing,AVG,2005
+1855,145275,Colt Brennan,5,253370062,Hawai'i,passing,TD,2005
+1856,160583,Tyler Graunke,0,253370062,Hawai'i,passing,TD,2005
+1857,145275,Colt Brennan,1,253370062,Hawai'i,passing,INT,2005
+1858,160583,Tyler Graunke,0,253370062,Hawai'i,passing,INT,2005
+1859,145275,Colt Brennan,90.3,253370062,Hawai'i,passing,QBR,2005
+1860,160583,Tyler Graunke,29.3,253370062,Hawai'i,passing,QBR,2005
+1861,128893,Nate Ilaoa,15,253370062,Hawai'i,rushing,CAR,2005
+1862,188435,Reagan Maui'a,10,253370062,Hawai'i,rushing,CAR,2005
+1863,145275,Colt Brennan,10,253370062,Hawai'i,rushing,CAR,2005
+1864,160583,Tyler Graunke,2,253370062,Hawai'i,rushing,CAR,2005
+1865,128893,Nate Ilaoa,151,253370062,Hawai'i,rushing,YDS,2005
+1866,188435,Reagan Maui'a,56,253370062,Hawai'i,rushing,YDS,2005
+1867,145275,Colt Brennan,48,253370062,Hawai'i,rushing,YDS,2005
+1868,160583,Tyler Graunke,10,253370062,Hawai'i,rushing,YDS,2005
+1869,128893,Nate Ilaoa,10.1,253370062,Hawai'i,rushing,AVG,2005
+1870,188435,Reagan Maui'a,5.6,253370062,Hawai'i,rushing,AVG,2005
+1871,145275,Colt Brennan,4.8,253370062,Hawai'i,rushing,AVG,2005
+1872,160583,Tyler Graunke,5.0,253370062,Hawai'i,rushing,AVG,2005
+1873,128893,Nate Ilaoa,1,253370062,Hawai'i,rushing,TD,2005
+1874,188435,Reagan Maui'a,1,253370062,Hawai'i,rushing,TD,2005
+1875,145275,Colt Brennan,0,253370062,Hawai'i,rushing,TD,2005
+1876,160583,Tyler Graunke,0,253370062,Hawai'i,rushing,TD,2005
+1877,128893,Nate Ilaoa,25,253370062,Hawai'i,rushing,LONG,2005
+1878,188435,Reagan Maui'a,10,253370062,Hawai'i,rushing,LONG,2005
+1879,145275,Colt Brennan,19,253370062,Hawai'i,rushing,LONG,2005
+1880,160583,Tyler Graunke,11,253370062,Hawai'i,rushing,LONG,2005
+1881,128893,Nate Ilaoa,7,253370062,Hawai'i,receiving,REC,2005
+1882,170038,Davone Bess,4,253370062,Hawai'i,receiving,REC,2005
+1883,170058,Chad Mock,3,253370062,Hawai'i,receiving,REC,2005
+1884,136454,Ross Dickerson,1,253370062,Hawai'i,receiving,REC,2005
+1885,128893,Nate Ilaoa,60,253370062,Hawai'i,receiving,YDS,2005
+1886,170038,Davone Bess,42,253370062,Hawai'i,receiving,YDS,2005
+1887,170058,Chad Mock,40,253370062,Hawai'i,receiving,YDS,2005
+1888,136454,Ross Dickerson,17,253370062,Hawai'i,receiving,YDS,2005
+1889,128893,Nate Ilaoa,8.6,253370062,Hawai'i,receiving,AVG,2005
+1890,170038,Davone Bess,10.5,253370062,Hawai'i,receiving,AVG,2005
+1891,170058,Chad Mock,13.3,253370062,Hawai'i,receiving,AVG,2005
+1892,136454,Ross Dickerson,17.0,253370062,Hawai'i,receiving,AVG,2005
+1893,128893,Nate Ilaoa,1,253370062,Hawai'i,receiving,TD,2005
+1894,170038,Davone Bess,0,253370062,Hawai'i,receiving,TD,2005
+1895,170058,Chad Mock,0,253370062,Hawai'i,receiving,TD,2005
+1896,136454,Ross Dickerson,1,253370062,Hawai'i,receiving,TD,2005
+1897,128893,Nate Ilaoa,17,253370062,Hawai'i,receiving,LONG,2005
+1898,170038,Davone Bess,18,253370062,Hawai'i,receiving,LONG,2005
+1899,170058,Chad Mock,17,253370062,Hawai'i,receiving,LONG,2005
+1900,136454,Ross Dickerson,17,253370062,Hawai'i,receiving,LONG,2005
+1901,168717,Ryan Keomaka,1,253370062,Hawai'i,interceptions,INT,2005
+1902,168717,Ryan Keomaka,13,253370062,Hawai'i,interceptions,YDS,2005
+1903,168717,Ryan Keomaka,0,253370062,Hawai'i,interceptions,TD,2005
+1904,177933,Daniel Kelly,0/0,253370062,Hawai'i,kicking,FG,2005
+1905,177933,Daniel Kelly,0.0,253370062,Hawai'i,kicking,PCT,2005
+1906,177933,Daniel Kelly,0,253370062,Hawai'i,kicking,LONG,2005
+1907,177933,Daniel Kelly,7/7,253370062,Hawai'i,kicking,XP,2005
+1908,177933,Daniel Kelly,7,253370062,Hawai'i,kicking,PTS,2005
+1909,148646,Kurt Milne,2,253370062,Hawai'i,punting,NO,2005
+1910,148646,Kurt Milne,68,253370062,Hawai'i,punting,YDS,2005
+1911,148646,Kurt Milne,34.0,253370062,Hawai'i,punting,AVG,2005
+1912,148646,Kurt Milne,0,253370062,Hawai'i,punting,TB,2005
+1913,148646,Kurt Milne,0,253370062,Hawai'i,punting,In 20,2005
+1914,148646,Kurt Milne,37,253370062,Hawai'i,punting,LONG,2005
+1915,147789,Brett Swain,1,253370062,San Diego State,receiving,REC,2005
+1916,127712,Jeff Webb,13,253370062,San Diego State,receiving,REC,2005
+1917,147783,Chaz Schilens,8,253370062,San Diego State,receiving,REC,2005
+1918,168427,Lance Louis,5,253370062,San Diego State,receiving,REC,2005
+1919,135346,Robert Ortiz,3,253370062,San Diego State,receiving,REC,2005
+1920,147793,Lynell Hamilton,2,253370062,San Diego State,receiving,REC,2005
+1921,168524,Eric Miclot,1,253370062,San Diego State,receiving,REC,2005
+1922,127712,Jeff Webb,142,253370062,San Diego State,receiving,YDS,2005
+1923,147783,Chaz Schilens,119,253370062,San Diego State,receiving,YDS,2005
+1924,168427,Lance Louis,93,253370062,San Diego State,receiving,YDS,2005
+1925,135346,Robert Ortiz,39,253370062,San Diego State,receiving,YDS,2005
+1926,147793,Lynell Hamilton,14,253370062,San Diego State,receiving,YDS,2005
+1927,147789,Brett Swain,9,253370062,San Diego State,receiving,YDS,2005
+1928,168524,Eric Miclot,5,253370062,San Diego State,receiving,YDS,2005
+1929,127712,Jeff Webb,10.9,253370062,San Diego State,receiving,AVG,2005
+1930,147783,Chaz Schilens,14.9,253370062,San Diego State,receiving,AVG,2005
+1931,168427,Lance Louis,18.6,253370062,San Diego State,receiving,AVG,2005
+1932,135346,Robert Ortiz,13.0,253370062,San Diego State,receiving,AVG,2005
+1933,147793,Lynell Hamilton,7.0,253370062,San Diego State,receiving,AVG,2005
+1934,147789,Brett Swain,9.0,253370062,San Diego State,receiving,AVG,2005
+1935,168524,Eric Miclot,5.0,253370062,San Diego State,receiving,AVG,2005
+1936,127712,Jeff Webb,2,253370062,San Diego State,receiving,TD,2005
+1937,147783,Chaz Schilens,1,253370062,San Diego State,receiving,TD,2005
+1938,168427,Lance Louis,0,253370062,San Diego State,receiving,TD,2005
+1939,135346,Robert Ortiz,0,253370062,San Diego State,receiving,TD,2005
+1940,147793,Lynell Hamilton,0,253370062,San Diego State,receiving,TD,2005
+1941,147789,Brett Swain,0,253370062,San Diego State,receiving,TD,2005
+1942,168524,Eric Miclot,0,253370062,San Diego State,receiving,TD,2005
+1943,127712,Jeff Webb,37,253370062,San Diego State,receiving,LONG,2005
+1944,147783,Chaz Schilens,41,253370062,San Diego State,receiving,LONG,2005
+1945,168427,Lance Louis,44,253370062,San Diego State,receiving,LONG,2005
+1946,135346,Robert Ortiz,23,253370062,San Diego State,receiving,LONG,2005
+1947,147793,Lynell Hamilton,7,253370062,San Diego State,receiving,LONG,2005
+1948,147789,Brett Swain,9,253370062,San Diego State,receiving,LONG,2005
+1949,168524,Eric Miclot,5,253370062,San Diego State,receiving,LONG,2005
+1950,147793,Lynell Hamilton,26,253370062,San Diego State,rushing,CAR,2005
+1951,147800,Brandon Bornes,5,253370062,San Diego State,rushing,CAR,2005
+1952,147793,Lynell Hamilton,110,253370062,San Diego State,rushing,YDS,2005
+1953,147800,Brandon Bornes,12,253370062,San Diego State,rushing,YDS,2005
+1954,147793,Lynell Hamilton,4.2,253370062,San Diego State,rushing,AVG,2005
+1955,147800,Brandon Bornes,2.4,253370062,San Diego State,rushing,AVG,2005
+1956,147793,Lynell Hamilton,1,253370062,San Diego State,rushing,TD,2005
+1957,147800,Brandon Bornes,0,253370062,San Diego State,rushing,TD,2005
+1958,147793,Lynell Hamilton,10,253370062,San Diego State,rushing,LONG,2005
+1959,147800,Brandon Bornes,5,253370062,San Diego State,rushing,LONG,2005
+1960,157100,Freddy Keiaho,1,253370062,San Diego State,interceptions,INT,2005
+1961,157100,Freddy Keiaho,15,253370062,San Diego State,interceptions,YDS,2005
+1962,157100,Freddy Keiaho,0,253370062,San Diego State,interceptions,TD,2005
+1963,115635,Michael Franklin,2,253370062,San Diego State,puntReturns,NO,2005
+1964,115635,Michael Franklin,0,253370062,San Diego State,puntReturns,YDS,2005
+1965,115635,Michael Franklin,0.0,253370062,San Diego State,puntReturns,AVG,2005
+1966,115635,Michael Franklin,0,253370062,San Diego State,puntReturns,LONG,2005
+1967,115635,Michael Franklin,0,253370062,San Diego State,puntReturns,TD,2005
+1968,157094,Garrett Palmer,1/1,253370062,San Diego State,kicking,FG,2005
+1969,157094,Garrett Palmer,100.0,253370062,San Diego State,kicking,PCT,2005
+1970,157094,Garrett Palmer,28,253370062,San Diego State,kicking,LONG,2005
+1971,157094,Garrett Palmer,5/5,253370062,San Diego State,kicking,XP,2005
+1972,157094,Garrett Palmer,8,253370062,San Diego State,kicking,PTS,2005
+1973,147790,Michael Hughes,2,253370062,San Diego State,punting,NO,2005
+1974,147790,Michael Hughes,93,253370062,San Diego State,punting,YDS,2005
+1975,147790,Michael Hughes,46.5,253370062,San Diego State,punting,AVG,2005
+1976,147790,Michael Hughes,0,253370062,San Diego State,punting,TB,2005
+1977,147790,Michael Hughes,0,253370062,San Diego State,punting,In 20,2005
+1978,147790,Michael Hughes,49,253370062,San Diego State,punting,LONG,2005
