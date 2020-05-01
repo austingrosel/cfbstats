@@ -8,36 +8,12 @@ import numpy as np
 import pandas as pd
 from pandas.io.json import json_normalize
 from functools import reduce
-from functions import *
+from player_functions import *
+from scrape_functions import *
 
 #####################
 ### BUILD DATASET ###
 #####################
-
-
-def scrape_game_stats(this_season):
-    print(this_season)
-    for this_season_type in ['regular', 'postseason']:
-        response = requests.get("https://api.collegefootballdata.com/games", params = {"year": this_season, 'seasonType': this_season_type})
-        games = pd.read_json(response.text)
-        if len(games) == 0:
-            print('*** Could not get games for season: {}, seasonType: {}.'.format(this_season, this_season_type))
-            continue
-        if this_season_type == 'postseason':
-            games = games[games.week < 3]
-        for this_week in games.week.unique():
-            response = requests.get("https://api.collegefootballdata.com/games/players", params = {"year": this_season, "week": this_week, 'seasonType': this_season_type})
-            try:
-                records = json_normalize(
-                  response.json(),
-                  ['teams', 'categories', 'types', 'athletes'],
-                  ['id', ['teams', 'school'], ['teams', 'categories', 'name'], ['teams', 'categories', 'types', 'name']],
-                meta_prefix='game.')
-                records['season'] = this_season
-                records = records[(records.name != ' Team') & (records['name'] != 'Team') & (records['name'] != '- Team') & (records['stat'] != '--')].reset_index(drop=True)
-                records.to_csv('data/season_stats/week_{}_stats_{}_{}.csv'.format(this_week, this_season, this_season_type))
-            except:
-                print('*** Something went wrong for season: {}, week: {}, seasonType: {}.'.format(this_season, this_week, this_season_type))
 
 
 def main():
@@ -62,14 +38,17 @@ def main():
         os.makedirs('data/season_stats/')
     if not os.path.exists('data/cum_stats/'):
         os.makedirs('data/cum_stats/')
+    if not os.path.exists('data/ratings/'):
+        os.makedirs('data/ratings/')
+    if not os.path.exists('data/roster/'):
+        os.makedirs('data/roster/')
 
     # Output the game stats into CSVs
     for this_season in seasons:
         scrape_game_stats(this_season)
+        scrape_ratings(this_season)
 
     total_records = pd.concat(map(pd.read_csv, glob.glob(os.path.join('', "data/season_stats/*.csv")))).reset_index(drop=True)
-
-    total_records = total_records.reset_index(drop=True)
     total_records['id'] = total_records.id.astype(int)
 
     s = (time.time() - data_start)/60.0
@@ -144,4 +123,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
