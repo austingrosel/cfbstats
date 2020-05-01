@@ -8,13 +8,12 @@ import numpy as np
 import pandas as pd
 from pandas.io.json import json_normalize
 from functools import reduce
-from player_functions import *
-from scrape_functions import *
+import player_functions as pf
+import scrape_functions as sf
 
 #####################
 ### BUILD DATASET ###
 #####################
-
 
 def main():
     ovr_start = time.time()
@@ -45,8 +44,8 @@ def main():
 
     # Output the game stats into CSVs
     for this_season in seasons:
-        scrape_game_stats(this_season)
-        scrape_ratings(this_season)
+        sf.scrape_game_stats(this_season)
+        sf.scrape_ratings(this_season)
 
     total_records = pd.concat(map(pd.read_csv, glob.glob(os.path.join('', "data/season_stats/*.csv")))).reset_index(drop=True)
     total_records['id'] = total_records.id.astype(int)
@@ -58,10 +57,10 @@ def main():
     ### BUILD TEAM STATS ###
     ########################
 
-    team_stats_rec = build_skill_stat_dataframe(total_records, 'rec', team_level=True)
-    team_stats_rush = build_skill_stat_dataframe(total_records, 'rush', team_level=True)
-    team_stats_pass = build_skill_stat_dataframe(total_records, 'pass', team_level=True)
-    team_stats_def = build_defensive_dataframe(total_records, True)
+    team_stats_rec = pf.build_skill_stat_dataframe(total_records, 'rec', team_level=True)
+    team_stats_rush = pf.build_skill_stat_dataframe(total_records, 'rush', team_level=True)
+    team_stats_pass = pf.build_skill_stat_dataframe(total_records, 'pass', team_level=True)
+    team_stats_def = pf.build_defensive_dataframe(total_records, True)
 
     dfs = [total_records, team_stats_pass, team_stats_rush, team_stats_rec, team_stats_def]
     team_stats = reduce(lambda left, right: pd.merge(left, right, on=['season', 'game.id', 'game.teams.school'], how='outer'), dfs).fillna(0)
@@ -70,21 +69,21 @@ def main():
     ### BUILD INDIVIDUAL STATS ###
     ##############################
 
-    passing_df = build_skill_stat_dataframe(team_stats, skill_type='pass', team_level=False)
-    rushing_df = build_skill_stat_dataframe(team_stats, skill_type='rush', team_level=False)[['id', 'season', 'rush_games', 'statCAR', 'rush_yds', 'rush_tds', 'team_statCAR', 'team_rush_yds', 'team_rush_tds']]
-    receiving_df = build_skill_stat_dataframe(team_stats, skill_type='rec', team_level=False)[['id', 'season', 'rec_games', 'statREC', 'rec_yds', 'rec_tds', 'team_attempts', 'team_statREC', 'team_rec_yds', 'team_rec_tds']]
-    punt_return_df = build_skill_stat_dataframe(team_stats, skill_type='puntReturns', team_level=False)[['id', 'season', 'statNO', 'puntReturns_yds', 'puntReturns_tds']]
-    kick_return_df = build_skill_stat_dataframe(team_stats, skill_type='kickReturns', team_level=False)[['id', 'season', 'statNO', 'kickReturns_yds', 'kickReturns_tds']]
-    def_df = build_defensive_dataframe(team_stats, team_level=False)[['id', 'season', 'def_games', 'int_games',
+    passing_df = pf.build_skill_stat_dataframe(team_stats, skill_type='pass', team_level=False)
+    rushing_df = pf.build_skill_stat_dataframe(team_stats, skill_type='rush', team_level=False)[['id', 'season', 'rush_games', 'statCAR', 'rush_yds', 'rush_tds', 'team_statCAR', 'team_rush_yds', 'team_rush_tds']]
+    receiving_df = pf.build_skill_stat_dataframe(team_stats, skill_type='rec', team_level=False)[['id', 'season', 'rec_games', 'statREC', 'rec_yds', 'rec_tds', 'team_attempts', 'team_statREC', 'team_rec_yds', 'team_rec_tds']]
+    punt_return_df = pf.build_skill_stat_dataframe(team_stats, skill_type='puntReturns', team_level=False)[['id', 'season', 'statNO', 'puntReturns_yds', 'puntReturns_tds']]
+    kick_return_df = pf.build_skill_stat_dataframe(team_stats, skill_type='kickReturns', team_level=False)[['id', 'season', 'statNO', 'kickReturns_yds', 'kickReturns_tds']]
+    def_df = pf.build_defensive_dataframe(team_stats, team_level=False)[['id', 'season', 'def_games', 'int_games',
                                                                       'defPD', 'defQB HUR', 'defSACKS',
                                                                       'defSOLO', 'defTD', 'defTFL', 'defTOT', 'defINT',
                                                                       'team_defPD', 'team_defQB HUR', 'team_defSACKS', 'team_defSOLO',
                                                                       'team_defTD', 'team_defTFL', 'team_defTOT', 'team_defINT']]
-    fumble_df = build_fumble_dataframe(team_stats)
+    fumble_df = pf.build_fumble_dataframe(team_stats)
 
     dfs = [passing_df, rushing_df, fumble_df, receiving_df, punt_return_df, kick_return_df, def_df]
     player_df = reduce(lambda left, right: pd.merge(left, right, on=['season', 'id'], how='outer'), dfs).fillna(0).astype(int)
-    player_df = player_df.assign(games=player_df.apply(how_many_games, axis=1)).rename(columns={'statNO_x': 'puntReturns', 'statNO_y': 'kickReturns'}).drop(['pass_games', 'rec_games', 'rush_games', 'int_games', 'def_games'], axis=1)
+    player_df = player_df.assign(games=player_df.apply(pf.how_many_games, axis=1)).rename(columns={'statNO_x': 'puntReturns', 'statNO_y': 'kickReturns'}).drop(['pass_games', 'rec_games', 'rush_games', 'int_games', 'def_games'], axis=1)
     player_df = total_records[['id', 'season', 'name']].drop_duplicates().merge(player_df, on=['id', 'season'], how='inner')
     del player_df['team_defINT']
     player_df.to_csv('data/cum_stats/ind_stats.csv', index=False)
@@ -93,7 +92,7 @@ def main():
     ### GET SKILL PLAYER STATS ###
     ##############################
 
-    skill_pos_df = get_position_stats(player_df, columns=['id', 'season', 'name', 'games',
+    skill_pos_df = pf.get_position_stats(player_df, columns=['id', 'season', 'name', 'games',
                               'statCAR', 'rush_yds', 'rush_tds', 'statFUM', 'team_statCAR', 'team_rush_yds', 'team_rush_tds',
                               'statREC', 'rec_yds', 'rec_tds', 'team_statREC', 'team_rec_yds', 'team_rec_tds', 'team_attempts',
                               'puntReturns', 'puntReturns_yds', 'puntReturns_tds',
@@ -104,7 +103,7 @@ def main():
     ### GET QB STATS ###
     ####################
 
-    qb_df = get_position_stats(player_df, columns=['id', 'season', 'name', 'games', 'completions', 'attempts', 'pass_yds', 'pass_tds', 'statINT',
+    qb_df = pf.get_position_stats(player_df, columns=['id', 'season', 'name', 'games', 'completions', 'attempts', 'pass_yds', 'pass_tds', 'statINT',
                        'statCAR', 'rush_yds', 'rush_tds', 'statFUM', 'team_statCAR', 'team_rush_yds', 'team_rush_tds'])
     qb_df.to_csv('data/cum_stats/qb_stats.csv', index=False)
 
@@ -112,7 +111,7 @@ def main():
     ### GET DEF PLAYER STATS ###
     ############################
 
-    def_player_df = get_position_stats(player_df, columns=['id', 'season', 'name', 'games', 
+    def_player_df = pf.get_position_stats(player_df, columns=['id', 'season', 'name', 'games', 
                                'defPD', 'defQB HUR', 'defSACKS', 'defSOLO', 'defTD', 'defTFL', 'defTOT', 'defINT',
                                'team_defPD', 'team_defQB HUR', 'team_defSACKS', 'team_defSOLO', 'team_defTD', 'team_defTFL', 'team_defTOT'])
     def_player_df.to_csv('data/cum_stats/def_stats.csv', index=False)
