@@ -31,23 +31,29 @@ def main():
         seasons = list(range(2004, 2021))
 
     # Build the necessary data folders for outputting the CSVs
-    if not os.path.exists('data/'):
-        os.makedirs('data/')
-    if not os.path.exists('data/season_stats/'):
-        os.makedirs('data/season_stats/')
-    if not os.path.exists('data/cum_stats/'):
-        os.makedirs('data/cum_stats/')
-    if not os.path.exists('data/ratings/'):
-        os.makedirs('data/ratings/')
-    if not os.path.exists('data/roster/'):
-        os.makedirs('data/roster/')
+    data_path = 'data/'
+    season_stats_path = 'data/season_stats/'
+    cum_stats_path = 'data/cum_stats/'
+    ratings_path = 'data/ratings/'
+    roster_path = 'data/roster/'
+
+    if not os.path.exists(data_path):
+        os.makedirs(data_path)
+    if not os.path.exists(season_stats_path):
+        os.makedirs(season_stats_path)
+    if not os.path.exists(cum_stats_path):
+        os.makedirs(cum_stats_path)
+    if not os.path.exists(ratings_path):
+        os.makedirs(ratings_path)
+    if not os.path.exists(roster_path):
+        os.makedirs(roster_path)
 
     # Output the game stats into CSVs
     for this_season in seasons:
-        sf.scrape_game_stats(this_season)
-        sf.scrape_ratings(this_season)
+        sf.scrape_game_stats(this_season, season_stats_path)
+        sf.scrape_ratings(this_season, ratings_path)
 
-    total_records = pd.concat(map(pd.read_csv, glob.glob(os.path.join('', "data/season_stats/*.csv")))).reset_index(drop=True)
+    total_records = pd.concat(map(pd.read_csv, glob.glob(os.path.join('', "{}*.csv".format(season_stats_path))))).reset_index(drop=True)
     total_records['id'] = total_records.id.astype(int)
 
     s = (time.time() - data_start)/60.0
@@ -60,7 +66,7 @@ def main():
     team_stats_rec = pf.build_skill_stat_dataframe(total_records, 'rec', team_level=True)
     team_stats_rush = pf.build_skill_stat_dataframe(total_records, 'rush', team_level=True)
     team_stats_pass = pf.build_skill_stat_dataframe(total_records, 'pass', team_level=True)
-    team_stats_def = pf.build_defensive_dataframe(total_records, True)
+    team_stats_def = pf.build_defensive_dataframe(total_records, team_level=True)
 
     dfs = [total_records, team_stats_pass, team_stats_rush, team_stats_rec, team_stats_def]
     team_stats = reduce(lambda left, right: pd.merge(left, right, on=['season', 'game.id', 'game.teams.school'], how='outer'), dfs).fillna(0)
@@ -86,7 +92,7 @@ def main():
     player_df = player_df.assign(games=player_df.apply(pf.how_many_games, axis=1)).rename(columns={'statNO_x': 'puntReturns', 'statNO_y': 'kickReturns'}).drop(['pass_games', 'rec_games', 'rush_games', 'int_games', 'def_games'], axis=1)
     player_df = total_records[['id', 'season', 'name']].drop_duplicates().merge(player_df, on=['id', 'season'], how='inner')
     del player_df['team_defINT']
-    player_df.to_csv('data/cum_stats/ind_stats.csv', index=False)
+    player_df.to_csv('{}ind_stats.csv'.format(cum_stats_path), index=False)
 
     ##############################
     ### GET SKILL PLAYER STATS ###
@@ -96,16 +102,14 @@ def main():
                               'statCAR', 'rush_yds', 'rush_tds', 'statFUM', 'team_statCAR', 'team_rush_yds', 'team_rush_tds',
                               'statREC', 'rec_yds', 'rec_tds', 'team_statREC', 'team_rec_yds', 'team_rec_tds', 'team_attempts',
                               'puntReturns', 'puntReturns_yds', 'puntReturns_tds',
-                              'kickReturns', 'kickReturns_yds', 'kickReturns_tds'])
-    skill_pos_df.to_csv('data/cum_stats/skill_pos_stats.csv', index=False)
+                              'kickReturns', 'kickReturns_yds', 'kickReturns_tds'], pos_type = 'skill_pos', path = cum_stats_path)
 
     ####################
     ### GET QB STATS ###
     ####################
 
     qb_df = pf.get_position_stats(player_df, columns=['id', 'season', 'name', 'games', 'completions', 'attempts', 'pass_yds', 'pass_tds', 'statINT',
-                       'statCAR', 'rush_yds', 'rush_tds', 'statFUM', 'team_statCAR', 'team_rush_yds', 'team_rush_tds'])
-    qb_df.to_csv('data/cum_stats/qb_stats.csv', index=False)
+                       'statCAR', 'rush_yds', 'rush_tds', 'statFUM', 'team_statCAR', 'team_rush_yds', 'team_rush_tds'], pos_type = 'qb', path = cum_stats_path)
 
     ############################
     ### GET DEF PLAYER STATS ###
@@ -113,8 +117,7 @@ def main():
 
     def_player_df = pf.get_position_stats(player_df, columns=['id', 'season', 'name', 'games', 
                                'defPD', 'defQB HUR', 'defSACKS', 'defSOLO', 'defTD', 'defTFL', 'defTOT', 'defINT',
-                               'team_defPD', 'team_defQB HUR', 'team_defSACKS', 'team_defSOLO', 'team_defTD', 'team_defTFL', 'team_defTOT'])
-    def_player_df.to_csv('data/cum_stats/def_stats.csv', index=False)
+                               'team_defPD', 'team_defQB HUR', 'team_defSACKS', 'team_defSOLO', 'team_defTD', 'team_defTFL', 'team_defTOT'], pos_type = 'def', path = cum_stats_path)
 
     s = (time.time() - ovr_start)/60.0
     print('*** The entire script took %.1f minutes. ***' % s)

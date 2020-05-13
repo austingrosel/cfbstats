@@ -3,11 +3,12 @@ import pandas as pd
 import numpy as np
 
 
-def get_position_stats(df, columns):
+def get_position_stats(df, columns, pos_type, path):
     df = df[columns]
     df = df.groupby(['season', 'id', 'name'])[df.columns[3:]].sum().reset_index()
     df = df.replace([np.inf, -np.inf], np.nan)
     print('len df: {}'.format(len(df)))
+    df.to_csv('{}{}_stats.csv'.format(path, pos_type), index=False)
     return df
 
 
